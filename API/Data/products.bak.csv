@@ -1,0 +1,1000 @@
+Name,Name2,Price,Deposit,VolymInml,PricePerLiter,SalesStart,Discontinued,ProductGroup,Type,Style,Packaging,SealType,Origin,OriginCountryName,Producer,Supplier,Vintage,AlcoholContent,AssortmentCode,AssortmentText,Organic,Ethical,Kosher,RawMaterialsDescription
+Renat,,204.00,,700.00,291.43,10/1/93,0,Vodka and Brännvin,Vodka,,Bottle,,,Sweden,Pernod Ricard,Pernod Ricard Sweden AB,,37.50%,FS,Fixed assortment,0,0,0,Grain.
+Valtellina Superiore,Sassella Riserva,383.00,,750.00,510.67,9/1/15,0,Red wine,,,Bottle,,Lombardy,Italy,Arpepe,Vinoliv Import AB,2015,13.50%,BS,Order goods,0,0,0,
+Viña Soledad,Tête de Cuvée Reserva,169.00,,750.00,225.33,9/1/15,0,White wine,Full-bodied & Tasty,,Bottle,Natural Cork,Rioja,Spain,Bodegas Franco-Españolas,Terrific Wines AB,2006,12.00%,BS,Order goods,0,0,0,Viura.
+Purcari,Freedom Blend,199.00,,750.00,265.33,9/1/15,0,Red wine,,,Bottle,,,Moldova,Purcari,High Coast Wine AB,2015,13.50%,BS,Order goods,0,0,0,
+Midas Golden Pilsner,,26.70,,330.00,80.91,9/1/15,0,Beer,Pale lager,Modern Style,Bottle,,,Sweden,Imperiebryggeriet AB,Imperiebryggeriet AB,,4.90%,BS,Order goods,0,0,0,
+Josés,Tequila Blanco,359.00,,700.00,512.86,9/1/15,0,Tequila and Mezcal,Tequila,,Bottle,,,Mexico,Tierra de Agaves,Fine Brands Sweden AB,,40.00%,BS,Order goods,0,0,0,
+Cognac Leyrat,Fine VS,399.00,,700.00,570.00,9/1/15,0,Cognac,,,Bottle,,Cognac,France,Domaine de chez maillard,Fine Brands Sweden AB,,40.00%,BS,Order goods,0,0,0,
+Schlappeseppel Specialität,,29.90,,330.00,90.61,9/1/15,0,Beer,Amber lager,Märzen and Viennese style,Bottle,Jumper Cork,,Germany,Schlappeseppel GmbH,Dryckesboden Sverige AB,,5.60%,BS,Order goods,0,0,0,
+Schlappeseppel,Dunkel,21.80,,330.00,66.06,9/1/15,0,Beer,Dark lager,Dim,Bottle,Cap,,Germany,Schlappeseppel GmbH,Dryckesboden Sverige AB,,5.20%,BS,Order goods,0,0,0,
+Schlappeseppel,Hefe Weissbier,28.70,,500.00,57.40,9/1/15,0,Beer,Wheat beer,Hefeweizen,Bottle,Cap,,Germany,Schlappeseppel GmbH,Dryckesboden Sverige AB,,5.50%,BS,Order goods,0,0,0,
+Schlappeseppel,Pils,21.80,,330.00,66.06,9/1/15,0,Beer,Pale lager,Pilsner - German style,Bottle,Cap,,Germany,Schlappeseppel GmbH,Dryckesboden Sverige AB,,5.10%,BS,Order goods,0,0,0,
+Schlappeseppel,Kellerbier,22.80,,330.00,69.09,9/1/15,0,Beer,Pale lager,Zwickel / Keller and landbier,Bottle,Cap,,Germany,Schlappeseppel GmbH,Dryckesboden Sverige AB,,5.50%,BS,Order goods,0,0,0,
+Valmiermuiza,Alus,32.10,,500.00,64.20,9/1/15,0,Beer,Amber lager,Märzen and Viennese style,Bottle,,,Latvia,Valmiermuiza,CCS AB,,5.20%,BS,Order goods,0,0,0,
+Château de Cazeneuve,Le Roc des Mates,270.00,,750.00,360.00,10/1/15,0,Red wine,,,Bottle,,Languedoc-Roussillon,France,Château de Cazeneuve,Sybaris - Wine & Spirits AB,2011,14.50%,BS,Order goods,1,0,0,
+Château de Cazeneuve,Les Calcaires,221.00,,750.00,294.67,10/1/15,0,Red wine,,,Bottle,,Languedoc-Roussillon,France,Château de Cazeneuve,Sybaris - Wine & Spirits AB,2013,13.50%,BS,Order goods,1,0,0,
+Kråkudden,Ljus Lager,26.90,,330.00,81.52,10/1/15,0,Beer,Pale lager,Dortmunder and Helles,Bottle,,Stockholm County,Sweden,Roslags Näsby Bryggeri,Aktiebolaget Roslags Näsby Bryggeri,,5.00%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Halmstad Brygghus,Brogatan Extra Special,22.90,,330.00,69.39,10/1/15,0,Beer,Ale British-American style,Extra Special Bitter,Bottle,,Halland County,Sweden,Halmstad Brygghus,Halmstad Brygghus AB,,5.80%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Snälleröds Jungfruns Brännvin,,219.00,,500.00,438.00,12/1/15,0,Aquavit and Spiced brännvin,Spiced spirits,,Bottle,Screw Cap,Skåne County,Sweden,Arcus Sweden AB,Arcus Sweden AB,,38.00%,BS,Order goods,1,0,0,
+This Ale Is India Pale,,27.20,,330.00,82.42,10/1/15,0,Beer,Ale British-American style,India Pale Ale (IPA),Bottle,,Skåne County,Sweden,Skelderwikens Brygghus AB,Skelderwikens Brygghus AB,,5.80%,TSLS,Local & Small-scale,0,0,0,"Pale ale and hell cara malt and hops varieties Cascade, Centennial and Citra."
+Halmstad Brygghus,Vallgatan Pale Ale,21.90,,330.00,66.36,10/1/15,0,Beer,Ale British-American style,American Pale Ale (APA),Bottle,,Halland County,Sweden,Halmstad Brygghus,Halmstad Brygghus AB,,5.50%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Würzburger Pfaffenberg,Silvaner Trocken,225.00,,750.00,300.00,10/1/15,0,White wine,,,Bottle,,Franconia,Germany,WG Bürgerspital,Sybaris - Wine & Spirits AB,2014,12.50%,BS,Order goods,0,0,0,
+Würzburger,Silvaner Trocken,185.00,,750.00,246.67,10/1/15,0,White wine,,,Bottle,,Franconia,Germany,WG Bürgerspital,Sybaris - Wine & Spirits AB,2014,11.50%,BS,Order goods,0,0,0,
+Fjäderholmarnas Monkey Business,American Pale Ale,25.90,,330.00,78.49,10/1/15,0,Beer,Ale British-American style,American Pale Ale (APA),Bottle,,Stockholm County,Sweden,Fjäderholmarnas Bryggeri,Fjäderholmarnas Bryggeri AB,,5.20%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Gran Barquero Pack,,199.00,,1125.00,176.89,12/1/15,0,Aperitif and dessert,Sherry & Montilla,Montilla,3 Bottles à 375 ml,Screw Cap,Andalusia,Spain,Pérez Barquero,We & Wine AB,,17.70%,BS,Order goods,0,0,0,Pedro Ximenez.
+Klaura,,25.60,,330.00,77.58,10/1/15,0,Beer,Amber lager,Märzen and Viennese style,Bottle,,Blekinge County,Sweden,Restaurang Skeppsgossen,Restaurang Skeppsgossen AB,,5.10%,TSLS,Local & Small-scale,0,0,0,Caramelized and hop varieties tomahawk and cascade.
+Pilimausan,,22.30,,330.00,67.58,10/1/15,0,Beer,Pale lager,Pilsner - Czech style,Bottle,,Blekinge County,Sweden,Restaurang Skeppsgossen,Restaurang Skeppsgossen AB,,4.90%,TSLS,Local & Small-scale,0,0,0,Pilsner Malt and hop varieties magnum and Sladek.
+South Plains,Burning Witches Brew,21.80,,330.00,66.06,10/1/15,0,Beer,Ale British-American style,Black IPA,Bottle,,Skåne County,Sweden,South Plains Brewing Company,South Plains Brewing Company,,7.10%,TSLS,Local & Small-scale,0,0,0,"Barley malt and hops varieties Amarillo, Simcoe and Centennial."
+Rhum Selection,Barbados,555.00,,500.00,1110.00,10/1/15,0,Rum,Dark rum,,Bottle,,,Barbados,Granqvist Beverage House AB,Granqvist Beverage House AB,,45.00%,BS,Order goods,0,0,0,
+Rhum Selection,Guatemala,555.00,,500.00,1110.00,10/1/15,0,Rum,Dark rum,,Bottle,,,Guatemala,Granqvist Beverage House AB,Granqvist Beverage House AB,,45.00%,BS,Order goods,0,0,0,
+Rhum Selection,Trinidad,555.00,,500.00,1110.00,10/1/15,0,Rum,Dark rum,,Bottle,,,Trinidad,Granqvist Beverage House AB,Granqvist Beverage House AB,,45.00%,BS,Order goods,0,0,0,
+Rhum Selection,Paraguay,599.00,,500.00,1198.00,10/1/15,0,Rum,Dark rum,,Bottle,,,Paraguay,Granqvist Beverage House AB,Granqvist Beverage House AB,,45.00%,BS,Order goods,0,0,0,
+Rhum Selection,Belize,599.00,,500.00,1198.00,10/1/15,0,Rum,Dark rum,,Bottle,,,Belize,Granqvist Beverage House AB,Granqvist Beverage House AB,,45.00%,BS,Order goods,0,0,0,
+Sterhuis Astra,White,349.00,,750.00,465.33,12/4/15,0,White wine,,,Bottle,Natural Cork,Western Cape,South Africa,Sterhuis,Vinobele AB,2009,14.00%,TSE,Temporary assortment,0,0,0,"Sauvignon blanc, chenin blanc and chardonnay."
+Croft,10 Year Old Tawny Port,229.00,,750.00,305.33,12/1/15,0,Aperitif and dessert,Port,Tawny,Bottle,Natural Cork,Douro,Portugal,Croft,Spendrups Bryggeri AB,,20.00%,BS,Order goods,0,0,0,"Touriga Nacional, Touriga Francesa, Tinto Cao, Tinta Roriz and Tinta Barroca."
+Rosso di Valtellina,,253.00,,750.00,337.33,9/1/15,0,Red wine,,,Bottle,Natural Cork,Lombardy,Italy,Arpepe,Vinoliv Import AB,2016,12.50%,BS,Order goods,0,0,0,
+Ancho Reyes,,478.00,,700.00,682.86,10/1/15,0,Liqueur,Spiced liqueur,,Bottle,,,Mexico,Licorera Ancho Reyes,AliasSmith AB,,40.00%,BS,Order goods,0,0,0,
+Escada,Touriga Nacional,89.00,,750.00,118.67,10/1/15,0,Red wine,Fruity & Tasteful,,Bottle,Screw Cap,Lisboa,Portugal,DFJ Vinhos,Fields Wine Company AB,2018,13.00%,FS,Fixed assortment,0,0,0,Touriga Nacional.
+Apothic Red,Winemaker's Blend,299.00,,3000.00,99.67,10/1/15,0,Red wine,Fruity & Tasteful,,Box,Push Button Top,California,USA,Apothic Wines,Spendrups Bryggeri AB,2017,13.50%,FS,Fixed assortment,0,0,0,
+Dailuaine,Selected by Berrys 22 Years,1771.00,,700.00,2530.00,10/1/15,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,Berry Bros & Rudd,Clydesdale AB,1992,46.00%,BS,Order goods,0,0,0,
+North British,Single Grain Selected by Berrys 18 Years,1458.00,,700.00,2082.86,10/1/15,0,Whisky,Grainwhisky,,Bottle,,Scotland,UK,Berry Bros & Rudd,Clydesdale AB,1996,56.80%,BS,Order goods,0,0,0,
+958 Santero,Cuvèe Extra Dry,89.00,,750.00,118.67,10/1/15,0,Mousserande vin,Dry white,,Bottle,,,Italy,Santero,Obrini Beverage Company AB,,11.50%,BS,Order goods,0,0,0,
+Barbera del Monferrato,Livio Pavese,115.00,,750.00,153.33,10/1/15,0,Red wine,Fruity & Tasteful,,Bottle,Natural Cork,Piedmont,Italy,Livio Pavese,Chris-Wine AB,2015,13.50%,FS,Fixed assortment,0,0,0,Barbera.
+Primus Zitsa,,169.00,,750.00,225.33,10/1/15,0,White wine,,,Bottle,,Epirus,Greece,Domaine Glinavos,O.Wines and Spirits AB,2013,12.00%,BS,Order goods,0,0,0,
+Red Velvet,,170.00,,750.00,226.67,10/1/15,0,Red wine,,,Bottle,,,Greece,Domaine Glinavos,O.Wines and Spirits AB,2013,12.50%,BS,Order goods,0,0,0,
+Debina,,139.00,,750.00,185.33,10/1/15,0,Mousserande vin,,,Bottle,,Epirus,Greece,Domaine Glinavos,O.Wines and Spirits AB,2016,12.00%,BS,Order goods,0,0,0,
+Allesverloren 1704,,95.00,,750.00,126.67,10/1/15,0,Red wine,,,Bottle,Screw Cap,Western Cape,South Africa,Allesverloren Wine Estate,janake wine group AB,2015,14.00%,BS,Order goods,0,0,0,
+MACK by Mackmyra,,349.00,,700.00,498.57,10/1/15,0,Whisky,Malt whiskey,,Bottle,Plastic,,Sweden,Mackmyra Svensk Whisky AB,Mackmyra Svensk Whisky AB,,40.00%,FS,Fixed assortment,0,0,0,
+Saint-Aubin Vieilles Vignes,Domaine Roux,259.00,,750.00,345.33,12/1/15,0,White wine,Full-bodied & Tasty,,Bottle,Natural Cork,Burgundy,France,Domaine Roux,Ward Wines AB,2018,13.00%,FS,Fixed assortment,0,0,0,Chardonnay.
+Saint-Aubin Vieilles Vignes,Domaine Roux,135.00,,375.00,360.00,12/1/15,0,White wine,Full-bodied & Tasty,,Bottle,Natural Cork,Burgundy,France,Domaine Roux,Ward Wines AB,2018,13.00%,FS,Fixed assortment,0,0,0,Chardonnay.
+Saint-Aubin La Princée,Domaine Hubert Lamy,389.00,,750.00,518.67,10/1/15,0,White wine,,,Bottle,Natural Cork,Burgundy,France,Domaine Hubert Lamy,Tryffelsvinet AB,2017,13.00%,BS,Order goods,0,0,0,
+Los Frailes,Blanc de Trilogía,165.00,,750.00,220.00,10/1/15,0,White wine,,,Bottle,Natural Cork,Valencia,Spain,Finca Los Frailes,Johan Lidby Vinhandel AB,2018,13.50%,BS,Order goods,1,0,0,
+Korlat,Syrah,222.00,,750.00,296.00,10/1/15,0,Red wine,,,Bottle,,Primorska,Croatia,Badel 1862,Triggollo Wine & Spirits AB,2011,14.50%,BS,Order goods,0,0,0,
+Ivan Dolac,Plavac Mali,237.00,,750.00,316.00,10/1/15,0,Red wine,,,Bottle,,Primorska,Croatia,Badel 1862,Triggollo Wine & Spirits AB,2009,14.00%,BS,Order goods,1,0,0,
+Los Frailes,Monastrell,120.00,,750.00,160.00,10/1/15,0,Red wine,,,Bottle,Screw Cap,Valencia,Spain,Casa Los Frailes,Johan Lidby Vinhandel AB,2018,13.50%,BS,Order goods,1,0,0,
+Glenrothes,Chapter 7 Bourbon Hogshead 17 Years,1586.00,,700.00,2265.71,10/1/15,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,Chapter 7,Clydesdale AB,1997,54.50%,BS,Order goods,0,0,0,
+Chapter 7,Peatside Port Finish 6 Years,973.00,,700.00,1390.00,10/1/15,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,Chapter 7,Clydesdale AB,2009,46.00%,BS,Order goods,0,0,0,
+José Pariente,Cuvée Especial,289.00,,750.00,385.33,10/1/15,0,White wine,,,Bottle,Natural Cork,Castile-Leon,Spain,José Pariente,Lancel AB,2013,13.50%,BS,Order goods,0,0,0,
+Chateau Ste Michelle,Riesling,119.00,,750.00,158.67,10/1/15,0,White wine,,,Bottle,Screw Cap,Washington State,USA,Chateau Ste Michelle,Vinunic AB,2018,12.50%,BS,Order goods,0,0,0,Riesling.
+Cigarra Gran Passo,Touriga Nacional Cabernet Sauvignon,89.00,,750.00,118.67,10/1/15,0,Red wine,Fruity & Tasteful,,Bottle,Screw Cap,Lisboa,Portugal,Casa Santos Lima,Giertz Vinimport AB,2017,14.00%,FS,Fixed assortment,0,0,0,Touriga Nacional and Cabernet Sauvignon.
+Sancerre Les Roches,Domaine Vacheron,249.00,,750.00,332.00,12/1/15,0,White wine,Fresh & Fruity,,Bottle,Natural Cork,Loire Valley,France,Domaine Vacheron,The WineAgency Sweden AB,2018,14.00%,FS,Fixed assortment,1,0,0,Sauvignon blanc.
+Motörhead,Whisky,666.00,,700.00,951.43,10/1/15,0,Whisky,Malt whiskey,,Bottle,Cap,,Sweden,Mackmyra Svensk Whisky AB,Brands For Fans Sweden AB,,40.00%,FS,Fixed assortment,0,0,0,Barley malt.
+Bloom,Premium London Dry Gin,449.00,,700.00,641.43,10/1/15,0,Gin and Genever,Gin,,Bottle,,,UK,G&J Distillers,Hermansson & Co AB,,40.00%,BS,Order goods,0,0,0,
+Canua,Sforzato Di Valtellina,428.00,,750.00,570.67,10/1/15,0,Red wine,,,Bottle,,Lombardy,Italy,Conti Sertoli Salis,Skrubbes Wines AB,2009,15.00%,BS,Order goods,0,0,0,
+Opihr,Oriental Spiced Gin,449.00,,700.00,641.43,10/1/15,0,Gin and Genever,Gin,,Bottle,,,UK,G&J Distillers,Hermansson & Co AB,,42.50%,BS,Order goods,0,0,0,
+Domaine Bott-Geyl,Points Cardinaux Métiss,199.00,,750.00,265.33,10/1/15,0,White wine,,,Bottle,Screw Cap,Alsace,France,Domaine Bott-Geyl,Divine AB,2017,12.50%,BS,Order goods,1,0,0,
+Brimoncourt,Extra Brut,535.00,,750.00,713.33,10/1/15,0,Mousserande vin,Dry white,,Bottle,,Champagne,France,Brimoncourt,Skrubbes Wines AB,,12.50%,BS,Order goods,0,0,0,
+Medolago Albani,Valcalepio Rosso Cabernet Sauvignon Merlot,186.00,,750.00,248.00,10/1/15,0,Red wine,,,Bottle,Natural Cork,Lombardy,Italy,Medolago Albani,Enrico Sverige AB,2014,13.00%,BS,Order goods,0,0,0,
+Frassinelli,Valdobbiadene Prosecco Superiore Millesimato,161.00,,750.00,214.67,10/1/15,0,Mousserande vin,Dry white,,Bottle,Natural Cork,Venetia,Italy,Azienda Agricola Frassinelli,Enrico Sverige AB,2014,11.50%,BS,Order goods,0,0,0,
+Ragnarök Gin,,431.00,,700.00,615.71,10/1/15,0,Gin and Genever,Gin,,Bottle,,,Sweden,Tevsjö Destilleri Järvsö AB,Tevsjö Destilleri i Järvsö AB,,44.00%,BS,Order goods,0,0,0,"Juniper, cumin, cranberries and dill."
+Schöfferhofer,Hefeweizen,16.90,,330.00,51.21,10/1/15,0,Beer,Wheat beer,Hefeweizen,Bottle,,,Germany,Radeberger Gruppe KG,TOMP Beer Wine & Spirits AB,,5.00%,BS,Order goods,0,0,0,
+Castelmare,Amarone della Valpolicella Classico,179.00,,750.00,238.67,10/1/15,0,Red wine,Spicy & Musty,,Bottle,Natural Cork,Venetia,Italy,Cantina Valpolicella Negrar,Carovin AB,2016,15.00%,FS,Fixed assortment,0,0,0,
+KooLooLoo,Cabernet Sauvignon Organic,239.00,,750.00,318.67,10/1/15,0,Red wine,,,Bottle,,California,USA,KooLooLoo Vineyards,Wine Lounge Stockholm AB,2009,14.10%,BS,Order goods,1,0,0,
+Ysabel Regina,,597.00,,700.00,852.86,10/1/15,0,Armagnac and Brandy,Brandy,,Bottle,,,Spain,Global Premium Brands,Fine Brands Sweden AB,,42.00%,BS,Order goods,0,0,0,
+KooLooLoo,Old Vine Zinfandel Organic,239.00,,750.00,318.67,10/1/15,0,Red wine,,,Bottle,,California,USA,KooLooLoo Vineyards,Wine Lounge Stockholm AB,2008,14.60%,BS,Order goods,1,0,0,
+KooLooLoo,Chardonnay Organic,239.00,,750.00,318.67,10/1/15,0,White wine,,,Bottle,,California,USA,KooLooLoo Vineyards,Wine Lounge Stockholm AB,2012,13.50%,BS,Order goods,1,0,0,
+Revolution,Cabernet Sauvignon,294.00,,750.00,392.00,10/1/15,0,Red wine,,,Bottle,,California,USA,Napa Wine Arts,Wine Lounge Stockholm AB,2011,14.20%,BS,Order goods,0,0,0,
+Rumi,Napa Valley Red,365.00,,750.00,486.67,10/1/15,0,Red wine,,,Bottle,,California,USA,RUMI Wine Company Napa,Wine Lounge Stockholm AB,2010,14.10%,BS,Order goods,0,0,0,
+Avinyó,Blanc de Noirs Cava Brut Nature Reserva,200.00,,750.00,266.67,10/1/15,0,Mousserande vin,Dry white,,Bottle,,Cava,Spain,Avinyó,Robert Rask Vinhandel,,11.50%,BS,Order goods,0,0,0,
+Lavender Creek,,345.00,,750.00,460.00,10/1/15,0,Red wine,,,Bottle,,California,USA,Napa Wine Arts,Wine Lounge Stockholm AB,2012,13.90%,BS,Order goods,0,0,0,
+Lusthof,Pinotage,149.00,,750.00,198.67,10/1/15,0,Red wine,,,Bottle,,Western Cape,South Africa,Alexander Baron von Essen,Wine Lounge Stockholm AB,2013,14.00%,BS,Order goods,0,0,0,
+Fuller's,Frontier,19.30,1.00,330.00,58.49,10/1/15,0,Beer,Pale lager,,Can,,,UK,Fuller Smith & Turner,Arvid Nordquist Vin och Sprithandel,,4.50%,BS,Order goods,0,0,0,
+Dufvenkrooks,Vinglögg,72.00,,750.00,96.00,10/1/15,0,Glögg and Glühwein,,,Bottle,,,Sweden,Spirit of Sweden,Great Brands AB,,10.00%,BS,Order goods,0,0,0,
+Muratie,Ansela van de Caab,199.00,,750.00,265.33,10/1/15,0,Red wine,,,Bottle,,Western Cape,South Africa,Muratie,Wine Lounge Stockholm AB,2012,14.50%,BS,Order goods,0,0,0,
+Herrljunga Cider,Ginger Lemon,18.50,,500.00,37.00,10/1/15,0,Cider,Sweet,,Bottle,,,Sweden,Herrljunga Cider AB,Great Brands AB,,4.00%,BS,Order goods,0,0,0,
+anCnoc,18 Years,899.00,,700.00,1284.29,10/1/15,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,The Knockdhu Distillery,TOMP Beer Wine & Spirits AB,,46.00%,BS,Order goods,0,0,0,
+Montirius Lådan,,483.00,,2250.00,214.67,10/1/15,0,Red wine,,,3 bottle à 750 ml,,,France,Domaine Montirius,TM Kvalitetsviner AB,,13.50%,BS,Order goods,1,0,0,
+Sancerre,l'Ancienne Vigne,234.00,,750.00,312.00,3/1/96,0,White wine,,,Bottle,,Loire Valley,France,Fournier Père & Fils,Carovin AB,2015,12.50%,BS,Order goods,0,0,0,
+Cinclus SC,,147.00,,750.00,196.00,10/1/15,0,White wine,,,Bottle,,,Spain,DG Viticultors,Vivona AB,2011,13.50%,BS,Order goods,0,0,0,
+DG Viticultors,Cava Brut Reserva Chardonnay,171.00,,750.00,228.00,10/1/15,0,Mousserande vin,Dry white,,Bottle,,Cava,Spain,DG Viticultors,Vivona AB,2012,12.50%,BS,Order goods,0,0,0,
+Insanely Bad Elf,,35.80,,330.00,108.49,10/1/15,0,Beer,Ale British-American style,Barley Wine,Bottle,,England,UK,Ridgeway Brewing,AB Wicked Wine Sweden,,11.20%,BS,Order goods,0,0,0,
+Von Winning,Sauvignon Blanc 2 Trocken,169.00,,750.00,225.33,11/2/15,0,White wine,,,Bottle,Screw Cap,Pfalz,Germany,Von Winning,Intermondi AB,2016,12.00%,BS,Order goods,0,0,0,
+The English Whisky Co,Clydesdale Sassicaia Cask,935.00,,700.00,1335.71,11/2/15,0,Whisky,Malt whiskey,,Bottle,,,UK,The English Whisky Co,Clydesdale AB,2007,57.10%,BS,Order goods,0,0,0,
+Explorer Vodka,,204.00,1.00,700.00,291.43,2/24/16,0,Vodka and Brännvin,Vodka,,PET-Bottle,,,International Brand,Altia Sweden AB,Altia Sweden AB,,37.50%,FS,Fixed assortment,0,0,0,Wheat.
+Explorer Vodka,Jordgubb Lime,219.00,1.00,700.00,312.86,3/1/16,0,Flavored spirits,Flavored vodka,,PET-Bottle,,,International Brand,Altia,Altia Sweden AB,,37.50%,FS,Fixed assortment,0,0,0,Cereals.
+Költur That's What She Said,Amber Ale,25.90,,330.00,78.49,11/2/15,0,Beer,Ale British-American style,Amber Ale,Bottle,,Stockholm County,Sweden,Brewing Költur,Brewing Költur AB,,5.60%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Barolo,Villaforte,199.00,,750.00,265.33,11/2/15,0,Red wine,Tight & Toned,,Bottle,Natural Cork,Piedmont,Italy,Mare Magnum,Oenoforos AB,2014,14.00%,FS,Fixed assortment,0,0,0,Nebbiolo.
+Masi Riserva Costasera,Amarone Classico,1049.00,,1500.00,699.33,12/1/15,0,Red wine,,,Magnum,Natural Cork,Venetia,Italy,Masi Agricola Spa,Vinunic AB,2006,15.50%,BS,Order goods,0,0,0,
+Rådanäs Ekologiska Pilsner,,24.90,,330.00,75.46,11/2/15,0,Beer,Pale lager,Pilsner - German style,Bottle,,Västra Götalands County,Sweden,Rådanäs Bryggeri AB,Rådanäs Bryggeri AB,,4.70%,TSLS,Local & Small-scale,1,0,0,Barley and wheat malt SMAT hops.
+Helsinge,Porter,41.80,,500.00,83.60,11/2/15,0,Beer,Porter and Stout,Imperial Porter And Stout,Bottle,,Gävleborg County,Sweden,Helsinge Ångbryggeri HB,Svensk Cater AB,2015,7.00%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Prüm Blue,Riesling Kabinett Trocken,159.00,,750.00,212.00,1/15/18,0,White wine,,,Bottle,,Moselle,Germany,S.A. Prüm,Spendrups Bryggeri AB,2017,11.50%,BS,Order goods,0,0,0,
+Chianti,Castelsina Riserva,109.00,,750.00,145.33,1/15/18,0,Red wine,Spicy & Musty,,Bottle,Natural Cork,Tuscany,Italy,Cantina Senesi Aretini,Fields Wine Company AB,2015,13.50%,BS,Order goods,0,0,0,Sangiovese.
+AIX,Rosé,289.00,,1500.00,192.67,1/15/18,0,Rose wine,,,Magnum,Screw Cap,Provence,France,SRL Maison Saint Aix,We & Wine AB,2017,13.00%,BS,Order goods,0,0,0,
+Ferra,Soave Classico,149.00,,750.00,198.67,1/15/18,0,White wine,,,Bottle,,Venetia,Italy,Guerrieri Rizzardi,Sigva AB,2016,13.00%,BS,Order goods,0,0,0,
+Chateau Maucoil,Côtes du Rhône Villages Blanc,156.00,,750.00,208.00,1/16/18,0,White wine,,,Bottle,,Rhone Valley,France,Ch. Maucoil,Carovin AB,2016,12.50%,BS,Order goods,1,0,0,
+Blue de Mer,Bernard Magrez,812.00,,3000.00,270.67,1/16/18,0,Rose wine,,,Bottle,,Languedoc-Roussillon,France,Bernard Magrez,Skrubbes Wines AB,2016,12.50%,BS,Order goods,0,0,0,
+Brewify,Red IPA,28.40,,330.00,86.06,1/22/18,0,Beer,Ale British-American style,Imperial / Double IPA,Bottle,Crown Cap,Stockholm County,Sweden,Brewify AB,Brewify AB,,7.30%,TSLS,Local & Small-scale,0,0,0,"Pale ale, cara pils-, münich-, cara- and chocolat malt and hops varieties warrior and Simcoe."
+Lioco,Laguna Pinot Noir,395.00,,750.00,526.67,1/17/18,0,Red wine,,,Bottle,Natural Cork,California,USA,Lioco,Handpicked Wines Sweden AB,2015,13.00%,BS,Order goods,0,0,0,
+Lioco,Sativa Carignan,339.00,,750.00,452.00,1/17/18,0,Red wine,,,Bottle,Natural Cork,California,USA,Lioco,Handpicked Wines Sweden AB,2015,12.50%,BS,Order goods,0,0,0,
+Farmers Market,Organic,79.00,,750.00,105.33,1/22/18,0,Red wine,Spicy & Musty,,Bottle,Natural Cork,,Italy,Winepartners Nordic AB,Winepartners Nordic AB,,14.00%,FS,Fixed assortment,1,0,0,Mainly Negroamaro and Primitivo.
+Stay,Espresso Martini Shot,199.00,,700.00,284.29,1/22/18,0,Liqueur,Other liqueur,,Bottle,,,Denmark,Spritfabriken Danmark,Spivi AB,,16.40%,BS,Order goods,0,0,0,
+Ruffino,Chianti Superiore,129.00,,750.00,172.00,1/17/18,0,Red wine,,,Bottle,,Tuscany,Italy,Ruffino,Philipson Söderberg AB,2017,14.00%,BS,Order goods,0,0,0,
+The Taste of Nebbiolo,,1116.00,,4500.00,248.00,1/17/18,0,Red wine,,,6 bottle à 750 ml,,Piedmont,Italy,Agricola Bosio srl,Malchamax AB,,14.00%,BS,Order goods,0,0,0,
+BrewDog,Indie Pale Ale,15.90,1.00,330.00,48.18,2/13/18,0,Beer,Ale British-American style,American Pale Ale (APA),Can,,,UK,BrewDog,Cask Sweden AB,,4.20%,BS,Order goods,0,0,0,"Barley malt and wheat, and hops."
+Shoot Crazy,Crocodile,129.00,,500.00,258.00,1/22/18,0,Liqueur,Other liqueur,,Bottle,,,Norway,Arcus Sweden AB,Arcus Sweden AB,,16.40%,BS,Order goods,0,0,0,
+Ysta 50/50,,28.30,0.90,500.00,56.60,12/1/15,0,Beer,Amber lager,Märzen and Viennese style,Bottle,,Skåne County,Sweden,ÖsterlenBryggarna,Anno 1953 AB,,5.00%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Rånäs Slott,Ricossa Piemonte Barbera,139.00,,750.00,185.33,11/2/15,0,Red wine,Soft & Berry,,Bottle,,Piedmont,Italy,MGM Mondo del Vino,Mondo Wine Sweden AB,2018,13.50%,BS,Order goods,0,0,0,Barbera.
+Rånäs Slott,Ricossa Roero Arneis,129.00,,750.00,172.00,11/2/15,0,White wine,Fresh & Fruity,,Bottle,,Piedmont,Italy,MGM Mondo del Vino,Mondo Wine Sweden AB,2017,13.00%,BS,Order goods,0,0,0,Arneis.
+Azuca,Chipotle och Tequilalikör,199.00,,500.00,398.00,11/2/15,0,Liqueur,Other liqueur,,Bottle,Cork Stopper,,Sweden,Galatea Spirits AB,Galatea AB,,33.00%,BS,Order goods,0,0,0,
+Grythyttan Björk,,126.00,,750.00,168.00,11/2/15,0,Aperitif and dessert,Flavored wines & fruit wines,Other Flavored Wines And Fruit Wines,Bottle,,Örebro County,Sweden,Grythyttan Vin AB,Grythyttan Vin,2012,14.00%,TSLS,Local & Small-scale,0,0,0,Birch sap.
+Rekorderlig,Jordgubb Lime,12.90,1.00,330.00,39.09,12/1/15,0,Cider,Sweet,,Can,,Kalmar County,Sweden,Åbro Bryggeri,Åbro Bryggeri,,4.50%,FS,Fixed assortment,0,0,0,"Carbonated water, pear and apple wine, sugar and flavorings."
+Kozel,Dark,16.80,,500.00,33.60,11/2/15,0,Beer,Dark lager,Dim,Bottle,,,Czech Republic,Pilsner Urquell,Asahi Brands Europe a.s. Tjeckien Filial,,3.80%,BS,Order goods,0,0,0,Barley malt.
+Langhe,Arneis Cordero di Montezemolo,226.00,,750.00,301.33,11/2/15,0,White wine,,,Bottle,,Piedmont,Italy,Cordero di Montezemolo,Carovin AB,2017,13.50%,BS,Order goods,0,0,0,
+Langhe,Nebbiolo Cordero di Montezemolo,259.00,,750.00,345.33,11/2/15,0,Red wine,,,Bottle,,Piedmont,Italy,Cordero di Montezemolo,Carovin AB,2015,14.00%,BS,Order goods,0,0,0,
+Barolo Monfalletto,Cordero di Montezemolo,479.00,,750.00,638.67,11/2/15,0,Red wine,,,Bottle,,Piedmont,Italy,Cordero di Montezemolo,Carovin AB,2012,15.00%,BS,Order goods,0,0,0,
+Barolo,Cordero di Montezemolo,719.00,,750.00,958.67,11/2/15,0,Red wine,,,Bottle,,Piedmont,Italy,Cordero di Montezemolo,Carovin AB,2012,14.50%,BS,Order goods,0,0,0,
+Vigna del Convento,,175.00,,750.00,233.33,11/2/15,0,Red wine,,,Bottle,Natural Cork,Abruzzo,Italy,Valle Reale,The WineAgency Sweden AB,2011,13.00%,BS,Order goods,1,0,0,
+Järvsö,Brännvins Glögg,165.00,,500.00,330.00,11/2/15,0,Glögg and Glühwein,,,Bottle,,Gävleborg County,Sweden,Tevsjö Destilleri Järvsö AB,Tevsjö Destilleri i Järvsö AB,,16.40%,BS,Order goods,0,0,0,
+Wemyss Malts,Kiln Embers,598.00,,700.00,854.29,11/2/15,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,Wemyss Malts,Clydesdale AB,,46.00%,BS,Order goods,0,0,0,
+Gewurztraminer,Furstentum Vieilles Vignes Grand Cru,334.00,,750.00,445.33,3/1/96,0,White wine,,,Bottle,,Alsace,France,Domaine Paul Blanck,Carovin AB,2012,13.00%,BS,Order goods,0,0,0,
+Casa del Inca,Pedro Ximénez,319.00,,750.00,425.33,11/6/15,0,Aperitif and dessert,Sherry & Montilla,Montilla,Bottle,Natural Cork,Andalusia,Spain,Equipo Navazos,Vinovativa AB,2013,15.00%,TSE,Temporary assortment,0,0,0,Pedro Ximenez.
+Wiseguy,Shiraz,159.00,,750.00,212.00,3/1/16,0,Red wine,,,Bottle,,Western Australia,Australia,Brygon Reserve Wines,Granqvist Beverage House AB,2012,15.00%,BS,Order goods,0,0,0,
+Almarada,Malbec,139.00,,750.00,185.33,3/1/16,0,Red wine,,,Bottle,,Cuyo,Argentina,Bodega Sumun,Granqvist Beverage House AB,2012,14.00%,BS,Order goods,0,0,0,
+Almarada,Chardonnay,139.00,,750.00,185.33,3/1/16,0,White wine,,,Bottle,,Cuyo,Argentina,Bodega Sumun,Granqvist Beverage House AB,2012,13.00%,BS,Order goods,0,0,0,
+Prima Edition Aquavit,Jacob Felländer,399.00,,500.00,798.00,12/1/15,0,Aquavit and Spiced brännvin,Akvavit,,Bottle,,,Sweden,Altia Sweden AB,Altia Sweden AB,,38.00%,BS,Order goods,1,0,0,
+Château de Campuget,La Sommelière Syrah,159.00,,750.00,212.00,11/2/15,0,Red wine,,,Bottle,,Rhone Valley,France,Château de Campuget,Vinunic AB,2014,13.50%,BS,Order goods,0,0,0,
+Muros de Melgaço,Alvarinho,199.00,,750.00,265.33,11/2/15,0,White wine,,,Bottle,Natural Cork,Vinho Verde,Portugal,Anselmo Mendes,Stellan Kramer AB,2017,13.00%,BS,Order goods,0,0,0,
+Minervois,Los Gals Rouge,278.00,,750.00,370.67,11/2/15,0,Red wine,,,Bottle,,Languedoc-Roussillon,France,Domaine Vordy Mayrannes,ClosProbus KB,2012,14.00%,BS,Order goods,0,0,0,
+Collita Roja,Pardas,219.00,,750.00,292.00,8/3/18,0,Red wine,Spicy & Musty,,Bottle,Natural Cork,Catalonia,Spain,Celler Pardas,Picky Drinks AB,2014,12.50%,TSE,Temporary assortment,1,0,0,Sumoll.
+Dugges,Black Currant,30.00,,330.00,90.91,12/1/15,0,Beer,Sour beer,Other Sour Beer,Bottle,,,Sweden,Dugges Bryggeri AB,Dugges Bryggeri AB,,4.50%,FS,Fixed assortment,1,0,0,"Barley malt, sugar, lactobacillus and black currant."
+Nils Oscar Alkoholfri,,15.90,,330.00,48.18,12/1/15,0,Alcohol-free,Beer,Alcohol American Pale Ale (APA),Bottle,,,Sweden,Nils Oscar AB,Nils Oscar AB,,0.40%,FSÖ,Fixed assortment,0,0,0,Barley malt and hops varieties Cascade and Amarillo.
+Delas Saint Esprit,Côtes du Rhône,229.00,,1500.00,152.67,11/2/15,0,Red wine,,,Magnum,Natural Cork,Rhone Valley,France,Delas,Ward Wines AB,2017,13.00%,BS,Order goods,0,0,0,
+Amicone,,299.00,,3000.00,99.67,11/2/15,0,Red wine,Fruity & Tasteful,,Box,Wing Pin,Venetia,Italy,Cantine di Ora,Chris-Wine AB,2016,14.50%,FS,Fixed assortment,0,0,0,"Corvina, Rondinella and Molinara."
+Amarone della Valpolicella,Mezzo Monte,279.00,,750.00,372.00,11/2/15,0,Red wine,Spicy & Musty,,Bottle,Natural Cork,Venetia,Italy,Antiche Terre Venete,WineWorld AB,2013,15.00%,BS,Order goods,1,0,0,
+Lioco Estero,Chardonnay,349.00,,750.00,465.33,10/19/18,0,White wine,Full-bodied & Tasty,,Bottle,Natural Cork,California,USA,Lioco,Handpicked Wines Sweden AB,2015,13.50%,TSE,Temporary assortment,0,0,0,Chardonnay.
+LIOCO Pinot Noir,Saveria Vineyard Santa Cruz Mountains,495.00,,750.00,660.00,10/19/18,0,Red wine,Spicy & Musty,,Bottle,Natural Cork,California,USA,Lioco,Handpicked Wines Sweden AB,2016,12.50%,TSE,Temporary assortment,0,0,0,Pinot noir.
+Guinness,West Indies Porter,25.90,,500.00,51.80,11/2/15,0,Beer,Porter and Stout,,Bottle,,,Ireland,Guinness,Carlsberg Sverige AB,,6.00%,BS,Order goods,0,0,0,
+Dolina,Rosé,96.00,,750.00,128.00,11/2/15,0,Rose wine,,,Bottle,,,Serbia,Bacina Vino,Vingården Bacina AB,2017,13.50%,BS,Order goods,0,0,0,
+The Foundation Stone,,145.00,,750.00,193.33,3/1/16,0,White wine,,,Bottle,Screw Cap,Western Cape,South Africa,Rickety Bridge Private Cellar,Samplex AB,2016,13.00%,BS,Order goods,0,0,0,"58% Chenin Blanc, 22% Grenache blanc, Roussanne 10%, 5% and 5% nouvelle viognier."
+Stoneleigh,Brut Cuvée,109.00,,750.00,145.33,3/1/16,0,Mousserande vin,Dry white,,Bottle,Natural Cork,,New Zealand,Stoneleigh Vineyards,Pernod Ricard Sweden AB,,12.50%,BS,Order goods,0,0,0,Chardonnay and Pinot Noir.
+Benedikt Baltes,Bischofsberg VDP Erste Lage,399.00,,750.00,532.00,9/21/18,0,Red wine,Spicy & Musty,,Bottle,,Franconia,Germany,Benedikt Baltes,Handpicked Wines Sweden AB,2015,13.00%,TSE,Temporary assortment,0,0,0,Spätburgunder (Pinot Noir).
+Zlatan Plavac,Hvar,229.00,,750.00,305.33,7/6/18,0,Red wine,,,Bottle,,Primorska,Croatia,Zlatan Otok,Triggollo Wine & Spirits AB,2013,14.00%,BS,Order goods,0,0,0,
+De Pietri,Lambrusco di Sorbara,79.00,,750.00,105.33,6/1/18,0,Red wine,Soft & Berry,,Bottle,Champagne Cork-Natural,Emilia Romagna,Italy,AZ AGR DE PIETRI MATTEO,LarCap AB,2017,9.50%,FS,Fixed assortment,0,0,0,Lambrusco di Sorbara.
+Belsito,Frappato,139.00,,750.00,185.33,6/1/18,0,Red wine,Spicy & Musty,,Bottle,Natural Cork,Sicily,Italy,Terre di Giurfo Srl,Quaffable Wines Sweden AB,2016,13.50%,BS,Order goods,0,0,0,Frappato.
+Canaletto,Sauvignon Blanc,89.00,,750.00,118.67,6/1/18,0,White wine,Fresh & Fruity,,Bottle,Screw Cap,Friuli-Venezia-Giulia,Italy,Casa Girelli,Giertz Vinimport AB,2018,12.50%,FS,Fixed assortment,0,0,0,Sauvignon blanc.
+Frankland Estate,Chardonnay,59.00,,750.00,78.67,6/1/18,0,White wine,,,Bottle,Screw Cap,Western Australia,Australia,Frankland Estate,Giertz Vinimport AB,2017,13.00%,BS,Order goods,0,0,0,
+Ti Amo,Zinfandel di Puglia Organic,109.00,,750.00,145.33,1/29/18,0,Red wine,,,Bottle,Natural Cork,Apulia,Italy,Cinque Segni,Brandpartners AB,2017,13.50%,BS,Order goods,1,0,0,
+Dogliani Superiore,Fabrizio Fabiani Of Azienda Conzia,159.00,,750.00,212.00,6/1/18,0,Red wine,Fruity & Tasteful,,Bottle,,Piedmont,Italy,Fabrizio Fabiani Of Azienda Conzia,Concealed Wines AB,2016,13.50%,BS,Order goods,0,0,0,Dolcetto.
+Cortes de Cima,Tinto,199.00,,750.00,265.33,11/2/15,0,Red wine,,,Bottle,Natural Cork,Alentejo,Portugal,Cortes de Cima,Amka Vinimport AB,2014,14.00%,BS,Order goods,0,0,0,
+Cortes de Cima,Incógnito Tinto,650.00,,750.00,866.67,11/2/15,0,Red wine,,,Bottle,Natural Cork,Alentejo,Portugal,Cortes de Cima,Amka Vinimport AB,2012,14.00%,BS,Order goods,0,0,0,
+Doyard Mahé,Empreinte Brut,447.00,,750.00,596.00,11/2/15,0,Mousserande vin,Dry white,,Bottle,Champagne Cork-Natural,Champagne,France,Doyard-Mahé,Amka Vinimport AB,,12.00%,BS,Order goods,0,0,0,
+Doyard Mahé,Cuvée Désir Blanc de Blancs Extra Brut,497.00,,750.00,662.67,11/2/15,0,Mousserande vin,Dry white,,Bottle,Champagne Cork-Natural,Champagne,France,Doyard-Mahé,Amka Vinimport AB,,12.00%,BS,Order goods,0,0,0,
+Zola,Chenin Blanc Chardonnay Sauvignon Blanc,199.00,,3000.00,66.33,3/1/16,0,White wine,Fresh & Fruity,,Box,Tap Screw,Western Cape,South Africa,Du Toitskloof Cellar,Iconic Wines,2019,13.00%,FS,Fixed assortment,0,1,0,"50% Chenin Blanc, 35% Chardonnay and Sauvignon Blanc 15%."
+Duval Leroy,Brut Réserve,399.00,,750.00,532.00,11/2/15,0,Mousserande vin,Dry white,,Bottle,,Champagne,France,Duval-Leroy,Moestue Grape Selections AB,,12.00%,BS,Order goods,0,0,0,
+Frassinelli,Conegliano Valdobbiadene Prosecco Superiore Extra Dry,157.00,,750.00,209.33,11/2/15,0,Mousserande vin,Dry white,,Bottle,Natural Cork,Venetia,Italy,Azienda Agricola Frassinelli,Enrico Sverige AB,,11.00%,BS,Order goods,0,0,0,
+To Øl,Garden Of Eden,29.90,,330.00,90.61,11/2/15,0,Beer,Ale British-American style,India Pale Ale (IPA),Bottle,,,International Brand,To Øl,Brill & Co AB,,6.40%,BS,Order goods,0,0,0,
+Castelvecchio,Cabernet Franc,231.00,,750.00,308.00,3/1/96,0,Red wine,,,Bottle,,Friuli-Venezia-Giulia,Italy,Castelvecchio,Carovin AB,2013,13.00%,BS,Order goods,0,0,0,
+Lapland Jojk,,3420.00,,5200.00,657.69,11/2/15,0,Aquavit and Spiced brännvin,Spiced spirits,,104 Bottles à 50 ml,,,Sweden,Svensk Vodka i Motala AB,Lapland Water AB,,32.00%,BS,Order goods,0,0,0,
+Zlatan Plavac,Grand Cru,431.00,,750.00,574.67,11/2/15,0,Red wine,,,Bottle,,Primorska,Croatia,Zlatan Otok,Triggollo Wine & Spirits AB,2010,15.00%,BS,Order goods,0,0,0,
+Planeta,Etna Rosso,199.00,,750.00,265.33,11/2/15,0,Red wine,,,Bottle,,Sicily,Italy,Planeta,Philipson Söderberg AB,2018,13.00%,BS,Order goods,0,0,0,
+Planeta,Etna Bianco,199.00,,750.00,265.33,11/2/15,0,White wine,,,Bottle,,Sicily,Italy,Planeta,Philipson Söderberg AB,2017,13.00%,BS,Order goods,0,0,0,
+Dow's,Vintage Port,849.00,,750.00,1132.00,12/4/15,0,Aperitif and dessert,Port,Vintage,Bottle,Natural Cork,Douro,Portugal,Symington Family Estates,Domaine Wines Sweden AB,2000,20.00%,TSE,Temporary assortment,0,0,0,
+Vikbo Cider,Strawberry Blueberry,11.90,1.00,330.00,36.06,3/1/16,0,Cider,Sweet,,Can,,,Sweden,Brewery International,Brewery International Sweden AB,,4.50%,BS,Order goods,0,0,0,
+Vikbo Cider,Röd Rabarber,12.90,,330.00,39.09,3/1/16,0,Cider,Sweet,,Bottle,,,Sweden,Brewery International,Brewery International Sweden AB,,4.50%,BS,Order goods,0,0,0,
+Lapostolle,Pisco,339.00,,700.00,484.29,3/1/16,0,Armagnac and Brandy,Brandy,,Bottle,,,Chile,Lapostolle,Carovin AB,2015,40.00%,BS,Order goods,0,0,0,Muscat.
+Admiral Collingwood,Navy strength handcrafted gin,449.00,,500.00,898.00,3/1/16,0,Gin and Genever,Gin,,Bottle,Cork Stopper,England,UK,Silent Pool Distillers,Galatea AB,,57.00%,BS,Order goods,0,0,0,
+Château Haut Condissas Collection Or,,1499.00,,750.00,1998.67,12/3/15,0,Red wine,,,Bottle,Natural Cork,Bordeaux,France,Domaine Rollan de By,Viña Española AB,2009,14.50%,TSE,Temporary assortment,0,0,0,
+Pasqua Famiglia Passione Sentimento Rosso,Romeo & Juliet,99.00,,750.00,132.00,11/2/15,0,Red wine,,,Bottle,,Venetia,Italy,Pasqua,Bibendum,2015,14.00%,BS,Order goods,0,0,0,
+Pasqua Famiglia Prosecco Brut,Romeo & Juliet,99.00,,750.00,132.00,11/2/15,0,Mousserande vin,Dry white,,Bottle,,Venetia,Italy,Pasqua,Bibendum,,11.00%,BS,Order goods,0,0,0,
+Pasqua Famiglia Passione Sentimento Bianco,Romeo & Juliet,99.00,,750.00,132.00,11/2/15,0,White wine,,,Bottle,,Venetia,Italy,Pasqua,Bibendum,2018,13.00%,BS,Order goods,0,0,0,
+Pasqua Prosecco,Extra Dry,39.00,,187.00,208.56,11/2/15,0,Mousserande vin,Dry white,,Bottle,,Venetia,Italy,Pasqua,Bibendum,,11.00%,BS,Order goods,0,0,0,
+Brasilberg,,724.00,,1000.00,724.00,11/2/15,0,Bitter,,,Bottle,,,Germany,Underberg,Altia Sweden AB,,42.00%,BS,Order goods,0,0,0,
+Dalwhinnie,Winters Gold,479.00,,700.00,684.29,11/2/15,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,Dalwhinnie,Diageo Sweden AB,,43.00%,BS,Order goods,0,0,0,
+Cava Vega,Medien Organic Brut,129.00,,750.00,172.00,11/2/15,0,Mousserande vin,Dry white,,Bottle,Champagne Cork-Natural,Cava,Spain,Segura Viudas,Enjoy Wine & Spirits AB,,11.50%,BS,Order goods,1,0,0,
+Aurore,Chenin blanc,179.00,,750.00,238.67,11/2/15,0,White wine,,,Bottle,,Loire Valley,France,Domaine des Grandes Esperances,Philipson Söderberg AB,2016,13.00%,BS,Order goods,0,0,0,
+Francois Montand,,109.00,,750.00,145.33,11/2/15,0,Mousserande vin,Dry white,,Bottle,,,France,Francois Montand,Provinum Vinhandel AB,,11.50%,BS,Order goods,0,0,0,Chardonnay.
+Fontaine du Clos,Côtes-du-Rhône,119.00,,750.00,158.67,11/2/15,0,Red wine,,,Bottle,,Rhone Valley,France,Domaine Fontaine Du Clos,Provinum Vinhandel AB,2017,14.00%,BS,Order goods,0,0,0,
+The Glenlivet Nàdurra,Oloroso,499.00,,700.00,712.86,11/2/15,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,The Glenlivet Distillery,Pernod Ricard Sweden AB,,60.20%,BS,Order goods,0,0,0,
+Pouilly Fumé,Domaine de Terre Blanches,229.00,,750.00,305.33,11/2/15,0,White wine,,,Bottle,,Loire Valley,France,Domaine de Terre Blanches,Philipson Söderberg AB,2018,13.00%,BS,Order goods,0,0,0,
+Sancerre,Domaine de Terre Blanches,229.00,,750.00,305.33,11/2/15,0,White wine,,,Bottle,,Loire Valley,France,Domaine de Terre Blanches,Philipson Söderberg AB,2017,13.00%,BS,Order goods,0,0,0,
+Côtes du Rhône,Les Silénes,139.00,,750.00,185.33,11/2/15,0,White wine,,,Bottle,Natural Cork,Rhone Valley,France,Le Plan des Moines,Amka Vinimport AB,2017,13.00%,BS,Order goods,0,0,0,
+Palmer,Blanc de Noirs,349.00,,750.00,465.33,11/2/15,0,Mousserande vin,Dry white,,Bottle,,Champagne,France,Palmer & Co,Oenoforos AB,,12.00%,BS,Order goods,0,0,0,Pinot noir and pinot meunier.
+Côtes du Rhône,La Borde,139.00,,750.00,185.33,11/2/15,0,Red wine,,,Bottle,Natural Cork,Rhone Valley,France,Le Plan des Moines,Amka Vinimport AB,2017,14.00%,BS,Order goods,0,0,0,
+Supernova,Malbec,179.00,,750.00,238.67,11/2/15,0,Red wine,,,Bottle,,Loire Valley,France,Domaine des Grandes Esperances,Philipson Söderberg AB,2014,12.50%,BS,Order goods,0,0,0,
+Côtes-du-Rhône-Villages,Le Pré des Suves,159.00,,750.00,212.00,11/2/15,0,Red wine,,,Bottle,Natural Cork,Rhone Valley,France,Le Plan des Moines,Amka Vinimport AB,2016,14.00%,BS,Order goods,0,0,0,
+La Cape,Le Plan des Moines,205.00,,750.00,273.33,11/2/15,0,Red wine,,,Bottle,,Rhone Valley,France,Le Plan des Moines,Amka Vinimport AB,2013,14.50%,BS,Order goods,0,0,0,
+Les Vendangeuses,Le Plan des Moines,251.00,,750.00,334.67,11/2/15,0,Red wine,,,Bottle,Natural Cork,Rhone Valley,France,Le Plan des Moines,Amka Vinimport AB,2017,14.50%,BS,Order goods,0,0,0,
+Châteauneuf-du-Pape,Les Charretons,424.00,,750.00,565.33,11/2/15,0,Red wine,,,Bottle,Natural Cork,Rhone Valley,France,Le Plan des Moines,Amka Vinimport AB,2016,14.50%,BS,Order goods,0,0,0,
+Cremant de Bourgogne,Baron Aimé,135.00,,750.00,180.00,11/2/15,0,Mousserande vin,Dry white,,Bottle,,Burgundy,France,Francois Martenot,Philipson Söderberg AB,,12.00%,BS,Order goods,0,0,0,
+Bourgogne-Hautes-Côtes de Nuits,Reine Pédauque,166.00,,750.00,221.33,11/2/15,0,Red wine,,,Bottle,,Burgundy,France,Reine Pédauque,Philipson Söderberg AB,2016,13.00%,BS,Order goods,0,0,0,
+Svedka,Vodka,195.00,,700.00,278.57,11/2/15,0,Vodka and Brännvin,Vodka,,Bottle,,,Sweden,L.O. Smith AB,Vinestor Sweden AB,,40.00%,BS,Order goods,0,0,0,
+Côte de Nuits-Villages,Reine Pédauque,209.00,,750.00,278.67,11/2/15,0,Red wine,,,Bottle,,Burgundy,France,Reine Pédauque,Philipson Söderberg AB,2014,13.00%,BS,Order goods,0,0,0,
+Langhe,Nebbiolo,259.00,,750.00,345.33,11/2/15,0,Red wine,,,Bottle,Screw Cap,Piedmont,Italy,Rivetto dal 1902,Jakobsson och Söderström AB,2014,14.00%,BS,Order goods,0,0,0,
+Barbera d'Alba,Zio Nando,339.00,,750.00,452.00,11/2/15,0,Red wine,,,Bottle,Natural Cork,Piedmont,Italy,Rivetto dal 1902,Jakobsson och Söderström AB,2013,14.50%,BS,Order goods,0,0,0,
+Sander,Weissburgunder Trocken,119.00,,750.00,158.67,11/2/15,0,White wine,,,Bottle,,Rheinhessen,Germany,Weingut Sander,Carovin AB,2015,12.50%,BS,Order goods,1,0,0,
+Barolo,Leon Riserva,859.00,,750.00,1145.33,11/2/15,0,Red wine,,,Bottle,Natural Cork,Piedmont,Italy,Rivetto dal 1902,Jakobsson och Söderström AB,2011,14.50%,BS,Order goods,0,0,0,
+Langhe,Nascetta Borea,339.00,,750.00,452.00,11/2/15,0,White wine,,,Bottle,Screw Cap,Piedmont,Italy,Rivetto dal 1902,Jakobsson och Söderström AB,2014,13.00%,BS,Order goods,0,0,0,
+Gaia,Red Blend,139.00,,750.00,185.33,11/2/15,0,Red wine,,,Bottle,,Cuyo,Argentina,Domaine Bousquet,Vinia Sweden AB,2013,14.50%,BS,Order goods,1,0,0,
+Savigny-Les-Beaunes Premier Cru Les Serpentières,Reine Pédauque,299.00,,750.00,398.67,11/2/15,0,Red wine,,,Bottle,,Burgundy,France,Reine Pédauque,Philipson Söderberg AB,2014,13.00%,BS,Order goods,0,0,0,
+Domaene Gobelsburg,Zweigelt,139.00,,750.00,185.33,11/2/15,0,Red wine,,,Bottle,,Niederösterreich,Austria,Schloss Gobelsburg,Prime Wine Sweden AB,2018,12.50%,BS,Order goods,0,0,0,
+Egly-Ouriet,Grand Cru Brut Rosé,1029.00,,750.00,1372.00,11/2/15,0,Mousserande vin,Rosé,,Bottle,Champagne Cork-Natural,Champagne,France,Egly-Ouriet,The WineAgency Sweden AB,,12.50%,BS,Order goods,0,0,0,
+Barbaresco San Stunet,Piero Busso,489.00,,750.00,652.00,11/2/15,0,Red wine,,,Bottle,Natural Cork,Piedmont,Italy,Piero Busso,Tryffelsvinet AB,2015,14.50%,BS,Order goods,0,0,0,
+Egly-Ouriet,Brut Tradition Grand Cru,649.00,,750.00,865.33,11/2/15,0,Mousserande vin,Dry white,,Bottle,Champagne Cork-Natural,Champagne,France,Egly-Ouriet,The WineAgency Sweden AB,,12.50%,BS,Order goods,0,0,0,
+Pichler-Krutzler,Grüner Veltliner Ried Klostersatz,199.00,,750.00,265.33,11/2/15,0,White wine,,,Bottle,Screw Cap,Niederösterreich,Austria,Weingut Pichler-Krutzler,The WineAgency Sweden AB,2017,12.50%,BS,Order goods,0,0,0,
+Pichler-Krutzler,Riesling Loiben,199.00,,750.00,265.33,11/2/15,0,White wine,,,Bottle,Screw Cap,Niederösterreich,Austria,Weingut Pichler-Krutzler,The WineAgency Sweden AB,2018,12.00%,BS,Order goods,0,0,0,
+Chablis,Premier Cru Fourchaume l'Eglantière Jean Durup & Fils,309.00,,750.00,412.00,11/2/15,0,White wine,,,Bottle,,Burgundy,France,Jean Durup,Hermansson & Co AB,2017,12.50%,BS,Order goods,0,0,0,
+Chablis,l'Eglantière Jean Durup & Fils,229.00,,750.00,305.33,11/2/15,0,White wine,,,Bottle,,Burgundy,France,Jean Durup,Hermansson & Co AB,2014,12.50%,BS,Order goods,0,0,0,
+Gancia,Prosecco Brut,34.00,,200.00,170.00,11/2/15,0,Mousserande vin,Dry white,,Bottle,,Venetia,Italy,F.LLI GANCIA & C SpA,Hermansson & Co AB,,11.50%,BS,Order goods,0,0,0,
+Liefmans,Goudenband,31.90,,330.00,96.67,11/2/15,0,Beer,Sour beer,Flemish Red And Brown Beers,Bottle,Crown Cap,,Belgium,Liefmans Brouwerij,Galatea AB,,8.00%,BS,Order goods,0,0,0,
+Liefmans,Kriek Brut,29.90,,330.00,90.61,11/2/15,0,Beer,Sour beer,Flemish Red And Brown Beers,Bottle,Crown Cap,,Belgium,Liefmans Brouwerij,Galatea AB,,6.00%,BS,Order goods,0,0,0,
+Ballast Point,Grapefruit Sculpin India Pale Ale,32.90,,355.00,92.68,11/2/15,0,Beer,Ale British-American style,India Pale Ale (IPA),Bottle,,California,USA,Ballast Point Brewing,Cask Sweden AB,,7.00%,BS,Order goods,0,0,0,Barley malt and hops.
+L´Orangeraie,Syrah Merlot Reserve,120.00,,750.00,160.00,11/2/15,0,Red wine,,,Bottle,,Languedoc-Roussillon,France,Vignobles Lorgeril,AB Wicked Wine Sweden,2014,13.50%,BS,Order goods,0,0,0,
+L´Orangeraie,Chardonnay,116.00,,750.00,154.67,11/2/15,0,White wine,,,Bottle,,Languedoc-Roussillon,France,Vignobles Lorgeril,AB Wicked Wine Sweden,2014,13.00%,BS,Order goods,0,0,0,
+Verdling,Dulce Verdejo,268.00,,750.00,357.33,11/2/15,0,White wine,Sweet,,Bottle,,Castile-Leon,Spain,Ossian Vides y Vinos S.L.,Ametller Scandinavia - spanska produkter AB,2012,7.00%,BS,Order goods,0,0,0,
+Lapland Nubben,,3596.00,,5200.00,691.54,11/2/15,0,Aquavit and Spiced brännvin,Spiced spirits,,104 Bottles à 50 ml,,,Sweden,Svensk Vodka i Motala AB,Lapland Water AB,,37.50%,BS,Order goods,0,0,0,
+Verdling,Trocken Verdejo,340.00,,750.00,453.33,11/2/15,0,White wine,,,Bottle,,Castile-Leon,Spain,Ossian Vides y Vinos S.L.,Ametller Scandinavia - spanska produkter AB,2013,13.00%,BS,Order goods,0,0,0,
+Quintaluna,Verdejo,190.00,,750.00,253.33,11/2/15,0,White wine,,,Bottle,,Castile-Leon,Spain,Ossian Vides y Vinos S.L.,Ametller Scandinavia - spanska produkter AB,2017,14.50%,BS,Order goods,0,0,0,
+Chateau De La Ragotière,Les Schistes,109.00,,750.00,145.33,11/2/15,0,White wine,,,Bottle,Screw Cap,Loire Valley,France,Les Frères Couillaud,Terrific Wines AB,2018,12.00%,BS,Order goods,0,0,0,
+Lapland Vodka,,3617.00,,5200.00,695.58,11/2/15,0,Vodka and Brännvin,Vodka,,104 Bottles à 50 ml,,,Sweden,Svensk Vodka i Motala AB,Lapland Water AB,,38.00%,BS,Order goods,0,0,0,
+Barolo La Tartufaia,Giulia Negri,747.00,,1500.00,498.00,11/2/15,0,Red wine,,,Magnum,,Piedmont,Italy,Giulia Negri,Terrific Wines AB,2015,14.50%,BS,Order goods,0,0,0,
+Barolo Serradenari,Giulia Negri,425.00,,750.00,566.67,11/2/15,0,Red wine,,,Bottle,Natural Cork,Piedmont,Italy,Giulia Negri,Terrific Wines AB,2012,14.50%,BS,Order goods,0,0,0,
+Motzenbäcker,Rurale Chardonnay,299.00,,750.00,398.67,11/2/15,0,Mousserande vin,Dry white,,Bottle,Champagne Cork-Natural,,Germany,Menger-Krug,Terrific Wines AB,2012,11.50%,BS,Order goods,0,0,0,
+Ponzi,Tavola Pinot Noir,269.00,,750.00,358.67,11/2/15,0,Red wine,,,Bottle,Screw Cap,Oregon,USA,Ponzi Vineyards,Terrific Wines AB,2013,13.00%,BS,Order goods,0,0,0,
+Ponzi,Pinot Gris,199.00,,750.00,265.33,11/2/15,0,White wine,,,Bottle,Screw Cap,Oregon,USA,Ponzi Vineyards,Terrific Wines AB,2016,13.00%,BS,Order goods,0,0,0,
+Vega Shoreline APA,,26.90,,330.00,81.52,12/1/15,0,Beer,Ale British-American style,American Pale Ale (APA),Bottle,,Västra Götalands County,Sweden,Vega Bryggeri,Vega Bryggeri AB,,5.60%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Amasole,Langhe Nebbiolo,149.00,,750.00,198.67,11/2/15,0,Red wine,,,Bottle,,Piedmont,Italy,Pertinace SCA,Contemporary wines Sweden AB,2017,14.00%,BS,Order goods,0,0,0,
+Vega,Gotenius Porter,27.90,,330.00,84.55,12/1/15,0,Beer,Porter and Stout,Dry Porter And Stout,Bottle,,Västra Götalands County,Sweden,Vega Bryggeri,Vega Bryggeri AB,,6.00%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Amasole,Valpolicella Ripasso Superiore,129.00,,750.00,172.00,11/2/15,0,Red wine,,,Bottle,,Venetia,Italy,Cottini SPA,Contemporary wines Sweden AB,2015,14.00%,BS,Order goods,0,0,0,
+Nolhaga Park,,32.20,0.90,500.00,64.40,12/1/15,0,Beer,Ale British-American style,India Pale Ale (IPA),Bottle,,Västra Götalands County,Sweden,Alingsås Bryggeri,Alingsås Bryggeri AB,,6.00%,TSLS,Local & Small-scale,0,0,0,"Pale ale malt and hops varieties Centennial, Chinook and Amarillo."
+Lapland Jin,,3617.00,,5200.00,695.58,11/2/15,0,Aquavit and Spiced brännvin,Spiced spirits,,104 Bottles à 50 ml,,,Sweden,Svensk Vodka i Motala AB,Lapland Water AB,,38.00%,BS,Order goods,0,0,0,
+Lapland Liquer,,3682.00,,5200.00,708.08,11/2/15,0,Liqueur,Fruit liqueur,,104 Bottles à 50 ml,,,Sweden,Svensk Vodka i Motala AB,Lapland Water AB,,40.00%,BS,Order goods,0,0,0,
+The Dalmore,Vintage,459.00,,700.00,655.71,3/1/16,0,Whisky,Malt whiskey,,Bottle,Natural Cork,Scotland,UK,Dalmore Distillery,Arcus Sweden AB,2006,46.00%,FS,Fixed assortment,0,0,0,Barley malt.
+Tomatin,Legacy,339.00,,700.00,484.29,3/1/16,0,Whisky,Malt whiskey,,Bottle,Cork Stopper,Scotland,UK,Tomatin,Galatea AB,,43.00%,BS,Order goods,0,0,0,Barley malt.
+Rantens,Porter,31.90,,330.00,96.67,12/1/15,0,Beer,Porter and Stout,Dry Porter And Stout,Bottle,,Västra Götalands County,Sweden,Åsalid Bryggeri,Åsalid Design,,5.70%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Jacob's Creek,Reserve Shiraz Cabernet Sauvignon,99.00,,750.00,132.00,3/1/16,0,Red wine,,,Bottle,Screw Cap,South Australia,Australia,Jacob's Creek Wines,Pernod Ricard Sweden AB,2016,14.50%,BS,Order goods,0,0,0,Cabernet sauvignon and shiraz.
+Påverås,India Pale Ale,29.20,,330.00,88.49,12/1/15,0,Beer,Ale British-American style,India Pale Ale (IPA),Bottle,,Västra Götalands County,Sweden,Åsalid Bryggeri,Åsalid Design,,6.00%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Cosa Dolce,Gewürztraminer Riesling,75.00,1.00,750.00,100.00,3/1/16,0,White wine,Grape-like & Florals,,PET-Bottle,Screw Cap,South Eastern Australia,Australia,De Bortoli,Bornicon & Salming,2018,12.50%,FS,Fixed assortment,0,0,0,Gewürztraminer and Riesling.
+Cameleon,Malbec Cabernet Rosé,209.00,,3000.00,69.67,3/1/16,0,Rose wine,,,Box,Wing Pin,Cuyo,Argentina,Domaine Bousquet,Winepartners Nordic AB,2018,12.00%,BS,Order goods,1,0,0,
+Valkyria Liqueur Ratatosk,Apple & Cinnamon,285.00,,500.00,570.00,12/1/15,0,Liqueur,Fruit liqueur,,Bottle,,Dalarna County,Sweden,Valkyria Distillery,Valkyria Distillery AB,,30.00%,TSLS,Local & Small-scale,1,0,0,
+Gosset,Celebris Rosé,1299.00,,750.00,1732.00,11/2/15,0,Mousserande vin,Rosé,,Bottle,Champagne Cork-Natural,Champagne,France,Gosset,Divine AB,2007,12.00%,BS,Order goods,0,0,0,
+Carlskrona,Julöl,25.80,,330.00,78.18,11/2/15,0,Beer,Ale unclassified,,Bottle,,,Sweden,Carlskrona Bryggeri,Carlskrona Bryggeri AB,,5.40%,BS,Order goods,0,0,0,Barley malt and hops.
+Villa Valentina,Sangiovese,89.00,,750.00,118.67,11/2/15,0,Red wine,Fruity & Tasteful,,Bottle,Screw Cap,Apulia,Italy,Iconic Wines,Iconic Wines,2018,13.50%,FS,Fixed assortment,1,0,0,Sangiovese.
+Reviresco,Morellino di Scansano,155.00,,750.00,206.67,11/2/15,0,Red wine,,,Bottle,,Tuscany,Italy,Bodegas Coop. de Vino de Toro,Villa Aurum AB,2013,13.00%,BS,Order goods,0,0,0,
+Domaine du Petit Clocher,Anjou Blanc,175.00,,750.00,233.33,11/2/15,0,White wine,,,Bottle,,Loire Valley,France,Domaine du Petit Clocher,ClosProbus KB,2014,13.00%,BS,Order goods,0,0,0,
+Auramaris,Vermentino,155.00,,750.00,206.67,11/2/15,0,White wine,,,Bottle,,Tuscany,Italy,Bodegas Coop. de Vino de Toro,Villa Aurum AB,2018,13.00%,BS,Order goods,1,0,0,
+Valkyria,Absinthe,499.00,,500.00,998.00,12/1/15,0,Anise-flavoured liquor,Absinth,,Bottle,,Dalarna County,Sweden,Valkyria Distillery,Valkyria Distillery AB,,68.00%,BS,Order goods,0,0,0,
+"Vinlåda Pi 3,14 Röd & Vit",,1020.00,,4500.00,226.67,11/2/15,0,Mixed-boxes wine,,,6 bottle à 750 ml,,,Spain,Bodegas Langa,Premier Taste Sweden AB,,13.50%,BS,Order goods,0,0,0,
+Vinlåda Spännande Spanien Vit,,1128.00,,4500.00,250.67,11/2/15,0,Mixed-boxes wine,,,6 bottle à 750 ml,,,Spain,Flera producenter,Premier Taste Sweden AB,,12.50%,BS,Order goods,0,0,0,
+Domaine Bousquet,Reserve Cabernet Sauvignon,119.00,,750.00,158.67,3/1/16,0,Red wine,,,Bottle,Natural Cork,Cuyo,Argentina,Domaine Bousquet,Vinia Sweden AB,2014,14.50%,BS,Order goods,1,0,0,85% Cabernet Sauvignon and 15% Malbec.
+Vinlåda Spännande Spanien Röd,,1032.00,,4500.00,229.33,11/2/15,0,Red wine,,,6 bottle à 750 ml,,,Spain,Flera producenter,Premier Taste Sweden AB,,14.00%,BS,Order goods,0,0,0,
+Jädraöl IPA,,27.90,,330.00,84.55,2/1/16,0,Beer,Ale British-American style,India Pale Ale (IPA),Bottle,,Gävleborg County,Sweden,Jädraås Bryggeri,Jädraås Bryggeri AB,,6.50%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Baggens IPA,,28.90,,330.00,87.58,12/1/15,0,Beer,Ale British-American style,India Pale Ale (IPA),Bottle,,Stockholm County,Sweden,Nacka Bryggeri,Nacka Bryggeri AB,,6.10%,TSLS,Local & Small-scale,0,0,0,"Pale ale and caramunichmalt and hop varieties Magnum, Cascade and Centennial."
+Ryttmästarbrännvin,,312.00,,500.00,624.00,12/1/15,0,Aquavit and Spiced brännvin,Spiced spirits,,Bottle,,Västra Götalands County,Sweden,Qvänum Mat & Malt AB,Qvänum Mat & Malt AB,,37.30%,TSLS,Local & Small-scale,1,0,0,"Honey, cumin, juniper and fennel."
+Rosen Boom,,25.60,,330.00,77.58,12/1/15,0,Beer,Dark lager,Schwarz Bier,Bottle,,Blekinge County,Sweden,Restaurang Skeppsgossen,Restaurang Skeppsgossen AB,,5.20%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Presentkartong Stänk ljusgul,1 flaska,12.00,,0.00,0.00,6/1/16,0,Gift packaging,1 bottle,Giftbox 1 bottle,,,,Unknown Origin,,Systembolaget Presenter,,0.00%,PA,,0,0,0,
+Presentkartong Stänk ljusgul,2 flaskor,12.00,,0.00,0.00,6/1/16,0,Gift packaging,2 bottles,Giftbox 2 bottles,,,,Unknown Origin,,Systembolaget Presenter,,0.00%,PA,,0,0,0,
+Presentpåse Stänk ljusgul,1 flaska,14.00,,0.00,0.00,6/1/16,0,Gift packaging,1 bottle,Giftbag 1 bottle,,,,Unknown Origin,,Systembolaget Presenter,,0.00%,PA,,0,0,0,
+Leufsta Pils,,22.80,,330.00,69.09,12/1/15,0,Beer,Pale lager,Pilsner - Czech style,Bottle,,Uppsala County,Sweden,Leufstabruk Bryggeri AB,Leufstabruk Bryggeri AB,,5.00%,TSLS,Local & Small-scale,0,0,0,"Pilsner malt, light and dark caramel malt and hops varieties magnum and Saaz."
+Neptun,IPA,26.00,,330.00,78.79,12/1/15,0,Beer,Ale British-American style,India Pale Ale (IPA),Bottle,,Blekinge County,Sweden,Restaurang Skeppsgossen,Restaurang Skeppsgossen AB,,6.00%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Leconfield,Shiraz,195.00,,750.00,260.00,3/1/16,0,Red wine,,,Bottle,,South Australia,Australia,Leconfield Wines,Granqvist Beverage House AB,2014,14.50%,BS,Order goods,0,0,0,
+Leconfield,Cabernet Merlot,195.00,,750.00,260.00,3/1/16,0,Red wine,,,Bottle,,South Australia,Australia,Leconfield Wines,Granqvist Beverage House AB,2013,14.00%,BS,Order goods,0,0,0,
+Royal Oats,Imperial Oat Porter,41.50,,330.00,125.76,1/4/16,0,Beer,Porter and Stout,Imperial Porter And Stout,Bottle,,Stockholm County,Sweden,PKLK Bryggeri,"Pikulik, Peter",,8.60%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Amadio,Shiraz,199.00,,750.00,265.33,3/1/16,0,Red wine,,,Bottle,,South Australia,Australia,Amadio Wines,Granqvist Beverage House AB,2013,14.50%,BS,Order goods,0,0,0,
+Amadio,Cabernet Sauvignon,199.00,,750.00,265.33,3/1/16,0,Red wine,,,Bottle,,South Australia,Australia,Amadio Wines,Granqvist Beverage House AB,2012,14.80%,BS,Order goods,0,0,0,
+Tommasi,Bardolino Chiaretto,109.00,,750.00,145.33,12/1/15,0,Rose wine,,,Bottle,,Venetia,Italy,Tommasi Viticoltori,Hermansson & Co AB,2018,12.00%,BS,Order goods,0,0,0,
+Château Haut Condissas,Prestige,489.00,,750.00,652.00,12/1/15,0,Red wine,,,Bottle,Natural Cork,Bordeaux,France,Château Haut Condissas,Viña Española AB,2011,14.00%,BS,Order goods,0,0,0,
+Mia,Pink Sparkling Moscato,84.00,,750.00,112.00,12/1/15,0,Mousserande vin,Rosé,,Bottle,,,Spain,Freixenet,Henkell Freixenet Sweden AB,,7.00%,BS,Order goods,0,0,0,
+Mathelin,Extra Brut,378.00,,750.00,504.00,12/1/15,0,Mousserande vin,Dry white,,Bottle,,Champagne,France,Champagne Mathelin,Bonne Box / Ett Ord AB,,12.00%,BS,Order goods,0,0,0,
+Beaumont des Crayères,Grand Rosé,270.00,,750.00,360.00,12/1/15,0,Mousserande vin,Rosé,,Bottle,,Champagne,France,Beaumont des Crayères,Hermansson & Co AB,,12.00%,BS,Order goods,0,0,0,
+Zuccardi Q,Malbec,189.00,,750.00,252.00,12/1/15,0,Red wine,,,Bottle,Natural Cork,Cuyo,Argentina,Familia Zuccardi,We & Wine AB,2013,14.50%,BS,Order goods,0,0,0,
+Amarone della Valpolicella Classico,,99.00,,375.00,264.00,12/1/15,0,Red wine,Spicy & Musty,,Bottle,Natural Cork,Venetia,Italy,Luigi Righetti,Nelex Beverage AB,2014,15.00%,FS,Fixed assortment,0,0,0,
+Tama,Vineyard Selection Pinot Noir,139.00,,750.00,185.33,3/1/16,0,Red wine,,,Bottle,Screw Cap,Aconcagua,Chile,Anakena,Theis Vine AB,2014,14.00%,BS,Order goods,0,0,0,Pinot noir.
+Ossian,,412.00,,750.00,549.33,12/1/15,0,White wine,,,Bottle,,Castile-Leon,Spain,Ossian Vides y Vinos S.L.,Ametller Scandinavia - spanska produkter AB,2016,14.50%,BS,Order goods,1,0,0,
+Concentus,Rosso,391.00,,750.00,521.33,12/1/15,0,Red wine,,,Bottle,,Tre Venezie,Italy,Corteforte,Malchamax AB,2011,14.00%,BS,Order goods,0,0,0,
+Podere Bertarole,Valpolicella Ripasso Classico Superiore,296.00,,750.00,394.67,12/1/15,0,Red wine,,,Bottle,,Venetia,Italy,Corteforte,Malchamax AB,2015,14.00%,BS,Order goods,0,0,0,
+Marco Zunino,Malbec,129.00,,750.00,172.00,12/1/15,0,Red wine,,,Bottle,,Cuyo,Argentina,Marco Zunino,Carlemår Wine & Spirits AB,2013,14.00%,BS,Order goods,0,0,0,
+Marco Zunino,Malbec Bonarda,131.00,,750.00,174.67,12/1/15,0,Red wine,,,Bottle,,Cuyo,Argentina,Marco Zunino,Carlemår Wine & Spirits AB,2013,13.50%,BS,Order goods,0,0,0,
+Petit Chablis,La Chablisienne,79.00,,375.00,210.67,3/1/16,0,White wine,Fresh & Fruity,,Bottle,Screw Cap,Burgundy,France,La Chablisienne,Wine Affair Scandinavia AB,2018,12.50%,FS,Fixed assortment,0,0,0,Chardonnay.
+Château Grand Francais,Bordeaux Supérieur,171.00,,750.00,228.00,12/1/15,0,Red wine,,,Bottle,,Bordeaux,France,Château Grand Francais,Risotto Fine Foods & Wine,2015,12.50%,BS,Order goods,1,0,0,
+Terre di San Zeno,Amarone della Valpolicella Classico,499.00,,750.00,665.33,12/1/15,0,Red wine,,,Bottle,,Venetia,Italy,Corteforte,Malchamax AB,2012,15.00%,BS,Order goods,0,0,0,
+Vigneti di Osan,Amarone della Valpolicella Classico,805.00,,750.00,1073.33,12/1/15,0,Red wine,,,Bottle,,Venetia,Italy,Corteforte,Malchamax AB,2009,15.50%,BS,Order goods,0,0,0,
+Recioto della Valpolicella Classico,Corteforte,400.00,,500.00,800.00,12/1/15,0,Red wine,Sweet,,Bottle,,Venetia,Italy,Corteforte,Malchamax AB,2013,13.50%,BS,Order goods,0,0,0,
+Dimension,Chardonnay,79.00,,750.00,105.33,3/1/16,0,White wine,Fresh & Fruity,,Bottle,Screw Cap,Western Cape,South Africa,Du Toitskloof Cellar,Stellan Kramer AB,2019,13.50%,FS,Fixed assortment,0,1,0,Chardonnay.
+Sigtuna Paper Plane,Organic Lager,20.90,,330.00,63.33,3/1/16,0,Beer,Pale lager,Modern Style,Bottle,,,Sweden,Sigtuna Brygghus,Galatea AB,,5.10%,BS,Order goods,1,0,0,Barley malt and hops.
+Eco Rojo,,79.00,,750.00,105.33,3/1/16,0,Red wine,,,Bottle,Screw Cap,Valencia,Spain,Hacienda La Serrata,Vinia Sweden AB,2017,13.50%,BS,Order goods,1,0,0,
+Glenfiddich Original,,995.00,,700.00,1421.43,12/1/15,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,William Grant & Sons,Nigab,,40.00%,BS,Order goods,0,0,0,
+Girvan Single Grain,25 Years,3295.00,,700.00,4707.14,12/1/15,0,Whisky,Grainwhisky,,Bottle,,Scotland,UK,William Grant & Sons,Nigab,,42.00%,BS,Order goods,0,0,0,
+Mikkeller,Spontancassis,59.90,,375.00,159.73,3/1/16,0,Beer,Sour beer,Lambic - fruits and berries,Bottle,,,International Brand,Mikkeller,Brill & Co AB,,7.00%,FSB,Fixed assortment,0,0,0,"Barley malt, wheat, black currant and hops."
+Glenfiddich,Rare Collection 36 Years,25900.00,,700.00,37000.00,12/1/15,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,William Grant & Sons,Nigab,1979,51.80%,BS,Order goods,0,0,0,
+Cirrus,The Cloudy Lager,13.90,,330.00,42.12,3/1/16,0,Beer,Pale lager,Modern Style,Bottle,,,Sweden,Brutal Brewing,Spendrups Bryggeri AB,,5.10%,FS,Fixed assortment,1,0,0,"Barley malt and hops varieties palisade, Cascade and Hallertau."
+Viva by Carolina Gynning,Prosecco Extra Dry,131.00,,750.00,174.67,12/1/15,0,Mousserande vin,Dry white,,Bottle,Natural Cork,Venetia,Italy,Gynning Wine,Kämpinge Trading AB,,11.00%,FS,Fixed assortment,1,0,0,Glera.
+Château Belgrave,Grand Cru,1099.00,,1500.00,732.67,12/1/15,0,Red wine,,,Magnum,,Bordeaux,France,Vins et Vignobles Dourthe,Carovin AB,2010,14.00%,BS,Order goods,0,0,0,
+Godet,Folles Blanches,998.00,,700.00,1425.71,12/1/15,0,Cognac,,,Bottle,Cork Stopper,Cognac,France,Godet Frères,Galatea AB,,40.00%,BS,Order goods,0,0,0,
+Godet,Vielles Borderies,998.00,,700.00,1425.71,12/1/15,0,Cognac,,,Bottle,Cork Stopper,Cognac,France,Godet Frères,Galatea AB,,40.00%,BS,Order goods,0,0,0,
+Château La Garde,,174.00,,375.00,464.00,12/1/15,0,Red wine,,,Bottle,,Bordeaux,France,Vins et Vignobles Dourthe,Carovin AB,2012,13.50%,BS,Order goods,0,0,0,
+Mathelin,Brut Reserve,399.00,,750.00,532.00,12/1/15,0,Mousserande vin,Dry white,,Bottle,,Champagne,France,Champagne Mathelin,Bonne Box / Ett Ord AB,,12.00%,BS,Order goods,0,0,0,
+Kininvie Anniversary 25yo,Single Cask no 20,4950.00,,350.00,14142.86,1/28/16,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,William Grant & Sons,Nigab,,56.00%,TSE,Temporary assortment,0,0,0,
+Amontillado,Viejisimo Tradicion,1500.00,,375.00,4000.00,12/1/15,0,Aperitif and dessert,Sherry & Montilla,Amontillado,Bottle,,Andalusia,Spain,Bodegas Tradicion,janake wine group AB,,22.00%,BS,Order goods,0,0,0,
+Kavalan,Podium,829.00,,700.00,1184.29,12/1/15,0,Whisky,Malt whiskey,,Bottle,,Taiwan,Other Origins,Kavalan,Philipson Söderberg AB,,46.00%,BS,Order goods,0,0,0,
+Cambus,The Pearls of Scotland Cask Strength,1599.00,,700.00,2284.29,12/1/15,0,Whisky,Grainwhisky,,Bottle,,Scotland,UK,Gordon & Company Ltd,Granqvist Beverage House AB,1988,47.80%,BS,Order goods,0,0,0,
+Glen Garioch,The Pearls of Scotland Cask Strength,1599.00,,700.00,2284.29,12/1/15,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,Gordon & Company Ltd,Granqvist Beverage House AB,1994,62.40%,BS,Order goods,0,0,0,
+Glen Spey,The Pearls of Scotland Cask Strength,1599.00,,700.00,2284.29,12/1/15,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,Gordon & Company Ltd,Granqvist Beverage House AB,1991,56.10%,BS,Order goods,0,0,0,
+Invergordon,The Pearls of Scotland Cask Strength,1699.00,,700.00,2427.14,12/1/15,0,Whisky,Grainwhisky,,Bottle,,Scotland,UK,Gordon & Company Ltd,Granqvist Beverage House AB,1988,51.70%,BS,Order goods,0,0,0,
+Invergordon,The Pearls of Scotland Cask Strength,1199.00,,700.00,1712.86,12/1/15,0,Whisky,Grainwhisky,,Bottle,,Scotland,UK,Gordon & Company Ltd,Granqvist Beverage House AB,1997,59.10%,BS,Order goods,0,0,0,
+Strathclyde,The Pearls of Scotland Cask Strength,1599.00,,700.00,2284.29,12/1/15,0,Whisky,Grainwhisky,,Bottle,,Scotland,UK,Gordon & Company Ltd,Granqvist Beverage House AB,1988,54.00%,BS,Order goods,0,0,0,
+Lion,Stout,41.70,,330.00,126.36,12/1/15,0,Beer,Porter and Stout,Imperial Porter And Stout,Bottle,Cap,,Sri Lanka,The Lion Brewery Ceylon,World Beer Trading KB,,8.80%,BS,Order goods,0,0,0,
+Ardmore,The Pearls of Scotland Cask Strength,1199.00,,700.00,1712.86,12/1/15,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,Gordon & Company Ltd,Granqvist Beverage House AB,2000,55.80%,BS,Order goods,0,0,0,
+Lion,Stout,73.30,,625.00,117.28,12/1/15,0,Beer,Porter and Stout,Imperial Porter And Stout,Bottle,Cap,,Sri Lanka,The Lion Brewery Ceylon,World Beer Trading KB,,8.80%,BS,Order goods,0,0,0,
+Cucapá,Obscura,43.40,,355.00,122.25,12/1/15,0,Beer,Ale British-American style,Brown Ale,Bottle,Cap,,Mexico,Cerveceria de Baja California,World Beer Trading KB,,4.80%,BS,Order goods,0,0,0,
+Joseph Cartron,Cherry Brandy,239.00,,500.00,478.00,12/1/15,0,Liqueur,Berry liqueur,,Bottle,Screw Cap,,France,Joseph Cartron,We & Wine AB,,25.00%,BS,Order goods,0,0,0,
+Port Ellen,Old & Rare Sherry Cask 33 Years,48921.00,,1500.00,32614.00,12/1/15,0,Whisky,Malt whiskey,,Magnum,,Scotland,UK,Hunter Laing & Company,Clydesdale AB,1982,58.30%,BS,Order goods,0,0,0,
+Rigogolo Chianti Riserva,Nettuno,115.00,,750.00,153.33,3/1/16,0,Red wine,Spicy & Musty,,Bottle,Natural Cork,Tuscany,Italy,Nettuno,AB Wicked Wine Sweden,2016,13.00%,BS,Order goods,0,0,0,"Sangiovese 90%, 5% and 5% Canaiolo Cabernet Sauvignon."
+Gurkha,Premium Lager Beer,34.60,,330.00,104.85,12/1/15,0,Beer,Pale lager,International Style,Bottle,Cap,,UK,Gurkha Beer Trading,World Beer Trading KB,,4.80%,BS,Order goods,0,0,0,
+Julsnaps Royal Järvsö,,463.00,,700.00,661.43,12/1/15,0,Aquavit and Spiced brännvin,Spiced spirits,,Bottle,Synthetic Cork,,Sweden,Tevsjö Destilleri Järvsö AB,Tevsjö Destilleri i Järvsö AB,,39.00%,BS,Order goods,0,0,0,
+Julsnaps Royal Järvsö,,227.00,,350.00,648.57,12/1/15,0,Aquavit and Spiced brännvin,Spiced spirits,,Bottle,Synthetic Cork,,Sweden,Tevsjö Destilleri Järvsö AB,Tevsjö Destilleri i Järvsö AB,,39.00%,BS,Order goods,0,0,0,
+East London Premium Gin,Batch No 1,429.00,,700.00,612.86,3/1/16,0,Gin and Genever,Gin,,Bottle,,England,UK,East London Liquor Company,Spendrups Bryggeri AB,2016,45.00%,BS,Order goods,0,0,0,
+Zuccardi Q,Chardonnay,189.00,,750.00,252.00,12/1/15,0,White wine,,,Bottle,Natural Cork,Cuyo,Argentina,Familia Zuccardi,We & Wine AB,2014,13.50%,BS,Order goods,0,0,0,
+Val d'Oca,Valdobbiadene Prosecco Superiore Brut,149.00,,750.00,198.67,12/1/15,0,Mousserande vin,Dry white,,Bottle,Champagne Cork-Natural,Venetia,Italy,Val d'Oca,Amka Vinimport AB,2018,11.00%,BS,Order goods,0,0,0,
+The English Whisky Co,Moscatel Wine Cask 7 Years,1045.00,,700.00,1492.86,12/1/15,0,Whisky,Malt whiskey,,Bottle,,,UK,Blackadder,Clydesdale AB,2007,63.20%,BS,Order goods,0,0,0,
+Glenrothes,Raw Cask 13 Years,1133.00,,700.00,1618.57,12/1/15,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,Blackadder,Clydesdale AB,2002,55.70%,BS,Order goods,0,0,0,
+Inchgower,Raw Sherry Cask 20 Years,3360.00,,700.00,4800.00,12/1/15,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,Blackadder,Clydesdale AB,1995,57.60%,BS,Order goods,0,0,0,
+Jean d´Alibert,Rouge,119.00,,750.00,158.67,12/1/15,0,Red wine,,,Bottle,,Languedoc-Roussillon,France,Chantovent,Granqvist Beverage House AB,2014,13.00%,BS,Order goods,0,0,0,
+Runa,Old School Yellow Gin,847.00,,700.00,1210.00,12/1/15,0,Gin and Genever,Gin,,Bottle,,,Sweden,Runa Vodka AB,Runa Vodka AB,,43.00%,BS,Order goods,1,0,0,
+Château Rivière,Cuvée Prestige,119.00,,750.00,158.67,12/1/15,0,Red wine,,,Bottle,,Languedoc-Roussillon,France,Chantovent,Granqvist Beverage House AB,2017,14.50%,BS,Order goods,0,0,0,
+Dailuaine,5 Years,837.00,,700.00,1195.71,12/1/15,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,The Riverstown Whisky Company,Clydesdale AB,2009,59.70%,BS,Order goods,0,0,0,
+Château d´Hautpoul,Grande Réserve,139.00,,750.00,185.33,12/1/15,0,Red wine,,,Bottle,,Languedoc-Roussillon,France,Chantovent,Granqvist Beverage House AB,2013,13.50%,BS,Order goods,0,0,0,
+Jameson,Caskmates Stout Edition,329.00,,700.00,470.00,12/1/15,0,Whisky,Blended whisky,,Bottle,,,Ireland,John Jameson,Pernod Ricard Sweden AB,,40.00%,BS,Order goods,0,0,0,
+Realzin,Zinfandel,110.00,,750.00,146.67,12/1/15,0,Red wine,,,Bottle,Screw Cap,Apulia,Italy,Angelo Rocca & Figli Srl,Amka Vinimport AB,2018,13.00%,BS,Order goods,0,0,0,
+Inchgower,5 Years,687.00,,700.00,981.43,12/1/15,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,Aberdeen Distillers,Clydesdale AB,2009,46.00%,BS,Order goods,0,0,0,
+Ecoltura,Valpolicella,119.00,,750.00,158.67,12/1/15,0,Red wine,Spicy & Musty,,Bottle,Natural Cork,Venetia,Italy,Domaine Wines,Domaine Wines Sweden AB,2018,12.50%,FS,Fixed assortment,1,0,0,"Corvinone 50%, 30% rondinella and 20% corvina."
+Boërl & Kroff,Cuvée Sélectionnée Brut,47299.00,,1500.00,31532.67,12/1/15,0,Mousserande vin,Dry white,,Magnum,,Champagne,France,Drappier,Apricot AB,1998,12.50%,BS,Order goods,0,0,0,
+Boërl & Kroff,Cuvée Sélectionnée Brut Rosé,46599.00,,1500.00,31066.00,12/1/15,0,Mousserande vin,Rosé,,Magnum,,Champagne,France,Drappier,Apricot AB,,12.50%,BS,Order goods,0,0,0,
+B de Boërl & Kroff,Cuvée Sélectionnée Brut,2999.00,,750.00,3998.67,12/1/15,0,Mousserande vin,Dry white,,Bottle,,Champagne,France,Drappier,Apricot AB,2005,12.50%,BS,Order goods,0,0,0,
+Gimonnet-Gonet Tusen & en Natt,Grand Cru Brut Blanc de Blancs,325.00,,750.00,433.33,12/1/15,0,Mousserande vin,Dry white,,Bottle,,Champagne,France,Gimonnet-Gonet,MY-Wine,,12.00%,BS,Order goods,0,0,0,
+Comte Hugues de La Bourdonnaye,Brut Nature,458.00,,750.00,610.67,12/1/15,0,Mousserande vin,Dry white,,Bottle,,Champagne,France,Hugues de La Bourdonnaye,Buteljholmen AB,,12.00%,BS,Order goods,0,0,0,
+Comte Hugues de La Bourdonnaye,Blanc de Blancs Brut Nature,487.00,,750.00,649.33,12/1/15,0,Mousserande vin,Dry white,,Bottle,,Champagne,France,Hugues de La Bourdonnaye,Buteljholmen AB,,12.00%,BS,Order goods,0,0,0,
+Kallfelz,Sensus Riesling-Hochgewächs Trocken,149.00,,750.00,198.67,12/1/15,0,White wine,,,Bottle,,Moselle,Germany,WG Albert Kallfelz,Granqvist Beverage House AB,2014,11.50%,BS,Order goods,0,0,0,
+Medovarus Mjöd,Kombipack,792.00,,7920.00,100.00,12/1/15,0,Aperitif and dessert,Flavored wines & fruit wines,Mead,24 bottle à 330 ml,,,Russia,Medovarus,Tre Svampar AB,,5.70%,BS,Order goods,1,0,0,
+Svenska nubbar,,239.00,,500.00,478.00,3/1/96,0,Aquavit and Spiced brännvin,Spiced spirits,,10 bottle à 50 ml,,,Sweden,Altia,Altia Sweden AB,,38.80%,FS,Fixed assortment,0,0,0,
+Schild Estate Barossa Valley,Cabernet Sauvignon,199.00,,750.00,265.33,3/1/16,0,Red wine,,,Bottle,,South Australia,Australia,Schild Estate Wines,Granqvist Beverage House AB,2015,14.50%,BS,Order goods,0,0,0,
+Greenalls Berkeley Square,London Gin,499.00,,700.00,712.86,12/1/15,0,Gin and Genever,Gin,,Bottle,,,UK,G & J Greenall,Hermansson & Co AB,,40.00%,BS,Order goods,0,0,0,
+Evil Twin,Christmas Eve At A New York City Hotel Room,31.40,,355.00,88.45,12/1/15,0,Beer,Porter and Stout,Imperial Porter And Stout,Bottle,Crown Cap,,USA,Evil Twin Brewing,Galatea AB,,10.00%,BS,Order goods,0,0,0,
+Shoot,Fizzy bubble gum,129.00,,500.00,258.00,1/22/18,0,Liqueur,Other liqueur,,Bottle,,,Norway,Arcus AS,Arcus Sweden AB,,16.40%,BS,Order goods,0,0,0,
+Barolo Ravera,Cagliero,599.00,,750.00,798.67,1/22/18,0,Red wine,,,Bottle,,Piedmont,Italy,Cagliero,Vinonista AB,2007,14.50%,BS,Order goods,0,0,0,
+Barolo,BelColle Simposio Riserva,465.00,,750.00,620.00,1/24/18,0,Red wine,,,Bottle,,Piedmont,Italy,Agricola Bosio srl,Malchamax AB,2009,14.50%,BS,Order goods,0,0,0,
+Angoris,Sauvignon Blanc,129.00,,750.00,172.00,1/29/18,0,White wine,,,Bottle,,Friuli-Venezia-Giulia,Italy,Tenuta di Angoris,Nebbia HB,2016,14.00%,BS,Order goods,0,0,0,
+Angoris,Pignolo,219.00,,750.00,292.00,1/29/18,0,Red wine,,,Bottle,,Friuli-Venezia-Giulia,Italy,Tenuta di Angoris,Nebbia HB,2012,14.00%,BS,Order goods,0,0,0,
+The Golden Stallion,,99.00,,750.00,132.00,2/21/18,0,Red wine,Fruity & Tasteful,,Bottle,Natural Cork,Murcia,Spain,Juan Gil,Vinunic AB,2018,14.50%,BS,Order goods,1,0,0,Monastrell.
+Ferrari,Riserva Lunelli,359.00,,750.00,478.67,1/31/18,0,Mousserande vin,,,Bottle,Champagne Cork-Natural,Trentino-Alto Adige,Italy,Ferrari,Ward Wines AB,2008,12.50%,BS,Order goods,0,0,0,
+Jämtlands,American Pale Ale,24.90,,330.00,75.46,6/3/19,0,Beer,Ale British-American style,American Pale Ale (APA),Bottle,,Jämtland County,Sweden,Jämtlands Bryggeri AB,Jämtlands Bryggeri AB,,5.40%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Bruno Clair,Gevrey-Chambertin,799.00,,750.00,1065.33,1/29/18,0,Red wine,,,Bottle,Natural Cork,Burgundy,France,Domaine Bruno Clair,Johan Lidby Vinhandel AB,2015,13.00%,BS,Order goods,0,0,0,
+Concerto,Reggiano Lambrusco,129.00,,750.00,172.00,3/2/18,0,Red wine,Soft & Berry,,Bottle,,Emilia Romagna,Italy,Medici Ermete & Figli,Quaffable Wines Sweden AB,2016,11.50%,TSE,Temporary assortment,0,0,0,Lambrusco.
+Las Pizarras,Chardonnay,559.00,,750.00,745.33,9/7/18,0,White wine,,,Bottle,,Aconcagua,Chile,Viña Errazuriz S.A,Winemarket Nordic AB,2016,13.00%,TSE,Temporary assortment,0,0,0,Chardonnay.
+Las Pizarras,Pinot Noir,799.00,,750.00,1065.33,9/7/18,0,Red wine,,,Bottle,Natural Cork,Aconcagua,Chile,Viña Errazuriz S.A,Winemarket Nordic AB,2016,13.00%,TSE,Temporary assortment,0,0,0,Pinot noir.
+La Lézardière,,79.00,,750.00,105.33,6/1/18,0,Rose wine,,,Bottle,,Provence,France,Moulin de la Roque,Stellan Kramer AB,2017,13.50%,BS,Order goods,0,0,0,
+Solybiza,Rosé Sangria Organic,75.00,,750.00,100.00,6/1/18,0,Aperitif and dessert,Flavored wines & fruit wines,Sangria,Bottle,,,Spain,Bodegas Sanviver,Grapestyle Scandinavia,,7.00%,FS,Fixed assortment,1,0,0,
+Mackmyra,Svensk Rök/Amerikansk Ek,599.00,,700.00,855.71,1/31/18,0,Whisky,Malt whiskey,,Bottle,,,Sweden,Mackmyra Svensk Whisky AB,Mackmyra Svensk Whisky AB,,46.10%,BS,Order goods,0,0,0,
+Perfect Day,Bubbles Spumante Cuvée Extra Dry,79.00,,750.00,105.33,2/5/18,0,Mousserande vin,Dry white,,Bottle,,,Italy,Contemporary Wines AB,Contemporary wines Sweden AB,,11.00%,FS,Fixed assortment,0,0,0,
+Tirrenico,Marchesi Mazzei,159.00,,750.00,212.00,1/30/18,0,Red wine,Fruity & Tasteful,,Bottle,Natural Cork,Tuscany,Italy,Marchesi Mazzei,Vintedge AB,2016,13.50%,BS,Order goods,0,0,0,
+Domaine Les Fumées Blanches,Sauvignon Blanc,125.00,,750.00,166.67,2/5/18,0,White wine,,,Bottle,Screw Cap,France Southwest,France,François Lurton,The WineAgency Sweden AB,2018,12.00%,BS,Order goods,0,0,0,
+Cartemisia,Prosecco Extra Dry,119.00,,750.00,158.67,2/5/18,0,Mousserande vin,Dry white,,Bottle,Natural Cork,Venetia,Italy,Pizzolo,Ward Wines AB,2016,11.00%,BS,Order goods,1,0,0,
+Moreau,Chardonnay,99.00,,750.00,132.00,1/30/18,0,White wine,Fresh & Fruity,,Bottle,Screw Cap,,France,J.MOREAU & FILS - Boisset La Famille des Grands Vins,Giertz Vinimport AB,2018,12.50%,FS,Fixed assortment,0,0,0,Chardonnay.
+Crotasc Bianco,,127.00,,750.00,169.33,1/29/18,0,White wine,,,Bottle,Synthetic Cork,,Italy,Mamete Prevostini,RB Winery AB,,12.00%,BS,Order goods,0,0,0,
+Cavas Avinyó Mixlåda,,1026.00,,4500.00,228.00,12/1/15,0,Mousserande vin,,,6 bottle à 750 ml,,Cava,Spain,Avinyó,Robert Rask Vinhandel,,11.50%,BS,Order goods,0,0,0,
+Sommarblom,Mjöd,149.00,,750.00,198.67,1/9/18,0,Aperitif and dessert,Flavored wines & fruit wines,Mead,Bottle,,Södermanlands County,Sweden,Mjödhamnen AB,Mjödhamnen AB,2010,10.80%,BS,Order goods,0,0,0,
+Black Stallion,Cabernet Sauvignon Limited Release,599.00,,750.00,798.67,12/1/15,0,Red wine,,,Bottle,Natural Cork,California,USA,Black Stallion Estate Winery,Ward Wines AB,2016,15.00%,BS,Order goods,0,0,0,
+Godelia,Godello Doña Blanca,159.00,,750.00,212.00,12/1/15,0,White wine,,,Bottle,,Castile-Leon,Spain,Bodegas Godelia,Robert Rask Vinhandel,2016,13.50%,BS,Order goods,0,0,0,
+Black Stallion Napa Valley,Chardonnay,199.00,,750.00,265.33,12/1/15,0,White wine,Full-bodied & Tasty,,Bottle,Natural Cork,California,USA,Black Stallion Estate Winery,Ward Wines AB,2018,14.50%,FS,Fixed assortment,0,0,0,Chardonnay.
+Godelia,Selección Mencía,249.00,,750.00,332.00,12/1/15,0,Red wine,,,Bottle,,Castile-Leon,Spain,Bodegas Godelia,Robert Rask Vinhandel,2009,15.00%,BS,Order goods,0,0,0,
+Libamus,,201.00,,500.00,402.00,12/1/15,0,Red wine,Sweet,,Bottle,,Castile-Leon,Spain,Bodegas Godelia,Robert Rask Vinhandel,2012,15.00%,BS,Order goods,0,0,0,
+Godelia,Selección Godello,225.00,,750.00,300.00,12/1/15,0,White wine,,,Bottle,,Castile-Leon,Spain,Bodegas Godelia,Robert Rask Vinhandel,2012,14.00%,BS,Order goods,0,0,0,
+Godelia,Mencía,169.00,,750.00,225.33,12/1/15,0,Red wine,,,Bottle,,Castile-Leon,Spain,Bodegas Godelia,Robert Rask Vinhandel,2013,14.50%,BS,Order goods,0,0,0,
+Cubaney,Exquisito 21 Years,799.00,,700.00,1141.43,1/29/18,0,Rum,Dark rum,,Bottle,,,Dominican Republic,Oliver & Oliver,Dica Vin & Sprit HB,,38.00%,BS,Order goods,0,0,0,
+Cubaney,Estupendo 15 Years,639.00,,700.00,912.86,1/29/18,0,Rum,Dark rum,,Bottle,,,Dominican Republic,Oliver & Oliver,Dica Vin & Sprit HB,,38.00%,BS,Order goods,0,0,0,
+Snälleröds,Uppsalaakvavit,199.00,,500.00,398.00,1/31/18,0,Aquavit and Spiced brännvin,Akvavit,,Bottle,Screw Cap,,Sweden,Arcus Sweden AB,Arcus Sweden AB,,38.00%,BS,Order goods,1,0,0,
+Ophyum,23 Years,1145.00,,700.00,1635.71,1/29/18,0,Rum,Dark rum,,Bottle,,,Dominican Republic,Oliver & Oliver,Dica Vin & Sprit HB,,40.00%,BS,Order goods,0,0,0,
+Barbera d'Asti,Cascina Vigna,149.00,,750.00,198.67,1/29/18,0,Red wine,,,Bottle,,Piedmont,Italy,Cascina Vigna,Vinonista AB,2016,14.50%,BS,Order goods,0,0,0,
+Barbera d'Asti Superiore,Cascina Vigna,199.00,,750.00,265.33,1/29/18,0,Red wine,,,Bottle,,Piedmont,Italy,Cascina Vigna,Vinonista AB,2015,15.00%,BS,Order goods,0,0,0,
+Deutz,Brut Classic,899.00,,1500.00,599.33,12/1/15,0,Mousserande vin,Dry white,,Magnum,,Champagne,France,Deutz,Swedish Brand AB,,12.00%,BS,Order goods,0,0,0,
+Avion Silver,,569.00,,700.00,812.86,12/1/15,0,Tequila and Mezcal,Tequila,,Bottle,,,Mexico,Pernod Ricard USA,Pernod Ricard Sweden AB,,40.00%,BS,Order goods,0,0,0,
+R Dumont,Brut Millésimé,399.00,,750.00,532.00,12/1/15,0,Mousserande vin,Dry white,,Bottle,,Champagne,France,R. Dumont & Fils,Robert Rask Vinhandel,2008,12.00%,BS,Order goods,0,0,0,
+R Dumont,Rosé Brut,351.00,,750.00,468.00,12/1/15,0,Mousserande vin,Rosé,,Bottle,,Champagne,France,R. Dumont & Fils,Robert Rask Vinhandel,,12.00%,BS,Order goods,0,0,0,
+AA Laièta,Gran Reserva Brut Nature,279.00,,750.00,372.00,12/1/15,0,Mousserande vin,Dry white,,Bottle,,Cava,Spain,Alta Alella,The Wine and Spirits Collective Sweden AB,2012,12.00%,BS,Order goods,1,0,0,
+Marimar Estate Mas Cavalls,Dôna Margarita Vineyard Pinot Noir,415.00,,750.00,553.33,12/1/15,0,Red wine,,,Bottle,,California,USA,Marimar Estate,The Wine and Spirits Collective Sweden AB,2014,14.50%,BS,Order goods,0,0,0,
+Dailuaine,6 Years,728.00,,700.00,1040.00,12/1/15,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,Aberdeen Distillers,Clydesdale AB,2009,46.00%,BS,Order goods,0,0,0,
+AA Orbus,100% Syrah,359.00,,750.00,478.67,12/1/15,0,Red wine,,,Bottle,,Catalonia,Spain,Alta Alella,The Wine and Spirits Collective Sweden AB,2013,13.50%,BS,Order goods,1,0,0,
+Reserva Real,,2499.00,,750.00,3332.00,12/1/15,0,Red wine,,,Bottle,,Catalonia,Spain,Miguel Torres SA,The Wine and Spirits Collective Sweden AB,2012,14.50%,BS,Order goods,0,0,0,
+Eins Zwei Dry,Pinot Noir Rosé,115.00,,750.00,153.33,12/1/15,0,Rose wine,,,Bottle,Screw Cap,Rheingau,Germany,Weingut Leitz,Johan Lidby Vinhandel AB,2018,12.00%,BS,Order goods,0,0,0,
+Maison Rijckaert,Viré Clessé L´Epinet,249.00,,750.00,332.00,12/1/15,0,White wine,,,Bottle,Natural Cork,Burgundy,France,Maison Rijckaert,Johan Lidby Vinhandel AB,2017,13.00%,BS,Order goods,0,0,0,
+Maison Rijckaert,Arbois En Paradis Vieilles Vignes,249.00,,750.00,332.00,12/1/15,0,White wine,,,Bottle,Natural Cork,Jura,France,Maison Rijckaert,Johan Lidby Vinhandel AB,2017,13.50%,BS,Order goods,0,0,0,
+Maison Rijckaert Côtes du Jura,Les Sarres Savagnin,285.00,,750.00,380.00,12/1/15,0,White wine,,,Bottle,Natural Cork,Jura,France,Maison Rijckaert,Johan Lidby Vinhandel AB,2017,13.50%,BS,Order goods,0,0,0,
+Carlisle,Papera Ranch Zinfandel,509.00,,750.00,678.67,12/1/15,0,Red wine,,,Bottle,Natural Cork,California,USA,Carlisle Winery,Johan Lidby Vinhandel AB,2015,15.00%,BS,Order goods,0,0,0,
+Motzenbäcker,Rurale Riesling,299.00,,750.00,398.67,12/1/15,0,Mousserande vin,Dry white,,Bottle,Champagne Cork-Natural,,Germany,Menger-Krug,Terrific Wines AB,2012,12.50%,BS,Order goods,0,0,0,
+Richard Juhlin,Non-Alcoholic Sparkling Wine Rosé,94.00,,750.00,125.33,3/1/16,0,Alcohol-free,Sparkling,,Bottle,Champagne Cork-Natural,,France,MRG Wines,Arvid Nordquist Vin och Sprithandel,,0.00%,FSÖ,Fixed assortment,0,0,0,90% Chardonnay and 10% Pinot Noir.
+Clotilde Davenne,Cremant de Bourgogne Extra Brut,325.00,,1500.00,216.67,12/1/15,0,Mousserande vin,Dry white,,Magnum,Champagne Cork-Natural,Burgundy,France,Clotilde Davenne,Terrific Wines AB,,12.50%,BS,Order goods,0,0,0,
+Clotilde Davenne,Cremant de Bourgogne Extra Brut,99.00,,375.00,264.00,12/1/15,0,Mousserande vin,Dry white,,Bottle,,Burgundy,France,Clotilde Davenne,Terrific Wines AB,,12.50%,BS,Order goods,0,0,0,
+Chablis,Grand Cru Les Clos Clotilde Davenne,599.00,,750.00,798.67,12/1/15,0,White wine,,,Bottle,Natural Cork,Burgundy,France,Clotilde Davenne,Terrific Wines AB,2015,13.50%,BS,Order goods,0,0,0,
+Reichsrat von Buhl,Spätburgunder Trocken,159.00,,750.00,212.00,12/1/15,0,Red wine,,,Bottle,,Pfalz,Germany,Weingut Reichsrat von Buhl,janake wine group AB,2014,12.50%,BS,Order goods,0,0,0,
+Pousio,Tinto,99.00,,750.00,132.00,12/1/15,0,Red wine,,,Bottle,,Alentejo,Portugal,"Casa Agricola HMR, S.A.",Vänersborgs Vinagentur AB,2013,13.50%,BS,Order goods,0,0,0,
+Barossa Valley Estate,,139.00,,750.00,185.33,12/1/15,0,Red wine,,,Bottle,,South Australia,Australia,Barossa Valley Estate,janake wine group AB,2012,14.00%,BS,Order goods,0,0,0,
+Vega Hazy Amber,Pale Ale,27.90,,330.00,84.55,1/4/16,0,Beer,Ale British-American style,Amber Ale,Bottle,,Västra Götalands County,Sweden,Vega Bryggeri,Vega Bryggeri AB,,5.80%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+AR Lenoble,Grand Cru Chouilly Blanc de Blancs Brut,399.00,,750.00,532.00,12/1/15,0,Mousserande vin,Dry white,,Bottle,Champagne Cork-Natural,Champagne,France,AR Lenoble,Valid Wines Sweden AB,,12.00%,BS,Order goods,0,0,0,
+Cocchi Rosa,Aperitivo Americano,132.00,,500.00,264.00,3/1/16,0,Aperitif and dessert,Aperitif,,Bottle,,,Italy,Giulio Cocchi,Oenoforos AB,,16.50%,BS,Order goods,0,0,0,
+Montelobos,Mezcal,559.00,,700.00,798.57,12/1/15,0,Tequila and Mezcal,Mezcal,,Bottle,,,Mexico,Casa Montelobos,AliasSmith AB,,43.20%,BS,Order goods,1,0,0,
+Gold of Mauritius,,529.00,,700.00,755.71,12/1/15,0,Rum,Dark rum,,Bottle,,,Mauritius,Litchquor Ltd,Herida Aurum AB,,40.00%,BS,Order goods,0,0,0,
+Gold of Mauritius,Solera 5,579.00,,700.00,827.14,12/1/15,0,Rum,Dark rum,,Bottle,,,Mauritius,Litchquor Ltd,Herida Aurum AB,,40.00%,BS,Order goods,0,0,0,
+Skövde Vit,Symphonie d'Oc,92.00,,750.00,122.67,12/1/15,0,White wine,,,Bottle,,Languedoc-Roussillon,France,Fontesole,Triplus Vinhandel AB,2014,13.00%,BS,Order goods,0,0,0,
+Club Mauritius,Rum,450.00,,700.00,642.86,12/1/15,0,Rum,Dark rum,,Bottle,,,Mauritius,Litchquor Ltd,Herida Aurum AB,,40.00%,BS,Order goods,0,0,0,
+Waxholm,Pale Ale,27.30,,330.00,82.73,1/4/16,0,Beer,Ale British-American style,English Pale Ales And Bitters,Bottle,,Stockholm County,Sweden,Waxholms Bryggeri,Waxholms Bryggeri AB,,5.20%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+GodDryck No 2,Goda Bubblor Rosé,89.00,,750.00,118.67,3/1/16,0,Alcohol-free,Sparkling,,Bottle,Natural Cork,,International Brand,GodDryck i Sverige AB,GodDryck i Sverige AB,,0.20%,FSÖ,Fixed assortment,1,0,0,
+Ron Aldea Familia,,699.00,,700.00,998.57,12/1/15,0,Rum,Dark rum,,Bottle,,Canary Islands,Spain,Destilerías Aldea,Herida Aurum AB,1998,40.00%,BS,Order goods,0,0,0,
+Amarone della Valpolicella,Conte Gastone,389.00,,750.00,518.67,12/1/15,0,Red wine,,,Bottle,,Venetia,Italy,Massimago S.S.Agr.,Wine Group Sweden AB,2015,16.00%,BS,Order goods,1,0,0,
+Gurkha,Premium Lager Beer,52.70,,660.00,79.85,12/1/15,0,Beer,Pale lager,International Style,Bottle,Cap,,UK,Gurkha Beer Trading,World Beer Trading KB,,4.80%,BS,Order goods,0,0,0,
+Ron Esclavo,Solera XO Cask,789.00,,500.00,1578.00,12/1/15,0,Rum,Dark rum,,Bottle,,,Dominican Republic,1423,Herida Aurum AB,,65.00%,FS,Fixed assortment,0,0,0,
+André Bergere,Tentation Brut,569.00,,750.00,758.67,12/1/15,0,Mousserande vin,Dry white,,Bottle,,Champagne,France,Champagne André Bergere,Winebee AB,,12.00%,BS,Order goods,0,0,0,
+3 Monts,,31.80,,330.00,96.36,12/1/15,0,Beer,Ale Belgian style,Bière De Garde,Bottle,,,France,Brasserie de Saint-Sylvestre,Corseimport,,8.50%,BS,Order goods,0,0,0,
+Gavroche,,33.80,,330.00,102.42,12/1/15,0,Beer,Ale Belgian style,Bière De Garde,Bottle,,,France,Brasserie de Saint-Sylvestre,Corseimport,,8.50%,BS,Order goods,0,0,0,
+Roquette & Cazes,,219.00,,750.00,292.00,3/1/16,0,Red wine,Fruity & Tasteful,,Bottle,Natural Cork,Douro,Portugal,Roquette & Cazes,Hjo Grosshandel AB,2014,14.50%,BS,Order goods,0,0,0,"60% Touriga Nacional, 25% Touriga Franca and 15% Tinta Roriz."
+André Bergere,Rosé Brut,469.00,,750.00,625.33,12/1/15,0,Mousserande vin,Rosé,,Bottle,,Champagne,France,Champagne André Bergere,Winebee AB,,12.00%,BS,Order goods,0,0,0,
+André Bergere Grand Cru,Blanc de Blancs Brut,499.00,,750.00,665.33,12/1/15,0,Mousserande vin,Dry white,,Bottle,,Champagne,France,Champagne André Bergere,Winebee AB,,12.00%,BS,Order goods,0,0,0,
+Picpoulet de Pinet,,139.00,,750.00,185.33,12/1/15,0,White wine,,,Bottle,,Languedoc-Roussillon,France,GFA Font Mars,Skrubbes Wines AB,2018,13.00%,BS,Order goods,0,0,0,
+Barsol Pisco,Selecto Torontel,474.00,,700.00,677.14,12/1/15,0,Armagnac and Brandy,Brandy,,Bottle,Twist Off,,Peru,Bodega San Isidro,Cask Kompaniet AB,,41.30%,BS,Order goods,0,0,0,
+Värmdö,Pomme de Vie,496.00,,700.00,708.57,3/1/16,0,Fruit and Grape Spirits,Fruit spirit,,Bottle,,Stockholm County,Sweden,Värmdö Bränneri AB,Värmdö Bränneri AB,2013,40.00%,BS,Order goods,0,0,0,
+Château la Varière,Cabernet Sauvignon,169.00,,750.00,225.33,3/1/16,0,Red wine,Fruity & Tasteful,,Bottle,Natural Cork,Loire Valley,France,Château la Varière,Quaffable Wines Sweden AB,2015,13.50%,BS,Order goods,0,0,0,Cabernet Sauvignon.
+Guldkula White,Grand Cru Blanc de Blancs,399.00,,750.00,532.00,12/1/15,0,Mousserande vin,Dry white,,Bottle,Champagne Cork-Natural,Champagne,France,R & L Legras,Sundance Wines AB,,12.00%,BS,Order goods,0,0,0,
+Guldkula Black,Grand Cru Blanc de Noir,499.00,,750.00,665.33,12/1/15,0,Mousserande vin,Dry white,,Bottle,Champagne Cork-Natural,Champagne,France,Société de Producteurs,Sundance Wines AB,,12.00%,BS,Order goods,0,0,0,
+Guldkula Pink,Grand Cru Rosé,499.00,,750.00,665.33,12/1/15,0,Mousserande vin,Rosé,,Bottle,Champagne Cork-Natural,Champagne,France,Société de Producteurs,Sundance Wines AB,,12.00%,BS,Order goods,0,0,0,
+Rully Premier Cru,Les Grésigny,229.00,,750.00,305.33,3/1/16,0,White wine,,,Bottle,Natural Cork,Burgundy,France,Domaine J. F. Protheau,We & Wine AB,2017,12.50%,BS,Order goods,0,0,0,
+Alva,,85.00,,750.00,113.33,3/1/16,0,Red wine,Spicy & Musty,,Bottle,Natural Cork,Rhone Valley,France,Domaine de Calet,Winepartners Nordic AB,2016,14.50%,FS,Fixed assortment,1,0,0,"Syrah, marselan and Mourvèdre."
+Château Haut-Cazevert,,101.00,,750.00,134.67,3/1/16,0,White wine,,,Bottle,,Bordeaux,France,Château Haut Cazevert,Krates Vin & Delikatesser,2015,13.50%,BS,Order goods,0,0,0,
+Dilé,d Rosso,99.00,,750.00,132.00,12/1/15,0,Red wine,,,Bottle,,,Italy,Santero,Obrini Beverage Company AB,2013,14.00%,BS,Order goods,0,0,0,
+Dilé,d Rosa,99.00,,750.00,132.00,12/1/15,0,Rose wine,,,Bottle,,,Italy,Santero,Obrini Beverage Company AB,,12.50%,BS,Order goods,0,0,0,
+Le Sassine,Valpolicella Ripasso,277.00,,750.00,369.33,12/1/15,0,Red wine,,,Bottle,Natural Cork,Venetia,Italy,Le Ragose,Vino Conoscenza AB,2013,14.00%,BS,Order goods,0,0,0,
+Andechser,Doppelbock Dunkel,35.90,,500.00,71.80,12/1/15,0,Beer,Dark lager,Double Bock,Bottle,,,Germany,Klosterbrauerei Andechs,Cask Sweden AB,,7.10%,BS,Order goods,0,0,0,
+Andechser,Special Hell,33.90,,500.00,67.80,12/1/15,0,Beer,Pale lager,Dortmunder and Helles,Bottle,,,Germany,Klosterbrauerei Andechs,Cask Sweden AB,,5.90%,BS,Order goods,0,0,0,
+Jack Ryan,Irish Single Malt 12 Years,799.00,,700.00,1141.43,12/1/15,0,Whisky,Malt whiskey,,Bottle,,,Ireland,Jack Ryan Whiskey Company,Granqvist Beverage House AB,,46.00%,BS,Order goods,0,0,0,
+Barsol Pisco,Supremo Mosto Verde Torontel,525.00,,700.00,750.00,12/1/15,0,Armagnac and Brandy,Brandy,,Bottle,Twist Off,,Peru,Bodega San Isidro,Cask Kompaniet AB,,41.80%,BS,Order goods,0,0,0,
+Del Pedregal Seleccion,Tannat,199.00,,750.00,265.33,12/1/15,0,Red wine,,,Bottle,,Canelones,Uruguay,Antigua Bodega Stagnari,Wine Lounge Stockholm AB,2015,13.50%,BS,Order goods,0,0,0,
+Siete Misterios Doba-Yej,Mezcal,547.00,,700.00,781.43,12/1/15,0,Tequila and Mezcal,Mezcal,,Bottle,Twist Off,,Mexico,Los Siete Misterios Mezcal,Cask Kompaniet AB,,44.00%,BS,Order goods,0,0,0,
+Muratie,Laurens Campher,195.00,,750.00,260.00,12/1/15,0,White wine,,,Bottle,,Western Cape,South Africa,Muratie,Wine Lounge Stockholm AB,2014,14.50%,BS,Order goods,0,0,0,
+Muratie,George Paul Canitz Pinot Noir,195.00,,750.00,260.00,12/1/15,0,Red wine,,,Bottle,,Western Cape,South Africa,Muratie,Wine Lounge Stockholm AB,2015,13.50%,BS,Order goods,0,0,0,
+Skövde Röd,Symphonic d'Oc,92.00,,750.00,122.67,12/1/15,0,Red wine,Fruity & Tasteful,,Bottle,Screw Cap,Languedoc-Roussillon,France,Fontesole,Triplus Vinhandel AB,2014,13.00%,BS,Order goods,0,0,0,"Merlot, Syrah and Grenache."
+El Coto,Crianza,89.00,,750.00,118.67,5/20/96,0,Red wine,Spicy & Musty,,Bottle,Screw Cap,Rioja,Spain,Bodegas El Coto,Spendrups Bryggeri AB,2015,13.50%,FS,Fixed assortment,0,0,0,Tempranillo.
+Quinta Do Tedo,LBV,398.00,,750.00,530.67,12/1/15,0,Aperitif and dessert,Port,Late Bottled Vintage (LBV),Bottle,,Douro,Portugal,Quinta do Tedo,Wine Lounge Stockholm AB,2007,20.00%,BS,Order goods,0,0,0,
+Quinta Do Tedo,Fine Tawny,390.00,,750.00,520.00,12/1/15,0,Aperitif and dessert,Port,Tawny,Bottle,,Douro,Portugal,Quinta do Tedo,Wine Lounge Stockholm AB,,19.00%,BS,Order goods,0,0,0,
+Domaine des Pasquiers,Plan de Dieu,119.00,,750.00,158.67,3/1/16,0,Red wine,Spicy & Musty,,Bottle,Natural Cork,Rhone Valley,France,Domaine des Pasquiers,People Wine AB,2018,14.00%,FS,Fixed assortment,1,0,0,"60% Grenache, 30% and 10% syrah Mourvédre."
+Recioto della Valpolicella Classico,Mizzon,250.00,,500.00,500.00,12/1/15,0,Red wine,Sweet,,Bottle,Natural Cork,Venetia,Italy,Azienda Agricola Mizzon di Perusi Nicola,Vino Conoscenza AB,2014,13.50%,BS,Order goods,0,0,0,
+Jokigen,Fujin Junmai Ginjo,240.00,,720.00,333.33,12/1/15,0,Sake,,,Bottle,,,Japan,Kano Brewery,Flying Brewery AB,,16.00%,BS,Order goods,0,0,0,
+Jokigen,Yamahai Junmai,288.00,,720.00,400.00,12/1/15,0,Sake,,,Bottle,,,Japan,Kano Brewery,Flying Brewery AB,,16.00%,BS,Order goods,0,0,0,
+Château La Garde Collection,,1002.00,,2250.00,445.33,12/1/15,0,Red wine,,,3 bottle à 750 ml,,Bordeaux,France,Vins et Vignobles Dourthe,Carovin AB,,14.00%,BS,Order goods,0,0,0,
+Jean Vesselle,Grand Cru Prestige Brut,399.00,,750.00,532.00,12/1/15,0,Mousserande vin,Dry white,,Bottle,,Champagne,France,Jean Vesselle,Greenery Wines KB,,12.00%,BS,Order goods,0,0,0,
+Canard Duchêne Charles VII,Blanc de Noirs Brut,549.00,,750.00,732.00,12/1/15,0,Mousserande vin,Dry white,,Bottle,,Champagne,France,Champagne Canard-Duchêne,Fine Brands Sweden AB,,12.00%,BS,Order goods,0,0,0,
+Contino,Graciano,719.00,,750.00,958.67,7/6/18,0,Red wine,,,Bottle,,Rioja,Spain,Viñedos del Contino,AB Wicked Wine Sweden,2014,13.00%,TSE,Temporary assortment,0,0,0,Graciano.
+Bourgogne Chardonnay,J M Brocard,129.00,,750.00,172.00,1/31/18,0,White wine,Fresh & Fruity,,Bottle,Screw Cap,Burgundy,France,J M Brocard,Johan Lidby Vinhandel AB,2017,12.50%,FS,Fixed assortment,0,0,0,Chardonnay.
+Sommarström,Yttervala Kummin,240.00,,500.00,480.00,3/19/18,0,Aquavit and Spiced brännvin,Akvavit,,Bottle,,Södermanlands County,Sweden,Viness,Viness AB,,38.00%,BS,Order goods,1,0,0,
+Bielle,Ambré,629.00,,500.00,1258.00,2/5/18,0,Rum,Dark rum,,Bottle,,Guadeloupe,France,LMDW / Bielle Distillery,Clydesdale AB,,50.00%,BS,Order goods,0,0,0,
+Bielle Vintage,Rhum Vieux Agricole,839.00,,500.00,1678.00,2/5/18,0,Rum,Dark rum,,Bottle,,Guadeloupe,France,LMDW / Bielle Distillery,Clydesdale AB,2011,42.00%,BS,Order goods,0,0,0,
+Neisson,Batch 2,3796.00,,700.00,5422.86,2/5/18,0,Rum,Dark rum,,Bottle,,Martinique,France,LMDW / Neisson Distillery,Clydesdale AB,2000,48.00%,BS,Order goods,0,0,0,
+Neisson,XO par Neisson,1098.00,,700.00,1568.57,2/5/18,0,Rum,Dark rum,,Bottle,,Martinique,France,LMDW / Neisson Distillery,Clydesdale AB,,48.50%,BS,Order goods,0,0,0,
+Pere Labat,Rhum Extra Vieux Agricole De Marie Galant,1449.00,,700.00,2070.00,2/5/18,0,Rum,Dark rum,,Bottle,,Guadeloupe,France,LMDW / Domaine Poisson,Clydesdale AB,,42.00%,BS,Order goods,0,0,0,
+Pere Labat,59,578.00,,700.00,825.71,2/5/18,0,Rum,Light rum,,Bottle,,Guadeloupe,France,LMDW / Domaine Poisson,Clydesdale AB,,59.00%,BS,Order goods,0,0,0,
+Pere Labat Dore,Rhum Agricole,679.00,,700.00,970.00,2/5/18,0,Rum,Dark rum,,Bottle,,Guadeloupe,France,LMDW / Domaine Poisson,Clydesdale AB,,50.00%,BS,Order goods,0,0,0,
+Pere Labat Soleil,Rhum Brun Agricole de Marie-Galante,648.00,,700.00,925.71,2/5/18,0,Rum,Dark rum,,Bottle,,Guadeloupe,France,LMDW / Domaine Poisson,Clydesdale AB,,55.00%,BS,Order goods,0,0,0,
+Craven,Cinsaut,224.00,,750.00,298.67,2/5/18,0,Red wine,,,Bottle,,Western Cape,South Africa,Craven Wines,Handpicked Wines Sweden AB,2018,12.00%,BS,Order goods,0,0,0,
+Craven,Clairette Blanche,199.00,,750.00,265.33,2/5/18,0,White wine,,,Bottle,,Western Cape,South Africa,Craven Wines,Handpicked Wines Sweden AB,2017,11.50%,BS,Order goods,0,0,0,
+Craven,Syrah The Firs Vineyard,229.00,,750.00,305.33,2/5/18,0,Red wine,,,Bottle,,Western Cape,South Africa,Craven Wines,Handpicked Wines Sweden AB,2017,12.50%,BS,Order goods,0,0,0,
+Willy Nilssons,Bäsk,259.00,,500.00,518.00,12/1/15,0,Aquavit and Spiced brännvin,Spiced spirits,,Bottle,,Stockholm County,Sweden,AB Svenska Sprit TBH,AB Svenska Sprit TBH,,33.00%,BS,Order goods,0,0,0,
+AB Svenska Sprit Vodka,,299.00,,500.00,598.00,12/1/15,0,Vodka and Brännvin,Vodka,,Bottle,,Stockholm County,Sweden,AB Svenska Sprit TBH,AB Svenska Sprit TBH,,40.00%,BS,Order goods,0,0,0,
+Premium Aquavit,,857.00,,700.00,1224.29,12/1/15,0,Aquavit and Spiced brännvin,Akvavit,,Bottle,Glass Cork,,Sweden,Tevsjö Destilleri Järvsö AB,Tevsjö Destilleri i Järvsö AB,2015,41.00%,BS,Order goods,0,0,0,
+Fürst von Metternich,Riesling Sekt Trocken,119.00,,750.00,158.67,12/1/15,0,Mousserande vin,Dry white,,Bottle,,Rheingau,Germany,Fürst von Metternich,Henkell Freixenet Sweden AB,,12.50%,BS,Order goods,0,0,0,Riesling.
+Backens Lager,,22.90,,330.00,69.39,2/1/16,0,Beer,Pale lager,Pilsner - Czech style,Bottle,,Västerbotten County,Sweden,Skellefteå Bryggeri AB,Skellefteå Bryggeri AB,,4.70%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Backens Ale,,23.80,,330.00,72.12,2/1/16,0,Beer,Ale British-American style,English Pale Ales And Bitters,Bottle,,Västerbotten County,Sweden,Skellefteå Bryggeri AB,Skellefteå Bryggeri AB,,5.30%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Artadi,El Pison,2199.00,,750.00,2932.00,4/26/18,0,Red wine,,,Bottle,,Rioja,Spain,Artadi,Lively Wines Sweden AB,2015,14.50%,TSE,Temporary assortment,0,0,0,
+Quinta dos Castelares,,93.00,,750.00,124.00,6/1/18,0,Red wine,Fruity & Tasteful,,Bottle,Natural Cork,Douro,Portugal,Casa Agricola Manuel Joaquim Caldeira,LarCap AB,2017,14.00%,FS,Fixed assortment,1,0,0,"50% Touriga Nacional, 25% Touriga Franca and 25% Tinta Roriz (Tempranillo)."
+Bründlmayer,Langenloiser Steinmassel 1ÖTW Riesling,199.00,,750.00,265.33,6/1/18,0,White wine,,,Bottle,Natural Cork,Niederösterreich,Austria,Weingut Bründlmayer,Vinunic AB,2016,12.50%,BS,Order goods,0,0,0,
+Alto del Carmen,Alto Reservado,399.00,,700.00,570.00,1/29/18,0,Armagnac and Brandy,Brandy,,Bottle,Screw Cap,,Chile,Pisco Capel,Remilio AB,,40.00%,BS,Order goods,0,0,0,
+Amorini,,99.00,,750.00,132.00,1/31/18,0,Red wine,Fruity & Tasteful,,Bottle,Natural Cork,Venetia,Italy,Cantine Vitevis SCA,Hard On AB,2013,14.50%,BS,Order goods,0,0,0,
+Marc de Gewurztraminer,,652.00,,350.00,1862.86,5/17/18,0,Grappa and Marc,Marc,,Bottle,Natural Cork,Alsace,France,Domaine Zind Humbrecht,Vinunic AB,2003,72.50%,TSE,Temporary assortment,0,0,0,
+Boxer Gin,,447.00,,700.00,638.57,1/2/16,0,Gin and Genever,Gin,,Bottle,,,UK,Green Box Drinks,Vivona AB,,40.00%,BS,Order goods,0,0,0,
+The Macallan,Rare Cask,2399.00,,700.00,3427.14,1/2/16,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,The Edrington Group,Edrington Sweden AB,,43.00%,BS,Order goods,0,0,0,
+Loimer,Zweigelt,119.00,,750.00,158.67,6/1/18,0,Red wine,Fruity & Tasteful,,Bottle,,Niederösterreich,Austria,Weingut Fred Loimer,Gullberg by Stockwine AB,2018,13.00%,BS,Order goods,1,0,0,Zweigelt.
+Macduff,20 Years,1239.00,,700.00,1770.00,2/5/18,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,Hunter Laing & Company,Clydesdale AB,1997,50.00%,BS,Order goods,0,0,0,
+Neisson,Le Rhum Agricole Vieux par Neisson,797.00,,700.00,1138.57,2/5/18,0,Rum,Dark rum,,Bottle,,Martinique,France,LMDW / Neisson Distillery,Clydesdale AB,,45.00%,BS,Order goods,0,0,0,
+Malecon,Gran Reserva 8 Años,518.00,,700.00,740.00,2/5/18,0,Rum,Dark rum,,Bottle,,,Panama,Bodegas de America,AB Wicked Wine Sweden,,40.00%,BS,Order goods,0,0,0,
+Malecon,Reserva Superior 15 Ãnos,719.00,,700.00,1027.14,2/5/18,0,Rum,Dark rum,,Bottle,,,Panama,Bodegas de America,AB Wicked Wine Sweden,,40.00%,BS,Order goods,0,0,0,
+Mocambo 10,Solera Edition Aniversario,589.00,,700.00,841.43,2/5/18,0,Rum,Dark rum,,Bottle,,,Mexico,Licores Veracruz,Clydesdale AB,,40.00%,BS,Order goods,0,0,0,
+Mangoustan's,Carte Gris,439.00,,700.00,627.14,2/5/18,0,Rum,Dark rum,,Bottle,,French West Indies,France,Slaur SAS,Clydesdale AB,,42.00%,BS,Order goods,0,0,0,
+Brygghuset Finn,Easter Porter,24.90,,330.00,75.46,4/1/19,0,Beer,Porter and Stout,Dry Porter And Stout,Bottle,,Skåne County,Sweden,Brygghuset Finn,AB Brygghuset Finn,,5.50%,TSS,Seasonal,0,0,0,
+Göteborgs,Easter Session IPA Eko,19.90,,330.00,60.30,4/1/19,0,Beer,Ale British-American style,Session IPA,Bottle,,Västra Götalands County,Sweden,Göteborgs Nya Bryggeri AB,Göteborgs Nya Bryggeri AB,,3.70%,TSLS,Local & Small-scale,1,0,0,"Barley malt and hop varieties Simcoe, mosaic and cascade."
+Nils Oscar Kalaspåsköl,,19.90,,330.00,60.30,4/1/19,0,Beer,Ale British-American style,Brown Ale,Bottle,,Södermanlands County,Sweden,Nils Oscar AB,Nils Oscar AB,,5.60%,TSLS,Local & Small-scale,0,0,0,"Roasted barley, barley malt (light malt, caramel malt) and hops."
+Remmarlöv,The Easter Brew Organic Lager,22.70,,330.00,68.79,4/1/19,0,Beer,Dark lager,Dim,Bottle,,Skåne County,Sweden,Remmarlöv Gårdsbryggeri AB,Remmarlöv Gårdsbryggeri AB,,5.50%,TSLS,Local & Small-scale,1,0,0,
+Levante,Colombard Chardonnay,169.00,,3000.00,56.33,2/14/18,0,White wine,Fresh & Fruity,,Box,,,South Africa,Nordic Sea Winery,Oenoforos AB,,12.50%,FS,Fixed assortment,0,0,0,Colombard and Chardonnay.
+Uitvlugt,Kill Devil Single Cask Rum 17 Years,1238.00,,700.00,1768.57,2/5/18,0,Rum,Dark rum,,Bottle,,,Guyana,Edition Spirits,Clydesdale AB,1999,46.00%,BS,Order goods,0,0,0,
+Grebbestads,Påsköl,26.50,,500.00,53.00,4/1/19,0,Beer,Amber lager,Märzen and Viennese style,Bottle,,Västra Götalands County,Sweden,Grebbestads Bryggeri,Grebbestad Bryggeri AB,,5.20%,TSLS,Local & Small-scale,0,0,0,
+Say Blush,Pink Grapefruit,59.00,,750.00,78.67,2/5/18,0,Mousserande vin,Flavoured,,Bottle,,Méditerranée,France,Rivarose,Bibendum,,6.50%,BS,Order goods,0,0,0,
+Château Macquin,Saint-Georges Saint-Émilion,145.00,,750.00,193.33,2/5/18,0,Red wine,,,Bottle,Natural Cork,Bordeaux,France,Sovex Woltner,Tryffelsvinet AB,2016,14.50%,BS,Order goods,0,0,0,
+Remmarlöv,The Hop Hatch Brown Ale,24.70,,330.00,74.85,4/1/19,0,Beer,Ale British-American style,Brown Ale,Bottle,,Skåne County,Sweden,Remmarlöv Gårdsbryggeri AB,Remmarlöv Gårdsbryggeri AB,,6.00%,TSLS,Local & Small-scale,0,0,0,"Barley and wheat malt and oats and hops varieties Simcoe, Cascade, Columbus and ekuanot."
+Södra I F*king Love Bunnies,,29.90,,330.00,90.61,3/12/18,0,Beer,Ale British-American style,Imperial / Double IPA,Bottle,,Stockholm County,Sweden,Södra Maltfabriken Brewery,Södra Maltfabriken AB,,8.00%,TSLS,Local & Small-scale,0,0,0,
+Cune,Crianza,125.00,,750.00,166.67,2/6/18,0,Red wine,,,Bottle,,Rioja,Spain,Compañia Vinicola del Norte de España,AB Wicked Wine Sweden,2016,13.50%,BS,Order goods,0,0,0,
+Cune,Reserva,175.00,,750.00,233.33,2/6/18,0,Red wine,,,Bottle,,Rioja,Spain,Compañia Vinicola del Norte de España,AB Wicked Wine Sweden,2015,14.00%,BS,Order goods,0,0,0,
+Sour Fisk,Ice Pear,179.00,,700.00,255.71,2/7/18,0,Liqueur,Other liqueur,,Bottle,Screw Cap,,Denmark,United Drinks,Chris-Wine AB,,15.00%,FS,Fixed assortment,0,0,0,
+Virgin Earth,Sauvignon Blanc Semillon,99.00,,750.00,132.00,2/7/18,0,White wine,,,Bottle,Screw Cap,Western Cape,South Africa,Virgin Earth,Best Of Special Selected Wine AB,2014,12.50%,BS,Order goods,0,0,0,
+Virgin Earth,Five,119.00,,750.00,158.67,2/7/18,0,Red wine,,,Bottle,Natural Cork,Western Cape,South Africa,Virgin Earth,Best Of Special Selected Wine AB,2015,14.50%,BS,Order goods,0,0,0,
+El Copero,,69.00,,750.00,92.00,2/7/18,0,Red wine,Soft & Berry,,Bottle,,Valencia,Spain,Bodegas Murviedro,Prime Wine Sweden AB,2016,12.00%,BS,Order goods,0,0,0,Bobal and Monastrell.
+Châteauneuf-du-Pape,Château Sixtine,379.00,,750.00,505.33,2/7/18,0,Red wine,,,Bottle,Natural Cork,Rhone Valley,France,Cuvée du Vatican,Bristly Wine Agents AB,2015,15.00%,BS,Order goods,0,0,0,
+Små Röde,Hallonlakrits,149.00,,500.00,298.00,2/7/18,0,Liqueur,Other liqueur,,Bottle,,,Denmark,Spritfabrikken Danmark ApS,Spivi AB,,16.40%,BS,Order goods,0,0,0,
+Antolini,Amarone della Valpolicella Classico Moròpio,475.00,,750.00,633.33,2/19/18,0,Red wine,,,Bottle,,Venetia,Italy,Antolini Pier Paolo e Stefano,Viniverdi Sweden AB,2013,16.00%,BS,Order goods,0,0,0,
+Bertoldi Manuele,Casale Veneto,259.00,,750.00,345.33,2/19/18,0,Red wine,,,Bottle,,Venetia,Italy,Azienda Agricola Bertoldi Manuele,Viniverdi Sweden AB,2011,14.00%,BS,Order goods,0,0,0,
+Bertoldi Manuele,Lugana,212.00,,750.00,282.67,2/19/18,0,White wine,,,Bottle,,Lombardy,Italy,Azienda Agricola Bertoldi Manuele,Viniverdi Sweden AB,2016,13.00%,BS,Order goods,0,0,0,
+Närke Slättöl,Pale Ale,33.90,,500.00,67.80,2/1/16,0,Beer,Ale British-American style,English Pale Ales And Bitters,Bottle,,Örebro County,Sweden,Närke Kulturbryggeri,Närke Kulturbryggeri AB,,4.90%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Gustave Lorentz,Evidence Riesling,139.00,,750.00,185.33,1/2/16,0,White wine,Fresh & Fruity,,Bottle,,Alsace,France,Gustave Lorentz,Bibendum,2016,12.50%,FSB,Fixed assortment,1,0,0,Riesling.
+Bols Genever 21,,325.00,,700.00,464.29,1/2/16,0,Gin and Genever,Genever,,Bottle,,,Netherlands,Lucas Bols,Edrington Sweden AB,,38.00%,BS,Order goods,0,0,0,
+Domäne Wachau,Grüner Veltliner,169.00,,750.00,225.33,1/2/16,0,White wine,,,Bottle,,Niederösterreich,Austria,Domäne Wachau,Prime Wine Sweden AB,2015,13.00%,BS,Order goods,0,0,0,
+Premium Brand Klassiker Cider,Peach,19.90,,330.00,60.30,5/6/96,0,Cider,Dry and semi-dry,,Bottle,,Kalmar County,Sweden,TOMP Beer & Spirits AB,TOMP Beer Wine & Spirits AB,,7.00%,FS,Fixed assortment,0,0,0,
+Rådanäs Ekologiska Saison,,24.90,,330.00,75.46,2/1/16,0,Beer,Ale Belgian style,Saison,Bottle,,Västra Götalands County,Sweden,Rådanäs Bryggeri AB,Rådanäs Bryggeri AB,,6.00%,TSLS,Local & Small-scale,1,0,0,"Barley, wheat and rye malt, oats and hops."
+Gustave Lorentz,Riesling Lieu dit Burg,189.00,,750.00,252.00,1/2/16,0,White wine,,,Bottle,,Alsace,France,Gustave Lorentz,Bibendum,2016,12.50%,BS,Order goods,1,0,0,
+Gustave Lorentz,Pinot Gris Lieu dit Schofweg,199.00,,750.00,265.33,1/2/16,0,White wine,,,Bottle,,Alsace,France,Gustave Lorentz,Bibendum,2013,13.00%,BS,Order goods,1,0,0,
+Tullibardine,25 Years,1639.00,,700.00,2341.43,1/2/16,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,Tullibardine Distillery,Clydesdale AB,,43.00%,BS,Order goods,0,0,0,
+Elements Of Islay,Oc2,2276.00,,500.00,4552.00,1/2/16,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,Speciality Drinks,Clydesdale AB,,63.50%,BS,Order goods,0,0,0,
+Jämtlands Bärnsten,Ljus Lager,19.90,,330.00,60.30,3/1/16,0,Beer,Amber lager,Märzen and Viennese style,Bottle,,Jämtland County,Sweden,Jämtlands Bryggeri AB,Jämtlands Bryggeri AB,,5.00%,FS,Fixed assortment,0,0,0,"Barley malt, wheat malt and hops."
+Jämtlands,India Pale Ale,20.90,,330.00,63.33,3/1/16,0,Beer,Ale British-American style,India Pale Ale (IPA),Bottle,,Jämtland County,Sweden,Jämtlands Bryggeri AB,Jämtlands Bryggeri AB,,5.50%,FS,Fixed assortment,0,0,0,Barley malt and hops.
+Martha Krieger,Spitzenpilsner,23.50,,330.00,71.21,3/1/16,0,Beer,Pale lager,Pilsner - German style,Bottle,Crown Cap,,Germany,Riedenburger Brauhaus,Sigva AB,,4.70%,BS,Order goods,1,0,0,
+Öland Pale Ale,ÖPA,24.30,,330.00,73.64,2/1/16,0,Beer,Ale British-American style,American Pale Ale (APA),Bottle,,Kalmar County,Sweden,Kackelbryggeriet,Kackelstugan AB,,4.90%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Glendronach,Peated,549.00,,700.00,784.29,1/2/16,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,GlenDronach Distillery,Nigab,,46.00%,BS,Order goods,0,0,0,
+Rust en Vrede Estate,Syrah,269.00,,750.00,358.67,1/2/16,0,Red wine,,,Bottle,Natural Cork,Western Cape,South Africa,Rust en Vrede Estate,The WineAgency Sweden AB,2015,14.50%,BS,Order goods,0,0,0,
+Crémant d'Alsace,Riesling Brut,155.00,,750.00,206.67,1/2/16,0,Mousserande vin,Dry white,,Bottle,Champagne Cork-Natural,Alsace,France,Albert Schoech,We & Wine AB,,12.50%,BS,Order goods,0,0,0,
+Piemonte,Barbera,119.00,,750.00,158.67,1/2/16,0,Red wine,Soft & Berry,,Bottle,Natural Cork,Piedmont,Italy,San Silvestro,Wine Affair Scandinavia AB,2018,13.50%,FS,Fixed assortment,1,0,0,Barbera.
+Les Tourelles de Longueville,,529.00,,750.00,705.33,1/2/16,0,Red wine,,,Bottle,,Bordeaux,France,Château Pichon-Longueville-Baron,Sigva AB,2013,13.00%,BS,Order goods,0,0,0,
+Allegrini,Palazzo della Torre,169.00,,750.00,225.33,1/2/16,0,Red wine,,,Bottle,,Venetia,Italy,Allegrini,Iconic Wines,2016,13.50%,BS,Order goods,0,0,0,
+Kiviks Ekologisk Äppelcider,Torr,17.90,,330.00,54.24,3/1/16,0,Cider,Dry and semi-dry,,Bottle,,Skåne County,Sweden,Kiviks Musteri AB,Kiviks Musteri AB,,4.50%,FS,Fixed assortment,1,0,0,
+Kiviks Ekologisk Äppelcider,,17.90,,330.00,54.24,3/1/16,0,Cider,Dry and semi-dry,,Bottle,,Skåne County,Sweden,Kiviks Musteri AB,Kiviks Musteri AB,,4.50%,BS,Order goods,1,0,0,
+Elements of Islay,Pi4,1410.00,,500.00,2820.00,1/2/16,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,Speciality Drinks,Clydesdale AB,,61.20%,BS,Order goods,0,0,0,
+Louis Jadot,Coteaux Bourguignons Blanc,119.00,,750.00,158.67,2/26/18,0,White wine,Full-bodied & Tasty,,Bottle,Natural Cork,Burgundy,France,Maison Louis Jadot,Wine Affair Scandinavia AB,2018,12.00%,BS,Order goods,0,0,0,Chardonnay.
+GraÅ¡evina,Kutjevo,79.00,,750.00,105.33,6/1/18,0,White wine,Fresh & Fruity,,Bottle,Natural Cork,Kontinentalna,Croatia,Kutjevo,Winepartners Nordic AB,2018,12.50%,FS,Fixed assortment,0,0,0,GraÅ¡evina.
+Espelt,Terres Negres,149.00,,750.00,198.67,6/1/18,0,Red wine,,,Bottle,Natural Cork,Catalonia,Spain,Espelt Viticultors,Winepartners Nordic AB,2015,14.50%,BS,Order goods,0,0,0,
+Antolini,Corvina Veronese,198.00,,750.00,264.00,2/19/18,0,Red wine,,,Bottle,,Venetia,Italy,Antolini Pier Paolo e Stefano,Viniverdi Sweden AB,2014,13.00%,BS,Order goods,0,0,0,
+Antolini,Valpolicella Ripasso Classico Superiore,245.00,,750.00,326.67,2/19/18,0,Red wine,,,Bottle,,Venetia,Italy,Antolini Pier Paolo e Stefano,Viniverdi Sweden AB,2015,14.00%,BS,Order goods,0,0,0,
+Brooklyn,Small Batch Gin,588.00,,700.00,840.00,2/12/18,0,Gin and Genever,Gin,,Bottle,,,USA,Brooklyn Craft Works LLC,Cranberries Jakobsson & Lövgren AB,,40.00%,BS,Order goods,0,0,0,
+Virgin Earth,Chenin Blanc,139.00,,750.00,185.33,2/12/18,0,White wine,,,Bottle,Natural Cork,Western Cape,South Africa,Virgin Earth,Best Of Special Selected Wine AB,2010,12.50%,BS,Order goods,0,0,0,
+Amarone della Valpolicella,Provolo,525.00,,750.00,700.00,2/19/18,0,Red wine,,,Bottle,,Venetia,Italy,Provolo Società Agricola Semplice di Provolo Marco & C.,Viniverdi Sweden AB,2010,15.50%,BS,Order goods,0,0,0,
+Valpolicella Ripasso Superiore,Provolo Campotorbian,249.00,,750.00,332.00,2/19/18,0,Red wine,,,Bottle,,Venetia,Italy,Provolo Società Agricola Semplice di Provolo Marco & C.,Viniverdi Sweden AB,,14.00%,BS,Order goods,0,0,0,
+Entis,Rosso Veronese,478.00,,750.00,637.33,2/19/18,0,Red wine,,,Bottle,,Venetia,Italy,Provolo Società Agricola Semplice di Provolo Marco & C.,Viniverdi Sweden AB,2010,14.50%,BS,Order goods,0,0,0,
+Valpolicella Ripasso Classico Superiore,Le Marognole,278.00,,750.00,370.67,2/19/18,0,Red wine,,,Bottle,,Venetia,Italy,Le Marognole,Viniverdi Sweden AB,2014,14.50%,BS,Order goods,0,0,0,
+Kiviks Skånsk Äppelcider,,18.90,,275.00,68.73,3/1/16,0,Cider,Dry and semi-dry,,Bottle,,Skåne County,Sweden,Kiviks Musteri AB,Kiviks Musteri AB,,7.00%,FS,Fixed assortment,0,0,0,
+Kiviks Ekologisk Äppelcider med smak av Fläderblom,,17.90,,330.00,54.24,3/1/16,0,Cider,Dry and semi-dry,,Bottle,,Skåne County,Sweden,Kiviks Musteri AB,Kiviks Musteri AB,,4.50%,FS,Fixed assortment,1,0,0,
+Gato Negro,Sauvignon Blanc,62.00,,750.00,82.67,12/1/15,0,White wine,,,Bottle,,Valle Central,Chile,Viña San Pedro,Pernod Ricard Sweden AB,2018,12.00%,BS,Order goods,0,0,0,
+Absolut Vodka,,249.00,,600.00,415.00,12/1/15,0,Vodka and Brännvin,Vodka,,12 bottle à 50 ml,,Skåne County,Sweden,V&S,Pernod Ricard Sweden AB,,40.00%,BS,Order goods,0,0,0,
+Penfolds Koonunga Hill,Chardonnay,89.00,,750.00,118.67,3/1/96,0,White wine,Full-bodied & Tasty,,Bottle,Screw Cap,South Australia,Australia,Penfolds,Treasury Wine Estates Sweden AB,2018,13.00%,FS,Fixed assortment,0,0,0,Chardonnay.
+Fulltofta Sjuan,,25.90,,330.00,78.49,12/2/19,0,Beer,Ale British-American style,American Pale Ale (APA),Bottle,,Skåne County,Sweden,Fulltofta Gårdsbryggeri,Fulltofta Gårdsbryggeri AB,,5.00%,TSLS,Local & Small-scale,0,0,0,barley malt
+Lager 061,,25.90,,330.00,78.49,12/2/19,0,Beer,Pale lager,Modern Style,Bottle,,Skåne County,Sweden,Fulltofta Gårdsbryggeri,Fulltofta Gårdsbryggeri AB,,5.40%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Beefeater,London Dry Gin,256.00,,600.00,426.67,12/1/15,0,Gin and Genever,Gin,,12 bottle à 50 ml,,,UK,James Burrough,Pernod Ricard Sweden AB,,40.00%,BS,Order goods,0,0,0,
+Jameson,,316.00,,600.00,526.67,12/1/15,0,Whisky,Blended whisky,,12 bottle à 50 ml,,,Ireland,John Jameson,Pernod Ricard Sweden AB,,40.00%,BS,Order goods,0,0,0,
+Jameson,,1810.00,,4500.00,402.22,12/1/15,0,Whisky,Blended whisky,,Bottle,,,Ireland,John Jameson,Pernod Ricard Sweden AB,,40.00%,BS,Order goods,0,0,0,
+Dooley's,White Chocolate Cream Liqueur,189.00,,700.00,270.00,1/2/16,0,Liqueur,Cream liqueur,,Bottle,,,Germany,Behn,We & Wine AB,,15.00%,BS,Order goods,0,0,0,
+Calvet Reserve,Sauvignon Blanc,139.00,,750.00,185.33,1/2/16,0,White wine,,,Bottle,Natural Cork,Bordeaux,France,Calvet,Enjoy Wine & Spirits AB,2017,11.50%,BS,Order goods,0,0,0,
+Dolcetto d'Alba,,189.00,,750.00,252.00,1/2/16,0,Red wine,,,Bottle,,Piedmont,Italy,Fratelli Cigliuti,Enjoy Wine & Spirits AB,2017,13.50%,BS,Order goods,0,0,0,
+Barsol Pisco,Selecto Italia,474.00,,700.00,677.14,1/2/16,0,Armagnac and Brandy,Brandy,,Bottle,Twist Off,,Peru,Destileria La Caravedo S.R.L.,Cask Kompaniet AB,,40.50%,BS,Order goods,0,0,0,
+Fojaneghe,,219.00,,750.00,292.00,1/2/16,0,Red wine,,,Bottle,Natural Cork,Trentino-Alto Adige,Italy,Masi Agricola,Vinunic AB,2013,13.50%,BS,Order goods,0,0,0,
+Therra,,197.00,,750.00,262.67,1/2/16,0,Red wine,,,Bottle,,Tuscany,Italy,Podernuovo a Palazzone,Doriani Wines AB,2011,13.50%,BS,Order goods,0,0,0,
+Flensburger,Pilsener,25.20,,330.00,76.36,1/2/16,0,Beer,Pale lager,Pilsner - German style,Bottle,,,Germany,Flensburger Brauerei,Speedy Wine Store AB,,4.80%,BS,Order goods,0,0,0,
+Big Chouffe,,169.50,,1500.00,113.00,1/2/16,0,Beer,Ale Belgian style,Belgian Light Ale,Magnum,Crown Cap,,Belgium,Duvel Moortgat,Galatea AB,,8.00%,BS,Order goods,0,0,0,
+Flensburger,Gold,25.20,,330.00,76.36,1/2/16,0,Beer,Pale lager,Pilsner - German style,Bottle,,,Germany,Flensburger Brauerei,Speedy Wine Store AB,,4.80%,BS,Order goods,0,0,0,
+Tomatin,18 Years,885.00,,700.00,1264.29,1/2/16,0,Whisky,Malt whiskey,,Bottle,Cork Stopper,Scotland,UK,Tomatin,Galatea AB,,46.00%,BS,Order goods,0,0,0,
+Trifula,,83.00,,750.00,110.67,1/2/16,0,Red wine,Fruity & Tasteful,,Bottle,Screw Cap,Piedmont,Italy,MGM Mondo del Vino,Rewine AB,2014,13.50%,BS,Order goods,0,0,0,
+Louis Bouillot,Cremant de Bourgogne Millésimé Brut,155.00,,750.00,206.67,1/2/16,0,Mousserande vin,Dry white,,Bottle,Champagne Cork-Natural,Burgundy,France,Louis Bouillot,Giertz Vinimport AB,2015,12.00%,FS,Fixed assortment,0,0,0,"45% Chardonnay, 25% Pinot Noir, 20% and 10% Gamay Aligoté."
+Corte Adami,Soave Vigna della Corte,119.00,,750.00,158.67,1/2/16,0,White wine,,,Bottle,,Venetia,Italy,Azienda Vitivinicola CORTE ADAMI s.a. di Adami Andrea e Viviani Luigina,Rewine AB,2017,13.50%,BS,Order goods,0,0,0,
+Las Ocho,Vino de Pago,199.00,,750.00,265.33,1/2/16,0,Red wine,,,Bottle,Natural Cork,,Spain,Bodega Chozas Carrascal S.L.,Lancel AB,2014,14.00%,BS,Order goods,1,0,0,
+Mustache Vineyards,Zinfandel,155.00,,750.00,206.67,3/1/16,0,Red wine,,,Bottle,,California,USA,Mustache Vineyards,Granqvist Beverage House AB,2013,14.00%,BS,Order goods,0,0,0,
+Diebolt-Vallois,Prestige Brut,999.00,,1500.00,666.00,1/2/16,0,Mousserande vin,Dry white,,Magnum,Champagne Cork-Natural,Champagne,France,Diebolt-Vallois,The WineAgency Sweden AB,,12.50%,BS,Order goods,0,0,0,
+Catch & Release,by Huntyard Sauvignon Blanc,79.00,,750.00,105.33,1/2/16,0,White wine,Fresh & Fruity,,Bottle,Screw Cap,,France,Les Domaines Auriol,Chris-Wine AB,2018,11.00%,FS,Fixed assortment,0,0,0,Sauvignon blanc.
+Chablis,Bouchard Aîné & Fils,149.00,,750.00,198.67,1/2/16,0,White wine,Fresh & Fruity,,Bottle,Screw Cap,Burgundy,France,Bouchard Aîné et Fils,Chris-Wine AB,2018,12.50%,FS,Fixed assortment,0,0,0,Chardonnay.
+La Crema,Monterey Chardonnay,299.00,,750.00,398.67,1/2/16,0,White wine,,,Bottle,Natural Cork,California,USA,La Crema,Vinovativa AB,2016,13.50%,BS,Order goods,0,0,0,
+Baigorri,Baigorri Crianza Tempranillo,169.00,,750.00,225.33,1/2/16,0,Red wine,,,Bottle,Natural Cork,Rioja,Spain,Baigorri,Vinovativa AB,2016,14.50%,BS,Order goods,0,0,0,
+La Crema,Monterey Pinot Noir,314.00,,750.00,418.67,1/2/16,0,Red wine,,,Bottle,Natural Cork,California,USA,La Crema,Vinovativa AB,2016,13.50%,BS,Order goods,0,0,0,
+Villa Righetti,Ripasso,70.00,,375.00,186.67,1/2/16,0,Red wine,Spicy & Musty,,Bottle,Natural Cork,Venetia,Italy,Luigi Righetti,Nelex Beverage AB,2015,14.00%,FS,Fixed assortment,0,0,0,"Corvina 80%, 17% rondinella and 3% Molinara."
+La Rocca 33,,272.00,,750.00,362.67,1/2/16,0,Red wine,,,Bottle,,Piedmont,Italy,Vicara,Skrubbes Wines AB,2013,14.50%,BS,Order goods,0,0,0,
+Sensazioni,Monferrato,184.00,,750.00,245.33,1/2/16,0,White wine,,,Bottle,,Piedmont,Italy,Luca Ferraris,Smaken av Piemonte AB,2014,13.00%,BS,Order goods,0,0,0,
+Sierra Nevada,Hop Hunter IPA,25.90,,355.00,72.96,1/2/16,0,Beer,Ale British-American style,India Pale Ale (IPA),Bottle,,,USA,Sierra Nevada Brewing,AB Wicked Wine Sweden,,6.20%,FS,Fixed assortment,0,0,0,
+Godelia del Bierzo Mixlåda,,1098.00,,4500.00,244.00,1/2/16,0,Mixed-boxes wine,,,6 bottle à 750 ml,,Castile-Leon,Spain,Bodegas Godelia,Robert Rask Vinhandel,,14.00%,BS,Order goods,0,0,0,
+Briska,Äppelcider med smak av Mango,13.50,1.00,330.00,40.91,6/1/16,0,Cider,Sweet,,Can,,,Sweden,Spendrups,Spendrups Bryggeri AB,,4.50%,FS,Fixed assortment,1,0,0,
+Langhe,Arneis Sofia Colle Belvedere,223.00,,750.00,297.33,1/2/16,0,White wine,,,Bottle,,Piedmont,Italy,Agricola Colle Belvedere,Malchamax AB,2015,13.50%,BS,Order goods,0,0,0,
+Pierre Olivier,Blanc de Blancs Prestige Brut,94.00,,750.00,125.33,1/2/16,0,Mousserande vin,Dry white,,Bottle,Natural Cork,,France,Pierre Olivier,Philipson Söderberg AB,,11.50%,FS,Fixed assortment,1,0,0,
+Biecher & Schaal,Grand Cru Altenberg de Bergheim,199.00,,750.00,265.33,1/2/16,0,White wine,,,Bottle,,Alsace,France,Biecher & Schaal,The Wine Team Global AB,2015,13.00%,BS,Order goods,1,0,0,
+Brygghus 19,Innovation Glutenfri,28.90,,330.00,87.58,2/1/16,0,Beer,Ale British-American style,Imperial / Double IPA,Bottle,,Blekinge County,Sweden,Brygghus 19,Brygghus 19 AB,,8.00%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Le Roi,,199.00,,750.00,265.33,1/2/16,0,Red wine,,,Bottle,,Loire Valley,France,Domaine de Rocheville,Winebee AB,2009,13.00%,BS,Order goods,0,0,0,
+Le Gessaie,Vermentino,169.00,,750.00,225.33,1/2/16,0,White wine,,,Bottle,,Tuscany,Italy,Le Sode Sant'Angelo,Doriani Wines AB,2014,13.00%,BS,Order goods,0,0,0,
+Commerzienrat Riegele Privat,,16.90,,330.00,51.21,6/1/16,0,Beer,Pale lager,Dortmunder and Helles,Bottle,Crown Cap,,Germany,Brauhaus Riegele,Galatea AB,,5.20%,BS,Order goods,0,0,0,
+Glendronach,12 years,459.00,,700.00,655.71,6/1/16,0,Whisky,Malt whiskey,,Bottle,Natural Cork,Scotland,UK,GlenDronach Distillery,Nigab,,43.00%,BS,Order goods,0,0,0,Barley malt.
+Senatore Zeffirino,,131.00,,750.00,174.67,1/2/16,0,Mousserande vin,Dry white,,Bottle,,,Italy,Agricola Faena,Doriani Wines AB,,12.00%,BS,Order goods,0,0,0,
+Kleine Zalze,Family Reserve Chenin Blanc,239.00,,750.00,318.67,1/2/16,0,White wine,,,Bottle,,Western Cape,South Africa,Kleine Zalze,Winemarket Nordic AB,2016,13.50%,BS,Order goods,0,0,0,
+Glen Scotia,Single Malt 15 Years,649.00,,700.00,927.14,1/2/16,0,Whisky,Malt whiskey,,Bottle,Cork Stopper,Scotland,UK,Loch Lomond Group,Stellan Kramer AB,,46.00%,BS,Order goods,0,0,0,
+Tequila Tapatio,Blanco,341.00,,500.00,682.00,1/2/16,0,Tequila and Mezcal,Tequila,,Bottle,Twist Off,Jalisco,Mexico,"La Alteña Distillery, Tequila Tapatio SA DE CV",Cask Kompaniet AB,,40.00%,BS,Order goods,0,0,0,
+Tequila Tapatio,Reposado,346.00,,500.00,692.00,1/2/16,0,Tequila and Mezcal,Tequila,,Bottle,Twist Off,Jalisco,Mexico,"La Alteña Distillery, Tequila Tapatio SA DE CV",Cask Kompaniet AB,,38.00%,BS,Order goods,0,0,0,
+Tequila Tapatio,Anejo,400.00,,500.00,800.00,1/2/16,0,Tequila and Mezcal,Tequila,,Bottle,Twist Off,Jalisco,Mexico,"La Alteña Distillery, Tequila Tapatio SA DE CV",Cask Kompaniet AB,,38.00%,BS,Order goods,0,0,0,
+Tequila Tapatio,Overproof 110 Blanco,436.00,,500.00,872.00,1/2/16,0,Tequila and Mezcal,Tequila,,Bottle,Twist Off,Jalisco,Mexico,"La Alteña Distillery, Tequila Tapatio SA DE CV",Cask Kompaniet AB,,55.00%,BS,Order goods,0,0,0,
+Belsazar,White Vermouth,367.00,,750.00,489.33,1/2/16,0,Vermouth,White sweet,,Bottle,Twist Off,,Germany,Belsazar GMBH,Cask Kompaniet AB,,18.00%,BS,Order goods,0,0,0,
+Belsazar,Red Vermouth,361.00,,750.00,481.33,1/2/16,0,Vermouth,Red Sweet,,Bottle,Twist Off,,Germany,Belsazar GMBH,Cask Kompaniet AB,,18.00%,BS,Order goods,0,0,0,
+Belsazar,Dry Vermouth,330.00,,750.00,440.00,1/2/16,0,Vermouth,White Dry,,Bottle,Twist Off,,Germany,Belsazar GMBH,Cask Kompaniet AB,,19.00%,BS,Order goods,0,0,0,
+Amaro CioCiaro,Bitter,322.00,,700.00,460.00,1/2/16,0,Liqueur,Herbal Liqueur,,Bottle,Twist Off,,Italy,Paolucci Liquori Int,Cask Kompaniet AB,,30.00%,BS,Order goods,0,0,0,
+Saint-Péray,La Belle de Mai,339.00,,750.00,452.00,1/2/16,0,White wine,,,Bottle,Natural Cork,Rhone Valley,France,Jean-Luc Colombo,The WineAgency Sweden AB,2017,13.50%,BS,Order goods,0,0,0,
+Crozes-Hermitage,Les Fées Brunes,245.00,,750.00,326.67,1/2/16,0,Red wine,,,Bottle,Natural Cork,Rhone Valley,France,Jean-Luc Colombo,The WineAgency Sweden AB,2018,13.50%,BS,Order goods,0,0,0,
+Cornas,Terres Brulées Syrah,489.00,,750.00,652.00,1/2/16,0,Red wine,,,Bottle,Natural Cork,Rhone Valley,France,Jean-Luc Colombo,The WineAgency Sweden AB,2016,13.50%,BS,Order goods,1,0,0,
+Barolo,Principiano Giuseppe,350.00,,750.00,466.67,1/2/16,0,Red wine,,,Bottle,,Piedmont,Italy,Principiano Giuseppe,Sapordivino Sweden AB,2014,13.50%,BS,Order goods,0,0,0,
+Mas de Libian,Bout d'Zan,175.00,,750.00,233.33,1/2/16,0,Red wine,,,Bottle,Natural Cork,Rhone Valley,France,Mas de Libian,Johan Lidby Vinhandel AB,2018,14.00%,BS,Order goods,1,0,0,
+Château Grand Ferrand,,135.00,,750.00,180.00,1/2/16,0,White wine,,,Bottle,Natural Cork,Bordeaux,France,Château Grand Ferrand,Johan Lidby Vinhandel AB,2018,13.00%,BS,Order goods,1,0,0,
+Château Grand Ferrand,,135.00,,750.00,180.00,1/2/16,0,Red wine,,,Bottle,Natural Cork,Bordeaux,France,Château Grand Ferrand,Johan Lidby Vinhandel AB,2014,12.50%,BS,Order goods,1,0,0,
+Broker´s Gin,,289.00,,700.00,412.86,1/2/16,0,Gin and Genever,Gin,,Bottle,Screw Cap,England,UK,Broker's Gin Limited,Arcus Sweden AB,,40.00%,BS,Order goods,0,0,0,
+Botran,Sistema 15 Solera Reserva,399.00,,700.00,570.00,1/2/16,0,Rum,Dark rum,,Bottle,Natural Cork,,Guatemala,Industria Licorera Quezalteca,Arcus Sweden AB,,40.00%,BS,Order goods,0,0,0,
+Brokers Gin,,339.00,,700.00,484.29,1/2/16,0,Gin and Genever,Gin,,Bottle,Screw Cap,England,UK,Broker's Gin Limited,Arcus Sweden AB,,47.00%,BS,Order goods,0,0,0,
+BRLO,Craft Helles,44.30,,330.00,134.24,1/2/16,0,Beer,Pale lager,Dortmunder and Helles,Bottle,,,Germany,Braukunst Berlin Gmbh,Speedy Wine Store AB,,5.00%,BS,Order goods,0,0,0,
+BRLO,Craft Pale Ale,45.60,,330.00,138.18,1/2/16,0,Beer,Ale British-American style,English Pale Ales And Bitters,Bottle,,,Germany,Braukunst Berlin Gmbh,Speedy Wine Store AB,,6.00%,BS,Order goods,0,0,0,
+The Bitter Truth,Peach Bitters,289.00,,200.00,1445.00,1/2/16,0,Bitter,,,1 Bottle à 200ml,,,Germany,The Bitter Truth,Cranberries Jakobsson & Lövgren AB,,39.00%,BS,Order goods,0,0,0,
+BRLO,Craft Porter,48.40,,330.00,146.67,1/2/16,0,Beer,Porter and Stout,Imperial Porter And Stout,Bottle,,,Germany,Braukunst Berlin Gmbh,Speedy Wine Store AB,,7.00%,BS,Order goods,0,0,0,
+BRLO,Craft Weisse,44.40,,330.00,134.55,1/2/16,0,Beer,Sour beer,Berliner Weisse,Bottle,,,Germany,Braukunst Berlin Gmbh,Speedy Wine Store AB,,4.00%,BS,Order goods,0,0,0,
+The Bitter Truth,Cucumber Bitters,289.00,,200.00,1445.00,1/2/16,0,Bitter,,,Bottle,,,Germany,The Bitter Truth,Cranberries Jakobsson & Lövgren AB,,39.00%,BS,Order goods,0,0,0,
+Barolo Boscareto,Principiano Giuseppe,459.00,,750.00,612.00,1/2/16,0,Red wine,,,Bottle,,Piedmont,Italy,Principiano Giuseppe,Sapordivino Sweden AB,2013,14.00%,BS,Order goods,0,0,0,
+Chablis,Domaine Thierry Mothe,89.00,,375.00,237.33,1/2/16,0,White wine,,,Bottle,,Burgundy,France,Domaine Thierry Mothe,Sigva Partner AB,2014,12.50%,BS,Order goods,0,0,0,
+Mozart,Dark Chocolate,191.00,,500.00,382.00,1/2/16,0,Liqueur,Chocolate Liqueur,,Bottle,,,Austria,Mozart Distillerie,Altia Sweden AB,,17.00%,BS,Order goods,0,0,0,
+Merlet,Soeurs Cerises,429.00,,700.00,612.86,1/2/16,0,Liqueur,Berry liqueur,,Bottle,,,France,Merlet & Fils,Cranberries Jakobsson & Lövgren AB,,24.00%,BS,Order goods,0,0,0,
+Vordy,Minervois Les Pégounels,158.00,,750.00,210.67,1/2/16,0,White wine,,,Bottle,,Languedoc-Roussillon,France,Domaine Vordy Mayrannes,ClosProbus KB,2014,13.50%,BS,Order goods,1,0,0,
+Château Gravettes-Samonac,Cuvée Prestige,200.00,,750.00,266.67,1/2/16,0,Red wine,,,Bottle,,Bordeaux,France,Ch. Gravettes-Samonac,ClosProbus KB,2012,14.00%,BS,Order goods,0,0,0,
+Ben Nevis,Cooper's Choice 18 Years,1539.00,,700.00,2198.57,1/2/16,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,The Vintage Malt Whisky Co,Symposion AB,1996,46.00%,BS,Order goods,0,0,0,
+Cristian Senez,Rosé Brut,349.00,,750.00,465.33,1/2/16,0,Mousserande vin,Rosé,,Bottle,Champagne Cork-Natural,Champagne,France,Champagne Cristian Senez,ChampagneExperten by Västerås Sweden HB,,12.00%,BS,Order goods,0,0,0,
+Little Creatures,Indian Pale Ale,49.40,,330.00,149.70,1/2/16,0,Beer,Ale British-American style,India Pale Ale (IPA),Bottle,Cap,,Australia,Little Creatures,World Beer Trading KB,,6.40%,BS,Order goods,0,0,0,
+Trispol,Negre Ecologic,239.00,,750.00,318.67,1/2/16,0,Red wine,,,Bottle,Natural Cork,Balearic Islands,Spain,Mesquida Mora S.L.,Happy Dog Dryckeshandel AB,2015,13.00%,BS,Order goods,1,0,0,
+Lisjak,Sauvignon Blanc,118.00,,750.00,157.33,1/2/16,0,White wine,,,Bottle,,Primorski,Slovenia,Lisjak Family Estate,"Juvinum Wine, Beer & Spirits AB",2014,12.50%,BS,Order goods,0,0,0,
+Medolago Albani,Valcalepio Bianco,181.00,,750.00,241.33,1/2/16,0,White wine,,,Bottle,Natural Cork,Lombardy,Italy,Medolago Albani,Enrico Sverige AB,2015,13.00%,BS,Order goods,0,0,0,
+Aviva Pink Gold,,99.00,,750.00,132.00,1/2/16,0,Aperitif and dessert,Flavored wines & fruit wines,Other Flavored Wines And Fruit Wines,Bottle,Plastic,,Spain,Torre Oria,TOMP Beer Wine & Spirits AB,,5.50%,FS,Fixed assortment,0,0,0,Airen and muscat.
+Ron Aldea,Tradicion,879.00,,700.00,1255.71,1/2/16,0,Rum,Dark rum,,Bottle,,,Spain,Destilerías Aldea,Herida Aurum AB,1994,42.00%,BS,Order goods,0,0,0,
+Äpple & Kanel,,199.00,,700.00,284.29,1/2/16,0,Drinks and Cocktails,,,Bottle,,,International Brand,K A Back Edelbrandtweinbrenner,Granqvist Beverage House AB,,20.00%,BS,Order goods,0,0,0,
+O.P. Anderson Petronella,,139.00,,350.00,397.14,6/1/16,0,Aquavit and Spiced brännvin,Spiced spirits,,Bottle,,,Sweden,Philipson Söderberg AB,Altia Sweden AB,,30.00%,FS,Fixed assortment,1,0,0,
+The Brand New Republique,Mango,225.00,,700.00,321.43,6/1/16,0,Flavored spirits,Flavored Spirit Of Rum,,Bottle,Synthetic Cork,,International Brand,Enjoy Wine & Spirits,Enjoy Wine & Spirits AB,,32.00%,BS,Order goods,0,0,0,
+Heineken,,13.90,1.00,330.00,42.12,6/1/16,0,Beer,Pale lager,International Style,PET-Bottle,,,Netherlands,Spendrups,Spendrups Bryggeri AB,,5.00%,FS,Fixed assortment,0,0,0,Barley malt and hops.
+Viña Maipo,Cabernet Sauvignon,59.00,,750.00,78.67,8/5/96,0,Red wine,Fruity & Tasteful,,Bottle,Screw Cap,Valle Central,Chile,Viña Maipo SpA,VCT Sweden AB,2019,12.00%,FS,Fixed assortment,0,0,0,Cabernet Sauvignon.
+To Øl,Berliner Vice,22.90,,330.00,69.39,6/1/16,0,Beer,Sour beer,Berliner Weisse,Bottle,,,Belgium,To Øl,Brill & Co AB,,3.80%,FS,Fixed assortment,0,0,0,
+Moët & Chandon,Grand Vintage,510.00,,750.00,680.00,4/15/96,0,Mousserande vin,Dry white,,Bottle,,Champagne,France,Moët & Chandon,Moët Hennessy Sverige AB,2012,12.50%,BS,Order goods,0,0,0,
+Nääs DIPA,,32.90,,330.00,99.70,3/1/16,0,Beer,Ale British-American style,Imperial / Double IPA,Bottle,Crown Cap,Östergötlands County,Sweden,Nääs Gårdsbryggeri AB,Nääs gårdsbryggeri,,8.00%,TSLS,Local & Small-scale,0,0,0,Barley and wheat malt and hops.
+Nääs APA,,26.90,,330.00,81.52,3/1/16,0,Beer,Ale British-American style,American Pale Ale (APA),Bottle,Crown Cap,Östergötlands County,Sweden,Nääs Gårdsbryggeri AB,Nääs gårdsbryggeri,,5.80%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Halmstad Brygghus,Söderkaj IPA,24.90,,330.00,75.46,3/1/16,0,Beer,Ale British-American style,India Pale Ale (IPA),Bottle,,Halland County,Sweden,Halmstad Brygghus,Halmstad Brygghus AB,,6.50%,TSLS,Local & Small-scale,0,0,0,"Barley malt and hops varieties Magnum, Simcoe, buzzer and galaxy."
+Värmdö Bryggeri,Grönskärs Lager,30.40,,500.00,60.80,3/1/16,0,Beer,Pale lager,Pilsner - Czech style,Bottle,,Stockholm County,Sweden,Värmdö Bryggeri,Värmdö Bryggeri AB,,5.20%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Ysta Mörk,,28.30,0.90,500.00,56.60,4/4/16,0,Beer,Dark lager,Dim,Bottle,,Skåne County,Sweden,ÖsterlenBryggarna,Anno 1953 AB,,5.00%,TSLS,Local & Small-scale,0,0,0,
+Brösarps Backabrygd,,28.20,0.90,500.00,56.40,4/4/16,0,Beer,Pale lager,Modern Style,Bottle,,Skåne County,Sweden,ÖsterlenBryggarna,Anno 1953 AB,,5.20%,TSLS,Local & Small-scale,0,0,0,"Pilsner-, münchener- wheat and malt, and hop varieties styrian Golding (Bobek) and Cascade."
+Freja Chocolate Stout,,32.20,,330.00,97.58,3/1/16,0,Beer,Porter and Stout,Imperial Porter And Stout,Bottle,,Dalarna County,Sweden,Walhöll Brygghus,Walhöll Brygghus,,7.30%,TSLS,Local & Small-scale,0,0,0,"Barley malt, hops, chocolate flakes, cocoa and vanilla."
+Ragnarök Rökporter,,28.50,,330.00,86.36,3/1/16,0,Beer,Porter and Stout,Dry Porter And Stout,Bottle,,Dalarna County,Sweden,Walhöll Brygghus,Walhöll Brygghus,,6.30%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Sälen,Session IPA,25.00,,330.00,75.76,3/1/16,0,Beer,Ale British-American style,Session IPA,Bottle,,Dalarna County,Sweden,Sälens Fjällbryggeri,Sälens Fjällbryggeri AB,,4.50%,TSLS,Local & Small-scale,0,0,0,"Barley malt and hops varieties Citra, Chinook, Cascade and Amarillo."
+Råå,Lager,21.90,,330.00,66.36,6/1/18,0,Beer,Pale lager,Modern Style,Bottle,,,Sweden,Råå Bryggeri,Råå Bryggeri AB,,5.00%,FS,Fixed assortment,1,0,0,Barley malt and hops.
+Råå,Pale Ale,21.90,,330.00,66.36,3/1/16,0,Beer,Ale British-American style,English Pale Ales And Bitters,Bottle,,Skåne County,Sweden,Råå Bryggeri,Råå Bryggeri AB,,5.00%,TSLS,Local & Small-scale,1,0,0,Barley malt and hops.
+Södra One Love IPA,Ekologisk,24.80,,330.00,75.15,3/1/16,0,Beer,Ale British-American style,India Pale Ale (IPA),Bottle,,Stockholm County,Sweden,Södra Maltfabriken Brewery,Södra Maltfabriken AB,,6.00%,TSLS,Local & Small-scale,1,0,0,Barley malt and hops.
+Camins del Priorat,,459.00,,1500.00,306.00,2/1/16,0,Red wine,,,Magnum,,Catalonia,Spain,Alvaro Palacios,Prime Wine Sweden AB,2018,14.50%,BS,Order goods,0,0,0,
+Noble Selected,Caribbean Rum,269.00,,700.00,384.29,6/1/16,0,Rum,Light rum,,Bottle,,,Trinidad,Facile & Co,Facile & Co AB,,37.50%,BS,Order goods,0,0,0,
+Coppersmith's,The Pawns Pilsener Non-Gluten,19.90,1.00,330.00,60.30,6/1/16,0,Beer,Pale lager,Modern Style,Can,,,Sweden,Coppersmith's AB,Coppersmith AB,,5.20%,BS,Order goods,0,0,0,Barley and oat malt and hops of the variety mosaic.
+A Viot,Brut Tradition,219.00,,750.00,292.00,2/1/16,0,Mousserande vin,Dry white,,Bottle,Natural Cork,Champagne,France,A Viot & Fils,Kiviks Musteri AB,,12.00%,FS,Fixed assortment,0,0,0,"60% Pinot Noir, 30% Chardonnay and 10% Pinot Meunier."
+Moscato d'Asti,Josetta Saffirio,145.00,,750.00,193.33,2/1/16,0,White wine,Sweet,,Bottle,Natural Cork,Piedmont,Italy,Josetta Saffirio,Tryffelsvinet AB,2018,5.50%,BS,Order goods,0,0,0,
+Auld Rare Benriach,19 Years,1284.00,,500.00,2568.00,2/1/16,0,Whisky,Malt whiskey,,Bottle,Natural Cork,Scotland,UK,Auld Rare Whisky Sweden,Auld Rare Whisky Sweden AB,1996,49.50%,BS,Order goods,0,0,0,
+Sauval Armagnac,VSOP,539.00,,700.00,770.00,2/1/16,0,Armagnac and Brandy,Armagnac,,Bottle,,Armagnac,France,Marquis de Sauval,Clydesdale AB,,40.00%,BS,Order goods,0,0,0,
+Ben Nevis De Luxe,Blend 12 Years,539.00,,700.00,770.00,2/1/16,0,Whisky,Blended whisky,,Bottle,,Scotland,UK,Ben Nevis Distillery,Clydesdale AB,,40.00%,BS,Order goods,0,0,0,
+Menorval Calvados,VSOP,520.00,,700.00,742.86,2/1/16,0,Calvados,,,Bottle,,Normandy,France,Menorval,Clydesdale AB,,40.00%,BS,Order goods,0,0,0,
+Charlis Ipanema,American Pale Ale,26.70,,330.00,80.91,3/1/16,0,Beer,Ale British-American style,India Pale Ale (IPA),Bottle,,Skåne County,Sweden,Charlis Brygghus,Kasper Schönhult AB (Charlis Brygghus),,5.90%,TSLS,Local & Small-scale,0,0,0,
+Pongrácz,Brut,119.00,,750.00,158.67,6/3/96,0,Mousserande vin,Dry white,,Bottle,,Western Cape,South Africa,Bergkelder,janake wine group AB,,12.00%,FS,Fixed assortment,0,0,0,63% Pinot Noir and 37% Chardonnay.
+Deutz,Rosé Brut,569.00,,750.00,758.67,2/1/16,0,Mousserande vin,Rosé,,Bottle,,Champagne,France,Deutz,Swedish Brand AB,,12.00%,BS,Order goods,0,0,0,
+Charlis kristiansta,,24.40,,330.00,73.94,3/1/16,0,Beer,Pale lager,Pilsner - Czech style,Bottle,,Skåne County,Sweden,Charlis Brygghus,Kasper Schönhult AB (Charlis Brygghus),,5.40%,TSLS,Local & Small-scale,1,0,0,
+Deutz,Rosé Brut,329.00,,375.00,877.33,2/1/16,0,Mousserande vin,Rosé,,Bottle,,Champagne,France,Deutz,Swedish Brand AB,,12.00%,BS,Order goods,0,0,0,
+Calles,Ecological,120.00,,750.00,160.00,1/2/16,0,Red wine,,,Bottle,,Rhone Valley,France,Les Vignerons d'Estezargues,Herida Aurum AB,2014,14.00%,BS,Order goods,1,0,0,
+Deutz,Rosé Brut,1199.00,,1500.00,799.33,2/1/16,0,Mousserande vin,Rosé,,Magnum,,Champagne,France,Deutz,Swedish Brand AB,,12.00%,BS,Order goods,0,0,0,
+Mariestads Old Ox,,18.90,0.90,500.00,37.80,4/1/96,0,Beer,Pale lager,Pale Bockbier,Bottle,,Dalarna County,Sweden,Spendrups,Spendrups Bryggeri AB,,6.90%,FS,Fixed assortment,0,0,0,Barley malt and hops.
+Jaspi Maragda,,159.00,,750.00,212.00,2/1/16,0,Red wine,,,Bottle,,Catalonia,Spain,Coca i Fitó,Winebee AB,2012,14.50%,BS,Order goods,0,0,0,
+Jaspi Negre,,129.00,,750.00,172.00,2/1/16,0,Red wine,,,Bottle,,Catalonia,Spain,Coca i Fitó,Winebee AB,2012,14.50%,BS,Order goods,0,0,0,
+Coca i Fitó,Garnatxa,449.00,,750.00,598.67,2/1/16,0,Red wine,,,Bottle,,Catalonia,Spain,Coca i Fitó,Winebee AB,2012,14.50%,BS,Order goods,0,0,0,
+Luis Felipe Edwards,Pinot Noir,55.00,,750.00,73.33,6/1/16,0,Red wine,Soft & Berry,,Bottle,Screw Cap,Valle Central,Chile,Luis Felipe Edwards,Rewine AB,2016,12.50%,BS,Order goods,0,0,0,Pinot noir.
+The Econic,Chardonnay,109.00,,750.00,145.33,6/1/16,0,White wine,Full-bodied & Tasty,,Bottle,Screw Cap,California,USA,Bonterra Vineyards,VCT Sweden AB,2017,13.50%,FS,Fixed assortment,1,0,0,Chardonnay.
+Forester Estate,Cabernet Sauvignon,179.00,,750.00,238.67,6/1/16,0,Red wine,,,Bottle,Screw Cap,Western Australia,Australia,Forester Estate,People Wine AB,2015,14.00%,BS,Order goods,0,0,0,
+Cal y Canto,Blanco,119.00,,750.00,158.67,2/1/16,0,White wine,,,Bottle,Screw Cap,Castilla-La Mancha,Spain,Bodegas Isidro Milagro,Divine AB,2018,12.00%,BS,Order goods,0,0,0,
+Chablis,Noémie Vernaux,219.00,,750.00,292.00,2/1/16,0,White wine,,,Bottle,,Burgundy,France,Noemie Vernaux,janake wine group AB,2014,12.50%,BS,Order goods,0,0,0,
+Zuidam,Korenwijn 1 Jaar,398.00,,500.00,796.00,2/1/16,0,Gin and Genever,Genever,,Bottle,,,Netherlands,Zuidam Distillers BV,Clydesdale AB,,38.00%,BS,Order goods,0,0,0,
+Zuidam,Korenwijn 3 Jaar Single Barrel,439.00,,500.00,878.00,2/1/16,0,Gin and Genever,Genever,,Bottle,,,Netherlands,Zuidam Distillers BV,Clydesdale AB,,38.00%,BS,Order goods,0,0,0,
+Bourgogne Rouge,Noémie Vernaux,120.00,,750.00,160.00,2/1/16,0,Red wine,,,Bottle,,Burgundy,France,Noemie Vernaux,janake wine group AB,2016,12.00%,BS,Order goods,0,0,0,
+Bourgogne Blanc,Noémie Vernaux,120.00,,750.00,160.00,2/1/16,0,White wine,,,Bottle,,Burgundy,France,Noemie Vernaux,janake wine group AB,2016,12.50%,BS,Order goods,0,0,0,
+Pol Rémy,Brut,29.00,,200.00,145.00,2/1/16,0,Mousserande vin,Dry white,,Bottle,,,France,Pol Rémy,janake wine group AB,,11.00%,BS,Order goods,0,0,0,
+Zensa,Primitivo,269.00,,3000.00,89.67,2/1/16,0,Red wine,,,Box,Tap Wing,,Italy,Orion Wines,WineWorld AB,2018,14.00%,BS,Order goods,1,0,0,
+Dutch Courage,Old Tom's Gin,569.00,,700.00,812.86,2/1/16,0,Gin and Genever,Gin,,Bottle,,,Netherlands,Zuidam Distillers BV,Clydesdale AB,2014,40.00%,BS,Order goods,0,0,0,
+Châteauneuf-du-Pape,Domaine Grand Veneur,145.00,,375.00,386.67,2/1/16,0,Red wine,,,Bottle,Natural Cork,Rhone Valley,France,Alain Jaume,Hermansson & Co AB,2016,14.50%,BS,Order goods,1,0,0,"70% Grenache, 20% and 10% syrah Mourvédre and other varieties."
+Zuidam,Millstone Ménage à Trois,698.00,,700.00,997.14,2/1/16,0,Whisky,Grainwhisky,,Bottle,,,Netherlands,Zuidam Distillers BV,Clydesdale AB,2008,46.00%,BS,Order goods,0,0,0,
+Gran Duque d'Alba,Solera Gran Reserva,459.00,,700.00,655.71,2/1/16,0,Armagnac and Brandy,Brandy,,Bottle,,Andalusia,Spain,Williams & Humbert,Ward Wines AB,,40.00%,BS,Order goods,0,0,0,
+Mathelin Bonnebox låda 2,,2328.00,,4500.00,517.33,2/1/16,0,Mousserande vin,,,6 bottle à 750 ml,,Champagne,France,Champagne Mathelin,Bonne Box / Ett Ord AB,,12.00%,BS,Order goods,0,0,0,
+Artuke,,159.00,,750.00,212.00,2/1/16,0,Red wine,,,Bottle,,Rioja,Spain,Bodegas Y Viñedos Artuke,Divine AB,2017,13.50%,BS,Order goods,0,0,0,
+Zuidam,Millstone Dutch 5 Grain Whisky,698.00,,700.00,997.14,2/1/16,0,Whisky,Grainwhisky,,Bottle,,,Netherlands,Zuidam Distillers BV,Clydesdale AB,2011,46.00%,BS,Order goods,0,0,0,
+Domaine Coudoulis,Lirac,145.00,,750.00,193.33,2/1/16,0,Red wine,,,Bottle,Natural Cork,Rhone Valley,France,Domaine Coudoulis,Tryffelsvinet AB,2016,15.00%,BS,Order goods,0,0,0,
+7 Leguas Añejo,,992.00,,700.00,1417.14,2/1/16,0,Tequila and Mezcal,Tequila,,Bottle,,,Mexico,Tequila Siete Leguas,AliasSmith AB,,38.00%,BS,Order goods,0,0,0,
+Saint Joseph,Les Lauves,289.00,,750.00,385.33,2/1/16,0,Red wine,,,Bottle,Natural Cork,Rhone Valley,France,Jean-Luc Colombo,The WineAgency Sweden AB,2017,13.00%,BS,Order goods,0,0,0,
+Condrieu,Amour de Dieu,499.00,,750.00,665.33,2/1/16,0,White wine,,,Bottle,Natural Cork,Rhone Valley,France,Jean-Luc Colombo,The WineAgency Sweden AB,2017,14.00%,BS,Order goods,0,0,0,
+Les Pins Couchés,Rosé,145.00,,750.00,193.33,2/1/16,0,Rose wine,,,Bottle,Natural Cork,Méditerranée,France,Jean-Luc Colombo,The WineAgency Sweden AB,2018,13.00%,BS,Order goods,0,0,0,
+Noble Vines 667,Pinot Noir,119.00,,750.00,158.67,6/1/16,0,Red wine,Spicy & Musty,,Bottle,Screw Cap,California,USA,Noble Vines,Enjoy Wine & Spirits AB,2017,14.50%,FS,Fixed assortment,0,0,0,Pinot noir.
+Château de France,,325.00,,750.00,433.33,2/1/16,0,Red wine,,,Bottle,,Bordeaux,France,S.A.S. B.Thomassin,Göteborgs Vinhandelshus AB,2010,14.50%,BS,Order goods,0,0,0,
+Tribaut,Cuvée René Brut,425.00,,750.00,566.67,2/1/16,0,Mousserande vin,Dry white,,Bottle,Champagne Cork-Natural,Champagne,France,Tribaut,Handpicked Wines Sweden AB,,12.50%,BS,Order goods,0,0,0,
+Substance,Cabernet Sauvignon,179.00,,750.00,238.67,2/1/16,0,Red wine,Fruity & Tasteful,,Bottle,Natural Cork,Washington State,USA,Charles Smith Wines,Handpicked Wines Sweden AB,2017,14.50%,BS,Order goods,0,0,0,Cabernet Sauvignon.
+Wildflower,Chardonnay Sauvignon Blanc,89.00,,750.00,118.67,2/1/16,0,White wine,,,Bottle,,,Australia,McPherson Wines,Spendrups Bryggeri AB,2018,12.00%,BS,Order goods,0,0,0,
+Bodvár,N°7 Rosé,895.00,,3000.00,298.33,2/1/16,0,Rose wine,,,Bottle,,Provence,France,Bodvár House of Rosé,Gastrodev Vin & Sprit AB,2017,12.50%,BS,Order goods,0,0,0,
+JP Chenet,ICE Sparkling Rosé,33.00,,200.00,165.00,2/1/16,0,Mousserande vin,Rosé,,Bottle,Screw Cap,,France,Les Grands Chais de France,Stellan Kramer AB,,11.00%,FS,Fixed assortment,0,0,0,
+JP Chenet,ICE Sparkling,33.00,,200.00,165.00,2/1/16,0,Mousserande vin,Semi Dry White,,Bottle,Screw Cap,,France,Les Grands Chais de France,Stellan Kramer AB,,10.50%,BS,Order goods,0,0,0,
+Ben Nevis,10 Years,698.00,,700.00,997.14,2/1/16,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,Ben Nevis Distillery,Clydesdale AB,,46.00%,BS,Order goods,0,0,0,
+Sture Black,,287.00,,700.00,410.00,2/1/16,0,Flavored spirits,Flavored vodka,,Bottle,Cap,,Sweden,Malmköpings Nya Spritbolag AB,Sture Spirit AB,,37.50%,BS,Order goods,0,0,0,
+Sture Gold,,351.00,,700.00,501.43,2/1/16,0,Vodka and Brännvin,Vodka,,Bottle,Cap,,Sweden,Malmköpings Nya Spritbolag AB,Sture Spirit AB,,40.00%,BS,Order goods,0,0,0,
+Callia Alta,Pinot Grigio,93.00,,750.00,124.00,2/1/16,0,White wine,,,Bottle,,Cuyo,Argentina,Bodegas Callia,Svenska Vinkompaniet,2017,13.50%,BS,Order goods,0,0,0,
+Callia Magna,Cabernet Sauvignon,123.00,,750.00,164.00,2/1/16,0,Red wine,,,Bottle,,Cuyo,Argentina,Bodegas Callia,Svenska Vinkompaniet,2011,13.50%,BS,Order goods,0,0,0,
+Sonnenmulde,Grüner Veltliner Heideboden,126.00,,750.00,168.00,2/1/16,0,White wine,,,Bottle,,Burgenland,Austria,Weingut Sonnenmulde,Svenska Vinkompaniet,2016,12.00%,BS,Order goods,1,0,0,
+Pruno,Drei Doná Sangiovese Riserva,275.00,,750.00,366.67,2/1/16,0,Red wine,,,Bottle,,Emilia Romagna,Italy,Drei Donà - Tenuta La Palazza,Smaksinnet AB,2013,13.50%,BS,Order goods,0,0,0,
+Sonnenmulde,Blauer Zweigelt Alte Reben,130.00,,750.00,173.33,2/1/16,0,Red wine,,,Bottle,,Burgenland,Austria,Weingut Sonnenmulde,Svenska Vinkompaniet,2013,13.00%,BS,Order goods,1,0,0,
+Villacher Märzen,,17.90,,330.00,54.24,2/1/16,0,Beer,Amber lager,Märzen and Viennese style,Bottle,,,Austria,Vereinigte Kärntner Brauereien,Smaksinnet AB,,5.00%,BS,Order goods,0,0,0,
+Masi Campolongo di Torbe,Amarone della Valpolicella Classico,759.00,,750.00,1012.00,2/1/16,0,Red wine,,,Bottle,Natural Cork,Venetia,Italy,Masi Agricola,Vinunic AB,2011,16.00%,BS,Order goods,0,0,0,
+Brunello di Montalcino,Altesino,399.00,,750.00,532.00,2/1/16,0,Red wine,,,Bottle,Natural Cork,Tuscany,Italy,Altesino,Valid Wines Sweden AB,2014,14.00%,BS,Order goods,0,0,0,
+Brunello di Montalcino,Montosoli,599.00,,750.00,798.67,2/1/16,0,Red wine,,,Bottle,Natural Cork,Tuscany,Italy,Altesino,Valid Wines Sweden AB,2011,14.00%,BS,Order goods,0,0,0,
+Emrich-Schönleber,Riesling Trocken,209.00,,750.00,278.67,2/1/16,0,White wine,,,Bottle,Natural Cork,Nahe,Germany,Emrich-Schönleber,Vinovativa AB,2017,12.00%,BS,Order goods,0,0,0,
+Barbera d'Alba,Cascina delle Rose,181.00,,750.00,241.33,2/1/16,0,Red wine,,,Bottle,,Piedmont,Italy,Azienda Agricola Cascina delle Rose,Zebrawine i Uppsala AB,2015,14.00%,BS,Order goods,0,0,0,
+Col di Manza,Millesimato Extra Dry,185.00,,750.00,246.67,2/1/16,0,Mousserande vin,Dry white,,Bottle,,Venetia,Italy,Perlage,Principium Dryck AB,2014,11.50%,BS,Order goods,1,0,0,
+Côtes du Rhône,Les Forots,185.00,,750.00,246.67,2/1/16,0,Red wine,,,Bottle,Natural Cork,Rhone Valley,France,Jean-Luc Colombo,The WineAgency Sweden AB,2016,13.50%,BS,Order goods,0,0,0,
+Il Valténesi,da Uve Groppello,152.00,,750.00,202.67,2/1/16,0,Red wine,,,Bottle,,Lombardy,Italy,Pasini Azienda Agricola San Giovanni,Zebrawine i Uppsala AB,2017,13.00%,BS,Order goods,1,0,0,
+Batést,,187.00,,750.00,249.33,2/1/16,0,Red wine,,,Bottle,,Emilia Romagna,Italy,Valle delle Lepri,Zebrawine i Uppsala AB,2013,14.50%,BS,Order goods,1,0,0,
+Vouvray,La Javeline,150.00,,750.00,200.00,2/1/16,0,White wine,,,Bottle,,Loire Valley,France,Alliance Loire,Avivera AB,2017,12.00%,BS,Order goods,0,0,0,
+Ariddu,,231.00,,750.00,308.00,2/1/16,0,White wine,,,Bottle,,Sicily,Italy,Valdibella,ExpertWine Naturvin AB,2015,13.50%,BS,Order goods,1,0,0,
+Kopparberg Fruit Lager,Lemon & Lime,17.90,,330.00,54.24,2/1/16,0,Beer,Other beer,,Bottle,,,Sweden,Kopparbergs Bryggeri,Kopparbergs Bryggeri AB,,5.00%,BS,Order goods,0,0,0,
+Primus-Zitsa,Barrique,199.00,,750.00,265.33,2/1/16,0,White wine,,,Bottle,,Epirus,Greece,Domaine Glinavos,O.Wines and Spirits AB,2012,12.00%,BS,Order goods,0,0,0,
+Aspra Homata,,199.00,,750.00,265.33,2/1/16,0,White wine,,,Bottle,,Epirus,Greece,Domaine Glinavos,O.Wines and Spirits AB,2013,12.50%,BS,Order goods,0,0,0,
+Hervé Dubois,Grand Cru Brut Rosé,318.00,,750.00,424.00,2/1/16,0,Mousserande vin,Rosé,,Bottle,Natural Cork,Champagne,France,Hervé Dubois,Vintrio Wine AB,,12.00%,BS,Order goods,0,0,0,
+Hervé Dubois,Blanc de Blancs Grand Cru,439.00,,750.00,585.33,2/1/16,0,Mousserande vin,Dry white,,Bottle,Natural Cork,Champagne,France,Hervé Dubois,Vintrio Wine AB,2005,12.00%,BS,Order goods,0,0,0,
+Pure Syrah,,238.00,,750.00,317.33,2/1/16,0,Red wine,,,Bottle,,Languedoc-Roussillon,France,Wenny et Gabriel Tari,ExpertWine Naturvin AB,2012,13.50%,BS,Order goods,1,0,0,
+Arinarnoa,Le Fantasque,260.00,,750.00,346.67,2/1/16,0,Red wine,,,Bottle,,Languedoc-Roussillon,France,Domaine De Mayrac,ExpertWine Naturvin AB,2011,13.50%,BS,Order goods,1,0,0,
+Château Lamarque,,180.00,,750.00,240.00,2/1/16,0,White wine,Sweet,,Bottle,,Bordeaux,France,Sarl Lamarque,Les Millésimes HB,2000,14.00%,BS,Order goods,0,0,0,
+Nuits Saint Georges Premier Cru,Les Terres Blanches,445.00,,750.00,593.33,2/1/16,0,White wine,,,Bottle,,Burgundy,France,Patrice Rion,ClosProbus KB,2013,13.50%,BS,Order goods,0,0,0,
+Pertois-Lebrun,Exaltation Grand Cru Blanc de Blanc,479.00,,750.00,638.67,2/1/16,0,Mousserande vin,Dry white,,Bottle,Natural Cork,Champagne,France,Pertois Lebrun Champagne,Conveija Aktiebolag,,12.00%,BS,Order goods,0,0,0,
+Birra Poretti 4,,15.90,,330.00,48.18,2/1/16,0,Beer,Pale lager,Modern Style,Bottle,,,Italy,Carlsberg Italia S.P.A.,Carlsberg Sverige AB,,5.50%,BS,Order goods,0,0,0,
+Jurtschitsch,Langenlois Riesling,149.00,,750.00,198.67,6/1/16,0,White wine,Fresh & Fruity,,Bottle,Screw Cap,Niederösterreich,Austria,Weingut Jurtschitsch,Enjoy Wine & Spirits AB,2018,12.50%,FS,Fixed assortment,1,0,0,Riesling.
+Mikkeller,Hva Såå!?,27.80,,330.00,84.24,6/1/16,0,Beer,Ale Belgian style,Belgian Light Ale,Bottle,,,Belgium,Mikkeller,Brill & Co AB,,6.80%,BS,Order goods,0,0,0,
+The Macallan,Sienna,749.00,,700.00,1070.00,3/1/16,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,The Edrington Group,Edrington Sweden AB,,43.00%,BS,Order goods,0,0,0,
+La Galope,Rosé,79.00,,750.00,105.33,6/1/16,0,Rose wine,Fresh & Berry,,Bottle,Screw Cap,France Southwest,France,Enoterra AB,Enoterra AB,2018,9.50%,FS,Fixed assortment,0,0,0,"80% Malbec, 10% Cabernet and 10% Cabernet Sauvignon."
+Julià & Navinès Cava Organic,Semi Seco,89.00,,750.00,118.67,6/1/16,0,Mousserande vin,Semi Dry White,,Bottle,Champagne Cork-Natural,Cava,Spain,1+1=3 U Mes U Fan Tres S.L.,Giertz Vinimport AB,,12.00%,FS,Fixed assortment,1,0,0,"Macabeu, Xarel-lo and Parellada."
+Monte Rossa,Flamingo Rosé Brut,199.00,,750.00,265.33,6/1/16,0,Mousserande vin,Rosé,,Bottle,Champagne Cork-Natural,Lombardy,Italy,Monte Rossa,The WineAgency Sweden AB,,12.00%,BS,Order goods,0,0,0,
+F de Fournier,Chenin Blanc,108.00,,750.00,144.00,3/1/16,0,White wine,,,Bottle,,,France,Fournier Père & Fils,Carovin AB,2014,12.00%,BS,Order goods,0,0,0,
+Hans Lang,Riesling Trocken,159.00,,750.00,212.00,3/1/16,0,White wine,,,Bottle,,Rheingau,Germany,Hans Lang,Carovin AB,2014,12.00%,BS,Order goods,1,0,0,
+Hans Lang,Riesling Kabinett,184.00,,750.00,245.33,3/1/16,0,White wine,,,Bottle,,Rheingau,Germany,Hans Lang,Carovin AB,2014,10.00%,BS,Order goods,1,0,0,
+Old Hands,Roble,114.00,,750.00,152.00,3/1/16,0,Red wine,,,Bottle,,Murcia,Spain,Bodega La Purisima,Carovin AB,2015,14.00%,BS,Order goods,1,0,0,
+Château Haut Brion,,6231.00,,750.00,8308.00,3/1/16,0,Red wine,,,Bottle,,Bordeaux,France,Château Haut-Brion,Carovin AB,2011,13.50%,BS,Order goods,0,0,0,
+Château Lafite Rothschild,,7819.00,,750.00,10425.33,3/1/16,0,Red wine,,,Bottle,,Bordeaux,France,Château Lafite Rothschild,Carovin AB,2011,12.50%,BS,Order goods,0,0,0,
+Côté Mas,Organic Rosé,89.00,,750.00,118.67,6/1/16,0,Rose wine,Fruity & Tasteful,,Bottle,Screw Cap,Languedoc-Roussillon,France,Jean-Claude Mas,Domaine Wines Sweden AB,2018,12.50%,FS,Fixed assortment,1,0,0,Mourvédre 85% and 15% syrah.
+Château Margaux,,6231.00,,750.00,8308.00,3/1/16,0,Red wine,,,Bottle,,Bordeaux,France,Château Margaux,Carovin AB,2011,13.00%,BS,Order goods,0,0,0,
+Birra Morena Classica,,15.90,,330.00,48.18,3/1/16,0,Beer,Pale lager,International Style,Bottle,Crown Cap,,Italy,Drive Beer,Galatea AB,,4.60%,BS,Order goods,0,0,0,
+Neethlingshof,Cabernet Sauvignon Merlot,119.00,,750.00,158.67,3/1/16,0,Red wine,,,Bottle,,Western Cape,South Africa,Neethlingshof Estate,janake wine group AB,2015,14.00%,BS,Order goods,0,0,0,
+Corton,Grand Cru Les Paulands,601.00,,750.00,801.33,3/1/16,0,Red wine,,,Bottle,,Burgundy,France,Domaine Denis Père & Fils,Alshammar Import,2016,13.50%,BS,Order goods,0,0,0,
+Clynelish,Select Reserve,5799.00,,700.00,8284.29,4/14/16,0,Whisky,Malt whiskey,,Bottle,Natural Cork,Scotland,UK,Diageo Plc,Diageo Sweden AB,,56.10%,TSE,Temporary assortment,0,0,0,
+The Cally,40 Years,7899.00,,700.00,11284.29,4/14/16,0,Whisky,Grainwhisky,,Bottle,Natural Cork,Scotland,UK,Diageo Plc,Diageo Sweden AB,,53.30%,TSE,Temporary assortment,0,0,0,
+El Gran Botánico,,199.00,,3000.00,66.33,6/1/16,0,Red wine,Fruity & Tasteful,,Box,Wing Pin,Castilla-La Mancha,Spain,Bodegas Gardel,Sigva Partner AB,2018,13.50%,FS,Fixed assortment,1,0,0,Tempranillo and Syrah.
+Cannonau di Sardegna,Riserva,119.00,,750.00,158.67,6/1/16,0,Red wine,Spicy & Musty,,Bottle,Natural Cork,Sardinia,Italy,Tenuta Sella & Mosca,Verissima AB,2016,14.00%,FS,Fixed assortment,0,0,0,Cannonau.
+Hacienda Zorita,Criado en Barrica,79.00,,750.00,105.33,3/1/16,0,Red wine,,,Bottle,Natural Cork,Castile-Leon,Spain,Marqués de la Concordia,Brandpartners AB,2013,13.50%,BS,Order goods,0,0,0,
+Bourgogne Pinot Noir,Vieilles Vignes,179.00,,750.00,238.67,3/1/16,0,Red wine,,,Bottle,,Burgundy,France,Pierre André,Carovin AB,2016,12.50%,BS,Order goods,0,0,0,
+Schild Estate,Barossa Valley Chardonnay,169.00,,750.00,225.33,3/1/16,0,White wine,,,Bottle,,South Australia,Australia,Schild Estate Wines,Granqvist Beverage House AB,2017,13.00%,BS,Order goods,0,0,0,
+Schild Estate,Barossa Valley Shiraz,199.00,,750.00,265.33,3/1/16,0,Red wine,,,Bottle,,South Australia,Australia,Schild Estate Wines,Granqvist Beverage House AB,2015,14.50%,BS,Order goods,0,0,0,
+Jekyll Island,Reserve Zinfandel,155.00,,750.00,206.67,3/1/16,0,Red wine,,,Bottle,,California,USA,Jekyll Island,Granqvist Beverage House AB,2013,14.00%,BS,Order goods,0,0,0,
+North Valley,Soter Vineyards Pinot Noir,295.00,,750.00,393.33,3/1/16,0,Red wine,,,Bottle,,Oregon,USA,Soter Vineyards,Granqvist Beverage House AB,2013,13.50%,BS,Order goods,0,0,0,
+Roccolo Grassi,La Broia,213.00,,750.00,284.00,3/1/16,0,White wine,,,Bottle,,Venetia,Italy,Roccolo Grassi,Wine Group Sweden AB,2017,12.50%,BS,Order goods,0,0,0,
+Anciano,35 year Old Vines Garnacha,69.00,,750.00,92.00,2/19/18,0,Red wine,Spicy & Musty,,Bottle,Natural Cork,Aragon,Spain,Guy Anderson Wines Ltd,The Wine Team Global AB,2015,15.00%,BS,Order goods,0,0,0,Garnacha (Grenache).
+Mocambo,Single Barrel 15 Years,578.00,,500.00,1156.00,2/12/18,0,Rum,Dark rum,,Bottle,,,Mexico,Licores Veracruz,Clydesdale AB,,40.00%,BS,Order goods,0,0,0,
+Napa Valley,Sauvignon Blanc,249.00,,750.00,332.00,2/12/18,0,White wine,,,Bottle,Natural Cork,California,USA,Duckhorn Vineyards,Ward Wines AB,2016,13.50%,BS,Order goods,0,0,0,
+Duckhorn,Napa Valley Merlot,449.00,,750.00,598.67,2/12/18,0,Red wine,,,Bottle,Natural Cork,California,USA,Duckhorn Vineyards,Ward Wines AB,2013,14.50%,BS,Order goods,0,0,0,
+Amarone della Valpolicella Classico,Le Marognole,510.00,,750.00,680.00,2/19/18,0,Red wine,,,Bottle,,Venetia,Italy,Le Marognole,Viniverdi Sweden AB,2013,16.50%,BS,Order goods,0,0,0,
+Le Marognole,El Nane,344.00,,750.00,458.67,2/19/18,0,Red wine,,,Bottle,,Venetia,Italy,Le Marognole,Viniverdi Sweden AB,2013,15.00%,BS,Order goods,0,0,0,
+Bonazzi Badin,Beso Rosso,325.00,,750.00,433.33,2/19/18,0,Red wine,,,Bottle,,Venetia,Italy,Bonazzi,Viniverdi Sweden AB,2015,16.00%,BS,Order goods,0,0,0,
+Valpolicella Ripasso Classico Superiore,Bertoldi Manuele,228.00,,750.00,304.00,2/19/18,0,Red wine,,,Bottle,,Venetia,Italy,Azienda Agricola Bertoldi Manuele,Viniverdi Sweden AB,2015,14.50%,BS,Order goods,0,0,0,
+Amarone della Valpolicella Classico,Bertoldi Manuele,398.00,,750.00,530.67,2/19/18,0,Red wine,,,Bottle,,Venetia,Italy,Azienda Agricola Bertoldi Manuele,Viniverdi Sweden AB,2013,15.50%,BS,Order goods,0,0,0,
+Valpolicella Ripasso Classico Superiore,Bonazzi Badin,234.00,,750.00,312.00,2/19/18,0,Red wine,,,Bottle,,Venetia,Italy,Bonazzi,Viniverdi Sweden AB,2014,14.50%,BS,Order goods,0,0,0,
+Amarone della Valpolicella Classico,Bonazzi,450.00,,750.00,600.00,2/19/18,0,Red wine,,,Bottle,,Venetia,Italy,Bonazzi,Viniverdi Sweden AB,2011,16.00%,BS,Order goods,0,0,0,
+KWV,Cuvée Rosé,69.00,,750.00,92.00,2/14/18,0,Mousserande vin,Rosé,,Bottle,Champagne Cork-Natural,,South Africa,KWV,Arvid Nordquist Vin och Sprithandel,,7.00%,FS,Fixed assortment,0,0,0,
+Virgin Earth,Shiraz Viognier,119.00,,750.00,158.67,2/13/18,0,Red wine,,,Bottle,Screw Cap,Western Cape,South Africa,Virgin Earth,Best Of Special Selected Wine AB,2013,13.50%,BS,Order goods,0,0,0,
+Virgin Earth,The Peppertree Sauvignon Blanc,129.00,,750.00,172.00,2/13/18,0,White wine,,,Bottle,Screw Cap,Western Cape,South Africa,Virgin Earth,Best Of Special Selected Wine AB,2015,13.50%,BS,Order goods,0,0,0,
+Campo alla Sughera,Rosso,773.00,,750.00,1030.67,2/14/18,0,Red wine,,,Bottle,,Tuscany,Italy,Azienda Agricola Campo Alla Sughera,Malchamax AB,2011,14.50%,BS,Order goods,0,0,0,
+Achenio,Bolgheri Bianco,435.00,,750.00,580.00,2/14/18,0,White wine,,,Bottle,,Tuscany,Italy,Campo Alla Sughera,Malchamax AB,2016,13.50%,BS,Order goods,0,0,0,
+AB Svenska Sprit Punsch,,388.00,,500.00,776.00,2/14/18,0,Punsch,Punsch,,Bottle,,,Sweden,AB Svenska Sprit TBH,AB Svenska Sprit TBH,,31.70%,BS,Order goods,0,0,0,
+Bosio,Prosecco Treviso Extra Dry,164.00,,750.00,218.67,2/14/18,0,Mousserande vin,Dry white,,Bottle,,Venetia,Italy,Agricola Bosio srl,Malchamax AB,,11.00%,BS,Order goods,0,0,0,
+Barbera d'Asti,Truffle Hunter Leda,149.00,,750.00,198.67,2/14/18,0,Red wine,,,Bottle,,Piedmont,Italy,Agricola Bosio srl,Malchamax AB,2016,13.00%,BS,Order goods,0,0,0,
+Uarda-Akademiens,Årgångspunsch,198.00,,500.00,396.00,3/5/18,0,Punsch,Punsch,,Bottle,,,Sweden,Facile & Co,Facile & Co AB,,27.80%,BS,Order goods,0,0,0,
+Balt,Mjöd,56.00,,330.00,169.70,2/28/18,0,Aperitif and dessert,Flavored wines & fruit wines,Mead,Bottle,,,Sweden,Mjödhamnen AB,Mjödhamnen AB,2013,11.50%,BS,Order goods,0,0,0,
+11 Minutes,Rosé,129.00,,750.00,172.00,3/5/18,0,Rose wine,Fresh & Berry,,Bottle,,Venetia,Italy,Pasqua Vigneti e Cantine SpA,Bibendum,2018,12.50%,FSB,Fixed assortment,0,0,0,
+Maschio Prosecco,Prosecco Treviso,89.00,,750.00,118.67,2/20/18,0,White wine,Fresh & Fruity,,Bottle,,Venetia,Italy,Cantine Riunite,Nigab,,10.50%,FS,Fixed assortment,0,0,0,Glera.
+Schmitges,Grauschiefer Riesling Trocken,124.00,,750.00,165.33,2/19/18,0,White wine,,,Bottle,,Moselle,Germany,Weingut Schmitges,Philipson Söderberg AB,2018,12.50%,BS,Order goods,0,0,0,
+Schmitges,Vom Roten Schiefer Riesling Kabinett,139.00,,750.00,185.33,2/19/18,0,White wine,,,Bottle,,Moselle,Germany,Weingut Schmitges,Philipson Söderberg AB,2018,8.50%,BS,Order goods,0,0,0,
+Schmitges,Riesling Trocken,119.00,,1000.00,119.00,2/19/18,0,White wine,,,Bottle,,Moselle,Germany,Weingut Schmitges,Philipson Söderberg AB,2018,12.50%,BS,Order goods,0,0,0,
+Mullineux,Syrah,229.00,,750.00,305.33,8/3/18,0,Red wine,,,Bottle,,Western Cape,South Africa,Mullineux Family Wines,Terrific Wines AB,2016,13.50%,BS,Order goods,0,0,0,
+Grand Marrenon,Luberon,319.00,,1500.00,212.67,2/19/18,0,Red wine,,,Magnum,,Rhone Valley,France,"Marrenon, Vignobles en Ventoux & Luberon",Fine Brands Sweden AB,2015,14.50%,BS,Order goods,0,0,0,
+Parducci,Zinfandel,159.00,,750.00,212.00,2/21/18,0,Red wine,,,Bottle,Natural Cork,California,USA,Mendocino Wine Company,Arvid Nordquist Vin och Sprithandel,2015,14.50%,BS,Order goods,0,0,0,
+Parducci,Cabernet Sauvignon,169.00,,750.00,225.33,2/21/18,0,Red wine,,,Bottle,Natural Cork,California,USA,Mendocino Wine Company,Arvid Nordquist Vin och Sprithandel,2015,13.50%,BS,Order goods,0,0,0,
+Bergh,Grüner Veltliner Organic,99.00,,750.00,132.00,2/19/18,0,White wine,Fresh & Fruity,,Bottle,Screw Cap,Niederösterreich,Austria,Icon Wines,The Wine Team Global AB,2018,12.50%,FS,Fixed assortment,1,0,0,Grüner Veltliner.
+Barolo,Cannubi,549.00,,750.00,732.00,2/19/18,0,Red wine,,,Bottle,,Piedmont,Italy,Francesco Rinaldi & Figli,Brix Wine Consultants AB,2014,14.00%,BS,Order goods,0,0,0,
+Yuzu Shu,,267.00,,720.00,370.83,2/19/18,0,Sake,,,Bottle,,,Japan,Hakutsuru,Skepparps Vingård,,10.50%,BS,Order goods,0,0,0,
+Nebbiolo d'Alba,Francesco Rinaldi & Figli,245.00,,750.00,326.67,2/19/18,0,Red wine,,,Bottle,,Piedmont,Italy,Francesco Rinaldi & Figli,Brix Wine Consultants AB,2015,14.50%,BS,Order goods,0,0,0,
+Juwel,Riesling,178.00,,750.00,237.33,2/19/18,0,White wine,,,Bottle,,Rheinhessen,Germany,Juliane Eller,Brix Wine Consultants AB,2016,12.50%,BS,Order goods,0,0,0,
+Juwel,Weisswein Trocken,119.00,,750.00,158.67,2/19/18,0,White wine,,,Bottle,,Rheinhessen,Germany,Juliane Eller,Brix Wine Consultants AB,2016,12.00%,BS,Order goods,0,0,0,
+Chianti Superiore,Castello Trebbio,129.00,,750.00,172.00,2/19/18,0,Red wine,,,Bottle,,Tuscany,Italy,Castello del Trebbio,Brix Wine Consultants AB,2015,13.00%,BS,Order goods,0,0,0,
+Amarone della Valpolicella,Corte Canella,695.00,,750.00,926.67,2/19/18,0,Red wine,,,Bottle,,Venetia,Italy,"Corte Canella di Venturini Francesco, Veronica e Castagnedi Adriana Maria",Viniverdi Sweden AB,2012,17.50%,BS,Order goods,0,0,0,
+Recioto della Valpolicella,Corte Canella,550.00,,500.00,1100.00,2/19/18,0,Red wine,Sweet,,Bottle,,Venetia,Italy,"Corte Canella di Venturini Francesco, Veronica e Castagnedi Adriana Maria",Viniverdi Sweden AB,2013,14.00%,BS,Order goods,0,0,0,
+Valpolicella Superiore,Corte Canella,409.00,,750.00,545.33,2/19/18,0,Red wine,,,Bottle,,Venetia,Italy,"Corte Canella di Venturini Francesco, Veronica e Castagnedi Adriana Maria",Viniverdi Sweden AB,2014,15.50%,BS,Order goods,0,0,0,
+Mud House,Sauvignon Blanc,159.00,,1500.00,106.00,2/20/18,0,White wine,Fresh & Fruity,,Box,,Marlborough,New Zealand,Mud House,Mondo Wine Sweden AB,2018,12.50%,BS,Order goods,0,0,0,Sauvignon blanc.
+Marrenon,Grande Toque,125.00,,750.00,166.67,2/20/18,0,Red wine,,,Bottle,,Rhone Valley,France,"Marrenon, Vignobles en Ventoux & Luberon",Fine Brands Sweden AB,2016,14.00%,BS,Order goods,0,0,0,
+Louis Jadot,Corton-Grèves Grand Cru,849.00,,750.00,1132.00,10/19/18,0,Red wine,,,Bottle,Natural Cork,Burgundy,France,Maison Louis Jadot,Vinunic AB,2016,13.00%,TSE,Temporary assortment,0,0,0,Pinot noir.
+Louis Jadot,Corton Pougets Grand Cru,849.00,,750.00,1132.00,10/19/18,0,Red wine,,,Bottle,Natural Cork,Burgundy,France,Maison Louis Jadot,Vinunic AB,2016,13.00%,TSE,Temporary assortment,0,0,0,Pinot noir.
+Glenrothes,Toasted Anise,1181.00,,700.00,1687.14,3/1/16,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,Wemyss Malts,Clydesdale AB,1996,46.00%,BS,Order goods,0,0,0,
+Château L'Hospitalet,La Réserve Blanc,185.00,,750.00,246.67,3/1/16,0,White wine,,,Bottle,Natural Cork,Languedoc-Roussillon,France,Gérard Bertrand,Ward Wines AB,2017,13.50%,BS,Order goods,1,0,0,
+Gérard Bertrand,Crémant de Limoux Brut,165.00,,750.00,220.00,3/1/16,0,Mousserande vin,Dry white,,Bottle,Natural Cork,Languedoc-Roussillon,France,Gérard Bertrand,Ward Wines AB,2016,12.50%,BS,Order goods,0,0,0,
+Barbaresco Currà,Cantina del Glicine,339.00,,750.00,452.00,3/1/16,0,Red wine,,,Bottle,,Piedmont,Italy,Cantina del Glicine,Vinoliv Import AB,2015,14.00%,BS,Order goods,0,0,0,
+Barbaresco Marcorino,Cantina del Glicine,347.00,,750.00,462.67,3/1/16,0,Red wine,,,Bottle,,Piedmont,Italy,Cantina del Glicine,Vinoliv Import AB,2014,14.00%,BS,Order goods,0,0,0,
+The Balvenie,15 Years Single Barrel Sherry Cask,1099.00,,700.00,1570.00,3/1/16,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,William Grant & Sons,Nigab,,47.80%,BS,Order goods,0,0,0,
+Minuty,Prestige Rosé,379.00,,1500.00,252.67,3/1/16,0,Rose wine,,,Magnum,Natural Cork,Provence,France,Château Minuty,Ward Wines AB,2018,13.00%,BS,Order goods,0,0,0,
+Lone Star Lager,,17.50,,355.00,49.30,3/2/16,0,Beer,Pale lager,Modern Style,Bottle,Crown Cap,,USA,Pabst Brewing Company,Galatea AB,,4.60%,BS,Order goods,0,0,0,
+Markowitsch,Rubin Carnuntum Zweigelt,189.00,,750.00,252.00,3/1/16,0,Red wine,,,Bottle,Natural Cork,Niederösterreich,Austria,Gerhard Markowitsch,Enjoy Wine & Spirits AB,2017,13.00%,BS,Order goods,0,0,0,
+Crudo,Catarratto Zibibbo Organic,79.00,,750.00,105.33,6/1/16,0,White wine,Grape-like & Florals,,Bottle,Screw Cap,Sicily,Italy,Cantine Colomba Bianca,Oenoforos AB,2018,12.50%,FS,Fixed assortment,1,0,0,Catarratto and Zibibbo.
+Absolut,Elyx,539.00,,700.00,770.00,3/1/16,0,Vodka and Brännvin,Vodka,,Bottle,,,Sweden,The Absolut Company,Pernod Ricard Sweden AB,,42.30%,BS,Order goods,0,0,0,Wheat.
+Côtes de Saumon,Chardonnay Sauvignon Blanc,89.00,,750.00,118.67,3/1/16,0,White wine,Fresh & Fruity,,Bottle,Screw Cap,,France,Jean Biecher,The Wine Team Global AB,2017,12.00%,FS,Fixed assortment,1,0,0,Chardonnay and Sauvignon Blanc.
+Casa Marrone,Appassimento,99.00,,750.00,132.00,3/1/16,0,Red wine,Spicy & Musty,,Bottle,Natural Cork,Apulia,Italy,Casa Marrone,The Wine Team Global AB,2018,14.50%,FS,Fixed assortment,1,0,0,"Primitivo, Negroamaro and Malvasia."
+Pazzione,by Pernilla Wahlgren,89.00,,750.00,118.67,3/1/16,0,Red wine,Fruity & Tasteful,,Bottle,Screw Cap,Apulia,Italy,ViniMundi,The Wine Team Global AB,2018,13.00%,FS,Fixed assortment,1,0,0,"Negroamaro, Primitivo, Merlot and Sangiovese."
+Minttu Pear,,192.00,,500.00,384.00,3/1/16,0,Liqueur,Other liqueur,,Bottle,,,Finland,Pernod Ricard,Pernod Ricard Sweden AB,,35.00%,BS,Order goods,0,0,0,
+Cypress,Merlot,109.00,,750.00,145.33,3/1/16,0,Red wine,,,Bottle,,California,USA,J. Lohr Vineyards & Wines,Galatea AB,2013,13.50%,BS,Order goods,0,0,0,
+Cypress,Chardonnay,109.00,,750.00,145.33,3/1/16,0,White wine,,,Bottle,Synthetic Cork,California,USA,J. Lohr Vineyards & Wines,Galatea AB,2014,13.50%,BS,Order goods,0,0,0,
+Saint-Joseph Les Granilites,M Chapoutier,299.00,,750.00,398.67,3/1/16,0,White wine,,,Bottle,,Rhone Valley,France,Chapoutier,Lively Wines Sweden AB,2016,13.00%,BS,Order goods,1,0,0,
+Saint-Joseph Les Granilites,M Chapoutier,279.00,,750.00,372.00,3/1/16,0,Red wine,,,Bottle,,Rhone Valley,France,Chapoutier,Lively Wines Sweden AB,2016,13.00%,BS,Order goods,1,0,0,
+Zenato,Pinot Grigio Delle Venezie,119.00,,750.00,158.67,3/1/16,0,White wine,,,Bottle,,Tre Venezie,Italy,Zenato,Fine Brands Sweden AB,2014,12.50%,BS,Order goods,0,0,0,
+Xavier,Vignon SM,379.00,,1500.00,252.67,3/1/16,0,Red wine,,,Magnum,Natural Cork,Rhone Valley,France,Xavier Vins,Vinovativa AB,,14.00%,BS,Order goods,0,0,0,
+MontGras,Reserva Merlot,99.00,,750.00,132.00,3/1/16,0,Red wine,,,Bottle,Screw Cap,Valle Central,Chile,MontGras,Vinovum AB,2013,13.50%,BS,Order goods,0,0,0,
+Think Big!,Zinfandel,99.00,,750.00,132.00,3/1/16,0,Red wine,,,Bottle,,California,USA,Taster Wines,Apricot AB,2013,14.00%,BS,Order goods,0,0,0,
+Berrys' Speyburn,Cask 2114 26 Years,2303.00,,700.00,3290.00,3/1/16,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,Berry Bros & Rudd,Clydesdale AB,1988,52.30%,BS,Order goods,0,0,0,
+Musso de Casa Rojo,Cava Brut,129.00,,750.00,172.00,3/1/16,0,Mousserande vin,Dry white,,Bottle,Screw Cap,Cava,Spain,Casa Rojo,Vinovum AB,2015,11.50%,BS,Order goods,1,0,0,
+Cristom Jessie Vineyard,Pinot Noir,670.00,,750.00,893.33,3/1/16,0,Red wine,,,Bottle,,Oregon,USA,Cristom Vineyards,Fine Wines Sweden AB,2016,13.50%,BS,Order goods,0,0,0,
+Cristom Eileen Vineyard,Pinot Noir,670.00,,750.00,893.33,3/1/16,0,Red wine,,,Bottle,,Oregon,USA,Cristom Vineyards,Fine Wines Sweden AB,2016,13.50%,BS,Order goods,0,0,0,
+Savoia,Valpolicella Classico Superiore Vigneto I Pipioni,259.00,,750.00,345.33,3/1/16,0,Red wine,,,Bottle,,Venetia,Italy,Azienda Agricola Coali Tenuta Savoia,Dalelven Holding AB,2014,14.50%,BS,Order goods,0,0,0,
+Gregoriano,Roble,150.00,,750.00,200.00,3/1/16,0,Red wine,,,Bottle,,Aragon,Spain,Bodega Picos,Ofwerman Imports AB,2017,14.50%,BS,Order goods,0,0,0,
+Oban,Little Bay,560.00,,700.00,800.00,3/1/16,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,Diageo plc,Diageo Sweden AB,,43.00%,BS,Order goods,0,0,0,
+Herencia de Plata,Añejo,537.00,,700.00,767.14,3/1/16,0,Tequila and Mezcal,Tequila,,Bottle,,,Mexico,Tequilas del Señor,AliasSmith AB,,38.00%,BS,Order goods,0,0,0,
+Miquel Pons Cava,Brut Nature Gran Reserva,186.00,,750.00,248.00,3/1/16,0,Mousserande vin,Dry white,,Bottle,,Cava,Spain,Miquel Pons,Ofwerman Imports AB,2011,11.50%,BS,Order goods,0,0,0,
+Martin Freixa,Old Vines,200.00,,750.00,266.67,3/1/16,0,Red wine,,,Bottle,,Catalonia,Spain,JMF Selection,Ofwerman Imports AB,2014,14.00%,BS,Order goods,0,0,0,
+Valmiermuiza,Dark,34.90,,500.00,69.80,3/1/16,0,Beer,Dark lager,Dim,Bottle,,,Latvia,Valmiermuiza,CCS AB,,5.80%,BS,Order goods,0,0,0,
+Chambertin Grand Cru Clos de Bèze,Domaine Perrot-Minot,3450.00,,750.00,4600.00,3/31/16,0,Red wine,,,Bottle,Natural Cork,Burgundy,France,Domaine Perrot-Minot,The WineAgency Sweden AB,2013,13.00%,TSE,Temporary assortment,0,0,0,
+Taylor's,Quinta de Vargellas Vinha Velha,1495.00,,750.00,1993.33,4/22/16,0,Aperitif and dessert,Port,Vintage,Bottle,Natural Cork,Douro,Portugal,Taylor's,Vinunic AB,2007,20.00%,TSE,Temporary assortment,0,0,0,
+Fonseca,Vintage Port,988.00,,750.00,1317.33,4/22/16,0,Aperitif and dessert,Port,Vintage,Bottle,Natural Cork,Douro,Portugal,Fonseca Guimaraens,Johan Lidby Vinhandel AB,2003,20.50%,BS,Order goods,0,0,0,
+Presentkartong Olivgrön,1 flaska,12.00,,0.00,0.00,9/1/16,0,Gift packaging,1 bottle,Giftbox 1 bottle,,,,Unknown Origin,,Systembolaget Presenter,,0.00%,PA,,0,0,0,
+Blue Moon,Belgian White,36.50,,355.00,102.82,3/1/16,0,Beer,Wheat beer,Witbier,Bottle,,,UK,Blue Moon Brewing Company,World Beer Trading KB,,5.40%,BS,Order goods,0,0,0,
+Château Gassier,Le Pas du Moine,169.00,,750.00,225.33,3/1/16,0,Rose wine,,,Bottle,,Provence,France,Château Gassier,Spendrups Bryggeri AB,2018,13.00%,BS,Order goods,1,0,0,
+Presentkartong Olivgrön,2 flaskor,12.00,,0.00,0.00,9/1/16,0,Gift packaging,2 bottles,Giftbox 2 bottles,,,,Unknown Origin,,Systembolaget Presenter,,0.00%,PA,,0,0,0,
+Presentpåse Roströd,1 flaska,14.00,,0.00,0.00,9/1/16,0,Gift packaging,1 bottle,Giftbag 1 bottle,,,,Unknown Origin,,Systembolaget Presenter,,0.00%,PA,,0,0,0,
+Aveleda,Alvarinho,99.00,,750.00,132.00,3/1/16,0,White wine,,,Bottle,,Vinho Verde,Portugal,Aveleda,Spendrups Bryggeri AB,2018,12.50%,BS,Order goods,0,0,0,
+The Glenlivet,Founder's Reserve,359.00,,700.00,512.86,3/1/16,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,Chivas Brothers,Pernod Ricard Sweden AB,,40.00%,BS,Order goods,0,0,0,Barley malt.
+Havana Club,Union,2950.00,,700.00,4214.29,3/1/16,0,Rum,Dark rum,,Bottle,,,Cuba,Havana Club International,Pernod Ricard Sweden AB,,40.00%,BS,Order goods,0,0,0,
+Wildflower,Shiraz Cabernet Sauvignon,89.00,,750.00,118.67,3/1/16,0,Red wine,,,Bottle,,,Australia,McPherson Wines,Spendrups Bryggeri AB,2018,14.00%,BS,Order goods,0,0,0,
+Villa Locatelli,Refosco Dal Peduncolo Rosso,137.00,,750.00,182.67,3/1/16,0,Red wine,,,Bottle,,Friuli-Venezia-Giulia,Italy,Tenuta di Angoris,2Goda Vin & Bryggeri,2013,12.50%,BS,Order goods,0,0,0,
+Pierre André,Bourgogne Reserve,179.00,,750.00,238.67,3/1/16,0,White wine,,,Bottle,,Burgundy,France,Pierre André,Carovin AB,2014,13.00%,BS,Order goods,0,0,0,
+Villa Locatelli,Friulano,137.00,,750.00,182.67,3/1/16,0,White wine,,,Bottle,,Friuli-Venezia-Giulia,Italy,Tenuta di Angoris,2Goda Vin & Bryggeri,2017,12.50%,BS,Order goods,0,0,0,
+Martires,,989.00,,750.00,1318.67,8/17/18,0,White wine,,,Bottle,Natural Cork,Rioja,Spain,Finca Allende,Viña Española AB,2016,14.00%,TSE,Temporary assortment,0,0,0,Viura.
+Baron de Ley,Tres Viñas Reserva Blanco,159.00,,750.00,212.00,10/5/18,0,White wine,Full-bodied & Tasty,,Bottle,,Rioja,Spain,Baron de Ley,Enjoy Wine & Spirits AB,2014,12.50%,TSE,Temporary assortment,0,0,0,"Viura, Malvasia and Garnacha Blanca."
+Col´s Block,Shiraz,399.00,,750.00,532.00,8/3/18,0,Red wine,Spicy & Musty,,Bottle,Screw Cap,Victoria,Australia,Paradigm Hill,JPC Wines AB,2014,14.00%,TSE,Temporary assortment,0,0,0,Shiraz.
+Brooklyn,Bel Air Sour,23.90,,355.00,67.32,5/4/18,0,Beer,Sour beer,Other Sour Beer,Bottle,,,USA,Brooklyn Brewery,Carlsberg Sverige AB,,4.50%,BS,Order goods,0,0,0,
+99 Rosas,Rosé Organic,209.00,,3000.00,69.67,6/1/16,0,Rose wine,Fruity & Tasteful,,Box,Tap Wing,Castilla-La Mancha,Spain,Dominio de Punctum,Giertz Vinimport AB,2018,13.50%,FS,Fixed assortment,1,0,0,Bobal 90% and 10% garnacha.
+Château de La Violette,Les Abymes,109.00,,750.00,145.33,6/1/16,0,White wine,,,Bottle,Natural Cork,Savoie,France,Domaine du Château de La Violette,Berntson Brands AB,2018,11.50%,BS,Order goods,0,0,0,Jacquère.
+J Lohr Estates,Riverstone Chardonnay,139.00,,750.00,185.33,3/1/16,0,White wine,,,Bottle,Synthetic Cork,California,USA,J. Lohr Vineyards & Wines,Galatea AB,2014,13.50%,BS,Order goods,0,0,0,
+J Lohr Estates,Falcon's Perch Pinot Noir,169.00,,750.00,225.33,3/1/16,0,Red wine,,,Bottle,Synthetic Cork,California,USA,J. Lohr Vineyards & Wines,Galatea AB,2014,13.50%,BS,Order goods,0,0,0,
+J Lohr,Hilltop Cabernet Sauvignon,279.00,,750.00,372.00,3/1/16,0,Red wine,,,Bottle,Synthetic Cork,California,USA,J. Lohr Vineyards & Wines,Galatea AB,2012,15.00%,BS,Order goods,0,0,0,
+Morgon,Côte du Py,159.00,,750.00,212.00,3/1/16,0,Red wine,,,Bottle,Natural Cork,Burgundy,France,Georges Duboeuf,Valid Wines Sweden AB,2017,13.50%,BS,Order goods,0,0,0,
+BrewDog Vagabond,Pale Ale Gluten Free Beer,22.90,,330.00,69.39,3/2/16,0,Beer,Ale British-American style,American Pale Ale (APA),Bottle,,,UK,BrewDog,Cask Sweden AB,,4.50%,BS,Order goods,0,0,0,
+Château La Croizille,Grand Cru,925.00,,750.00,1233.33,3/1/16,0,Red wine,,,Bottle,,Bordeaux,France,Château La Croizille,Robert Rask Vinhandel,2010,13.00%,BS,Order goods,0,0,0,
+Deus Brut Des Flandres,,185.00,,750.00,246.67,3/1/16,0,Beer,Ale Belgian style,,Bottle,Champagne Cork-Natural,,Belgium,Brouwerij Bosteels,Galatea AB,2015,11.50%,BS,Order goods,0,0,0,
+Umeshu Genshu,Hakutsuru,253.00,,720.00,351.39,3/1/16,0,Aperitif and dessert,Flavored wines & fruit wines,Other Flavored Wines And Fruit Wines,Bottle,,,Japan,Hakutsuru,Skepparps Vingård,,19.50%,BS,Order goods,0,0,0,
+Victoria Prosecco,Extra Dry,99.00,,750.00,132.00,3/1/16,0,Mousserande vin,Dry white,,Bottle,Champagne Cork-Natural,Venetia,Italy,COLLI VICENTINI S.C.A.,Hard On AB,,11.00%,FS,Fixed assortment,0,0,0,Glera.
+Moncaro,Verdicchio dei Castelli di Jesi Classico Organic,89.00,,750.00,118.67,3/1/16,0,White wine,Fresh & Fruity,,Bottle,Screw Cap,Marche,Italy,Moncaro,Winemarket Nordic AB,2018,12.50%,FS,Fixed assortment,1,0,0,Verdicchio.
+J Lohr,Seven Oaks Cabernet Sauvignon,179.00,,750.00,238.67,3/1/16,0,Red wine,,,Bottle,Synthetic Cork,California,USA,J. Lohr Vineyards & Wines,Galatea AB,2014,13.50%,BS,Order goods,0,0,0,
+Echo Falls,White Zinfandel Rosé,129.00,,1500.00,86.00,3/1/16,0,Rose wine,Fruity & Tasteful,,Box,Wing Pin,California,USA,Accolade Wines,Mondo Wine Sweden AB,2018,10.50%,FS,Fixed assortment,0,0,0,Zinfandel.
+Gosset,Grande Réserve Brut,1229.00,,1500.00,819.33,3/1/16,0,Mousserande vin,Dry white,,Magnum,Champagne Cork-Natural,Champagne,France,Gosset,Divine AB,,12.00%,BS,Order goods,0,0,0,
+Gosset,Grand Rosé Brut,1299.00,,1500.00,866.00,3/1/16,0,Mousserande vin,Rosé,,Magnum,Champagne Cork-Natural,Champagne,France,Gosset,Divine AB,,12.00%,BS,Order goods,0,0,0,
+Domäne Wachau Veltlinerbrand,Reserve 20 Years,559.00,,500.00,1118.00,3/1/16,0,Armagnac and Brandy,Brandy,,Bottle,,Niederösterreich,Austria,Domäne Wachau,Prime Wine Sweden AB,,40.00%,BS,Order goods,0,0,0,
+Berentsens,Fisherstorm Extreme,222.00,,500.00,444.00,3/1/16,0,Bitter,,,Bottle,,,Norway,Berentsens Brygghus AS,Fisherstorm Filial til Berentsens Brygghus AS Norway,,42.00%,BS,Order goods,0,0,0,
+Råå Halfway to Bombay,,24.70,,330.00,74.85,5/2/16,0,Beer,Ale British-American style,American Pale Ale (APA),Bottle,,Skåne County,Sweden,Råå Bryggeri,Råå Bryggeri AB,,5.50%,TSLS,Local & Small-scale,1,0,0,Barley malt and hops.
+Berentsens,Fisherstorm Original,151.00,,500.00,302.00,3/1/16,0,Aperitif and dessert,Aperitif,,Bottle,,,Norway,Berentsens Brygghus AS,Fisherstorm Filial til Berentsens Brygghus AS Norway,,21.50%,BS,Order goods,0,0,0,
+Clément,Très Vieux Rhum Agricole 10 Years,699.00,,700.00,998.57,3/5/16,0,Rum,Dark rum,,Bottle,,Martinique,France,H Clément,Cask Sweden AB,,44.00%,BS,Order goods,0,0,0,
+Berentsens,Fisherstorm Green,152.00,,500.00,304.00,3/1/16,0,Aperitif and dessert,Aperitif,,Bottle,,,Norway,Berentsens Brygghus AS,Fisherstorm Filial til Berentsens Brygghus AS Norway,,21.50%,BS,Order goods,0,0,0,
+Ahlafors,Ginger,20.00,,330.00,60.61,4/4/16,0,Cider,Sweet,,Bottle,,Västra Götalands County,Sweden,Ahlafors Bryggerier,Ahlafors Bryggerier AB,,4.50%,TSLS,Local & Small-scale,0,0,0,
+CB's Session IPA,India Pale Ale,27.00,,330.00,81.82,4/4/16,0,Beer,Ale British-American style,Session IPA,Bottle,,Östergötlands County,Sweden,Aktiebolaget Centralbryggeriet i Linköping,Aktiebolaget Centralbryggeriet i Linköping,,4.70%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+The Taste of Corteforte,,1926.00,,4500.00,428.00,3/1/16,0,Red wine,,,6 bottle à 750 ml,,Venetia,Italy,Corteforte,Malchamax AB,,14.50%,BS,Order goods,0,0,0,
+Sibbarps Husbryggeri Citra,India Pale Ale,28.20,,330.00,85.46,4/4/16,0,Beer,Ale British-American style,India Pale Ale (IPA),Bottle,,Skåne County,Sweden,Sibbarps Husbryggeri,Sibbarps Husbryggeri AB,,5.90%,TSLS,Local & Small-scale,0,0,0,"Pale ale, the Munich cara, cara pils- and wheat malt and hops varieties Citra, Columbus, Amarillo and challenger."
+Ella,Brown Ale,27.50,,330.00,83.33,4/4/16,0,Beer,Ale British-American style,Brown Ale,Bottle,,Stockholm County,Sweden,Roslags Näsby Bryggeri,Aktiebolaget Roslags Näsby Bryggeri,,5.50%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Lanson,Noble Cuvée by Petter,1998.00,,1500.00,1332.00,3/5/18,0,Mousserande vin,Dry white,,Magnum,Champagne Cork-Natural,Champagne,France,Lanson,Chris-Wine AB,1998,12.50%,BS,Order goods,0,0,0,
+Fjäderholmarnas Short Sail,,26.00,,330.00,78.79,4/4/16,0,Beer,Ale British-American style,Session IPA,Bottle,,Stockholm County,Sweden,Fjäderholmarnas Bryggeri,Fjäderholmarnas Bryggeri AB,,4.50%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Loch Lomond,17 YO Organic,699.00,,700.00,998.57,5/18/18,0,Whisky,Malt whiskey,,Bottle,Natural Cork,Scotland,UK,Loch Lomond Group,Stellan Kramer AB,,54.90%,TSE,Temporary assortment,1,0,0,Barley malt.
+The Macallan,Fine Oak 25 Years,12841.00,,700.00,18344.29,4/6/18,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,The Edrington Group,Edrington Sweden AB,,43.00%,TSE,Temporary assortment,0,0,0,
+3 Amigos,,65.00,,750.00,86.67,6/1/18,0,Red wine,Fruity & Tasteful,,Bottle,,Valencia,Spain,Vinival,Concealed Wines AB,2018,13.00%,FS,Fixed assortment,0,0,0,"Monastrell 50%, 30% Garnacha Tintorera, 10% and 10% syrah tempranillo."
+Rings,Saumagen Riesling,499.00,,750.00,665.33,2/21/18,0,White wine,,,Bottle,Natural Cork,Pfalz,Germany,Weingut Rings,Terrific Wines AB,2012,13.00%,BS,Order goods,0,0,0,
+Casas Patronales,Old Vines Series Cabernet Sauvignon,99.00,,750.00,132.00,2/21/18,0,Red wine,Fruity & Tasteful,,Bottle,,,Chile,Casas Patronales,Independent Wine Company AB,2017,14.00%,FS,Fixed assortment,0,0,0,
+Chablis,Grand Cru Bougros Clotilde Davenne,599.00,,750.00,798.67,2/21/18,0,White wine,,,Bottle,Natural Cork,Burgundy,France,Sarl Clotilde Davenne,Terrific Wines AB,2013,13.50%,BS,Order goods,0,0,0,
+Chateau Petit Roubié,Picpoul de Pinet,129.00,,750.00,172.00,2/26/18,0,White wine,,,Bottle,,Languedoc-Roussillon,France,Chateau Petit Roubié,Handpicked Wines Sweden AB,2018,13.00%,BS,Order goods,1,0,0,
+Vinter,Halvtorr kryddad mjödblend,98.00,,375.00,261.33,4/4/16,0,Aperitif and dessert,Flavored wines & fruit wines,Mead,Bottle,Natural Cork,Uppsala County,Sweden,Mjödhamnen AB,Mjödhamnen AB,2011,12.50%,TSLS,Local & Small-scale,0,0,0,Honey.
+Sibbarps Husbryggeri Rye,India Pale Ale,28.70,,330.00,86.97,4/4/16,0,Beer,Ale British-American style,India Pale Ale (IPA),Bottle,,Skåne County,Sweden,Sibbarps Husbryggeri,Sibbarps Husbryggeri AB,,6.90%,TSLS,Local & Small-scale,0,0,0,"Pale ale, caramünchen-, rye and wheat malt and hops varieties Citra, challenger and amarillo."
+Rosenfrisk,Torr Rosenkvittenmjöd,149.00,,750.00,198.67,4/4/16,0,Aperitif and dessert,Flavored wines & fruit wines,Mead,Bottle,Natural Cork,Örebro County,Sweden,Mjödhamnen AB,Mjödhamnen AB,2013,13.00%,BS,Order goods,0,0,0,
+Hellas APA,,27.90,,330.00,84.55,4/4/16,0,Beer,Ale British-American style,American Pale Ale (APA),Bottle,,Stockholm County,Sweden,Nacka Bryggeri,Nacka Bryggeri AB,,5.20%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Falonia Ljus,Ale,29.50,,330.00,89.39,4/4/16,0,Beer,Ale British-American style,English Pale Ales And Bitters,Bottle,,Västra Götalands County,Sweden,Bryggeriaktiebolaget Nya Victoria,Bryggeriaktiebolaget Nya Victoria,,5.00%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Saltsjö Lager,,24.90,,330.00,75.46,4/4/16,0,Beer,Pale lager,International Style,Bottle,,Stockholm County,Sweden,Nacka Bryggeri,Nacka Bryggeri AB,,5.00%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Södra Pale Ale,Ekologisk,19.80,,330.00,60.00,4/4/16,0,Beer,Ale British-American style,American Pale Ale (APA),Bottle,Cap,Stockholm County,Sweden,Södra Maltfabriken Brewery,Södra Maltfabriken AB,,5.00%,TSLS,Local & Small-scale,1,0,0,Barley malt and hops.
+Charlis Älvdans,Lätt Pale Ale,24.50,,330.00,74.24,5/2/16,0,Beer,Ale British-American style,American Pale Ale (APA),Bottle,,Skåne County,Sweden,Charlis Brygghus,Kasper Schönhult AB (Charlis Brygghus),,4.90%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Clément Single Cask Vanille Intense,Tres Vieux Rhum Agricole,579.00,,500.00,1158.00,3/5/16,0,Rum,Dark rum,,Bottle,,Martinique,France,H Clément,Cask Sweden AB,,42.80%,BS,Order goods,0,0,0,
+Jämtlands Fenix,Bitter Ale,20.50,,330.00,62.12,4/4/16,0,Beer,Ale British-American style,English Pale Ales And Bitters,Bottle,,Jämtland County,Sweden,Jämtlands Bryggeri AB,Jämtlands Bryggeri AB,,5.00%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Ron Quorhum,Aniversario 30 Years,949.00,,700.00,1355.71,3/8/16,0,Rum,Dark rum,,Bottle,,,Dominican Republic,Oliver & Oliver International Inc,Cask Sweden AB,,40.00%,BS,Order goods,0,0,0,
+Echo Falls,Rosé Fruit Fusion With Summer Berries,69.00,,750.00,92.00,2/26/18,0,Aperitif and dessert,Flavored wines & fruit wines,Other Flavored Wines And Fruit Wines,Bottle,,,UK,Accolade Wines,Mondo Wine Sweden AB,,8.50%,BS,Order goods,0,0,0,Natural flavorings and milk.
+Noble Vines,446 Chardonnay,149.00,,750.00,198.67,3/5/18,0,White wine,Full-bodied & Tasty,,Bottle,Screw Cap,California,USA,Noble Vines,Enjoy Wine & Spirits AB,2017,14.50%,BS,Order goods,0,0,0,Chardonnay.
+Aphros,Daphne,229.00,,750.00,305.33,2/26/18,0,White wine,,,Bottle,Natural Cork,Vinho Verde,Portugal,Aphros Wine,Johan Lidby Vinhandel AB,2018,12.00%,BS,Order goods,1,0,0,
+Brooklyn Naranjito,Pale Ale with Orange Peel,20.90,,355.00,58.87,2/26/18,0,Beer,Ale British-American style,American Pale Ale (APA),Bottle,,,USA,Brooklyn Brewery,Carlsberg Sverige AB,,4.50%,BS,Order goods,0,0,0,
+Jämtlands Postiljon,Strong Pale Ale,21.50,,330.00,65.15,4/4/16,0,Beer,Ale British-American style,Strong Ale,Bottle,,Jämtland County,Sweden,Jämtlands Bryggeri AB,Jämtlands Bryggeri AB,,5.80%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Stromberg,Riesling Grosses Gewächs,1090.00,,1500.00,726.67,5/31/18,0,White wine,,,Magnum,,Nahe,Germany,Schäfer-Fröhlich,Origo Wine Import,2016,12.50%,TSE,Temporary assortment,0,0,0,
+Ron Quorhum,Años Solera 15 Years,579.00,,700.00,827.14,3/8/16,0,Rum,Dark rum,,Bottle,,,Dominican Republic,Oliver & Oliver International Inc,Cask Sweden AB,,40.00%,BS,Order goods,0,0,0,
+Chambolle Musigny,,429.00,,750.00,572.00,5/18/18,0,Red wine,,,Bottle,,Burgundy,France,SAS Virgile Lignier,The Wine and Spirits Collective Sweden AB,2016,13.00%,TSE,Temporary assortment,0,0,0,Pinot noir.
+Amarone della Valpolicella Classico,Brigaldara,359.00,,750.00,478.67,2/26/18,0,Red wine,,,Bottle,Natural Cork,Venetia,Italy,Azienda Agricola Brigaldara,Winemarket Nordic AB,2013,16.50%,BS,Order goods,0,0,0,
+Marrenon,Grande Toque Blanc,125.00,,750.00,166.67,2/26/18,0,White wine,,,Bottle,,Rhone Valley,France,"Marrenon, Vignobles en Ventoux & Luberon",Fine Brands Sweden AB,2016,12.50%,BS,Order goods,0,0,0,
+Nespolino,Sangiovese,79.00,,750.00,105.33,2/26/18,0,Red wine,Spicy & Musty,,Bottle,,Emilia Romagna,Italy,Poderi dal Nespoli,Lively Wines Sweden AB,2018,13.00%,FS,Fixed assortment,1,0,0,Sangiovese.
+Ridgeview,Bloomsbury Brut,349.00,,750.00,465.33,2/26/18,0,Mousserande vin,Dry white,,Bottle,Champagne Cork-Natural,England,UK,Ridgeview Estate,Amka Vinimport AB,,12.00%,BS,Order goods,0,0,0,
+Ridgeview,Fitzrovia Rosé Brut,399.00,,750.00,532.00,2/26/18,0,Mousserande vin,Rosé,,Bottle,Champagne Cork-Natural,England,UK,Ridgeview Estate,Amka Vinimport AB,,12.00%,BS,Order goods,0,0,0,
+Ridgeview,Cavendish Brut,349.00,,750.00,465.33,2/26/18,0,Mousserande vin,Dry white,,Bottle,Champagne Cork-Natural,England,UK,Ridgeview Estate,Amka Vinimport AB,,12.00%,BS,Order goods,0,0,0,
+Ron Quorhum,Años Solera 12 Years,479.00,,700.00,684.29,3/8/16,0,Rum,Dark rum,,Bottle,,,Dominican Republic,Oliver & Oliver International Inc,Cask Sweden AB,,40.00%,BS,Order goods,0,0,0,
+Pojega,Valpolicella Ripasso,139.00,,750.00,185.33,3/1/16,0,Red wine,Spicy & Musty,,Bottle,,Venetia,Italy,Guerrieri Rizzardi,Sigva AB,2017,14.00%,BS,Order goods,0,0,0,"Corvinone, Corvina and Rondinella."
+Jämtlands President,Ljus Lager,20.50,,330.00,62.12,4/4/16,0,Beer,Pale lager,Pilsner - German style,Bottle,,Jämtland County,Sweden,Jämtlands Bryggeri AB,Jämtlands Bryggeri AB,,5.20%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Nya Tidens IPA,,39.50,,330.00,119.70,4/4/16,0,Beer,Ale British-American style,India Pale Ale (IPA),Bottle,,Norrbotten County,Sweden,Pite Bryggeri AB,Pite Bryggeri AB,,6.90%,TSLS,Local & Small-scale,0,0,0,Pale ale and crystal malt and hops.
+Jämtlands Steamer,Halvljus Lager,20.50,,330.00,62.12,4/4/16,0,Beer,Amber lager,California Common,Bottle,,Jämtland County,Sweden,Jämtlands Bryggeri AB,Jämtlands Bryggeri AB,,5.00%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Régis Fliniaux,Cuvée Supérieure Brut,299.00,,750.00,398.67,3/9/16,0,Mousserande vin,Dry white,,Bottle,,Champagne,France,Regis Fliniaux,VinTillMat i Väst AB,,12.00%,BS,Order goods,0,0,0,
+Tällbergs IPA,,34.90,,330.00,105.76,4/4/16,0,Beer,Ale British-American style,India Pale Ale (IPA),Bottle,,Dalarna County,Sweden,The Beer Factory Leksand,The Beer Factory Leksand AB,,5.90%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Clément,Créole Shrubb,399.00,,700.00,570.00,3/9/16,0,Liqueur,Other liqueur,,Bottle,,Martinique,France,H Clément,Cask Sweden AB,,40.00%,BS,Order goods,0,0,0,
+Cavaliere,,341.00,,750.00,454.67,3/8/16,0,Red wine,,,Bottle,Natural Cork,Tuscany,Italy,Michele Satta,Vintrio Wine AB,2010,13.00%,BS,Order goods,0,0,0,
+Hervé Dubois,Blanc de Blancs Grand Cru Réserve Brut,299.00,,750.00,398.67,3/9/16,0,Mousserande vin,Dry white,,Bottle,Natural Cork,Champagne,France,Hervé Dubois,Vintrio Wine AB,,12.00%,BS,Order goods,0,0,0,
+Michele Satta,Giovin Re,294.00,,750.00,392.00,3/9/16,0,White wine,,,Bottle,Natural Cork,Tuscany,Italy,Michele Satta,Vintrio Wine AB,2013,14.00%,BS,Order goods,0,0,0,
+Clément,Select Barrel Rhum Agricole,449.00,,700.00,641.43,3/18/16,0,Rum,Dark rum,,Bottle,,Martinique,France,H Clément,Cask Sweden AB,,40.00%,BS,Order goods,0,0,0,
+Louis Bouillot,Crémant de Bourgogne Millésimé Brut,229.00,,750.00,305.33,3/14/16,0,Mousserande vin,Dry white,,Bottle,Champagne Cork-Natural,Burgundy,France,Louis Bouillot,Giertz Vinimport AB,2014,12.00%,BS,Order goods,0,0,0,
+Roslagens Pale Ale,,23.90,,330.00,72.42,5/2/16,0,Beer,Ale British-American style,English Pale Ales And Bitters,Bottle,,Stockholm County,Sweden,Roslagens Brygghus,Roslagens Brygghus AB,,5.10%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Maxim Riesling,,165.00,,750.00,220.00,3/14/16,0,White wine,,,Bottle,Screw Cap,Moselle,Germany,Maximin Grünhaus,Enjoy Wine & Spirits AB,2018,12.00%,BS,Order goods,0,0,0,
+Hepburn's Choice,Nice and Peaty 9 Years,767.00,,700.00,1095.71,3/11/16,0,Whisky,Malt whiskey,,Bottle,,Scotland,UK,Langside Distillers,Clydesdale AB,2006,46.00%,BS,Order goods,0,0,0,
+Gårdslager,,24.90,,330.00,75.46,5/2/16,0,Beer,Pale lager,Modern Style,Bottle,,Stockholm County,Sweden,Roslagens Brygghus,Roslagens Brygghus AB,,5.30%,TSLS,Local & Small-scale,0,0,0,"Wiener, caramel and pilsner malt and hops."
+Leva,Riesling Müller-Thurgau Organic,75.00,,750.00,100.00,6/1/16,0,White wine,Fresh & Fruity,,Bottle,Screw Cap,Rheinhessen,Germany,Weinkontor Westhofen,Giertz Vinimport AB,2018,10.50%,FS,Fixed assortment,1,0,0,Riesling and Müller-Thurgau.
+Château la Varière,Le Savetier,139.00,,375.00,370.67,6/1/16,0,White wine,Sweet,,Bottle,Natural Cork,Loire Valley,France,Château la Variere,Quaffable Wines Sweden AB,2018,11.50%,BS,Order goods,0,0,0,Chenin blanc.
+English Peated,Selected by Clydesdale,699.00,,700.00,998.57,3/10/16,0,Whisky,Malt whiskey,,Bottle,,England,UK,The English Whisky Co,Clydesdale AB,2007,58.70%,BS,Order goods,0,0,0,
+Moët & Chandon,Ice Impérial Demi-Sec,449.00,,750.00,598.67,3/16/16,0,Mousserande vin,Semi Dry White,,Bottle,Natural Cork,Champagne,France,Moët & Chandon,Moët Hennessy Sverige AB,,12.00%,BS,Order goods,0,0,0,"Pinot noir, pinot meunier and chardonnay."
+Ponzi,Chardonnay Reserve,355.00,,750.00,473.33,2/26/18,0,White wine,,,Bottle,Natural Cork,Oregon,USA,Ponzi Vineyards,Terrific Wines AB,2014,14.00%,BS,Order goods,0,0,0,
+Kreinbacher,Rosé Brut,239.00,,750.00,318.67,2/26/18,0,Mousserande vin,Dry white,,Bottle,,,Hungary,Kreinbacher Birtok Kft,VinBistro Stockholm AB,,12.00%,BS,Order goods,0,0,0,
+Clos Pons,Algés,184.00,,750.00,245.33,2/26/18,0,Red wine,,,Bottle,Natural Cork,Catalonia,Spain,Clos Pons,Lancel AB,2012,14.50%,BS,Order goods,0,0,0,
+Marrenon,Amountanage Luberon Blanc,129.00,,750.00,172.00,2/26/18,0,White wine,,,Bottle,,Rhone Valley,France,"Marrenon, Vignobles en Ventoux & Luberon",Fine Brands Sweden AB,2016,13.00%,BS,Order goods,1,0,0,
+Malfy,Gin Originale,399.00,,700.00,570.00,2/26/18,0,Gin and Genever,Gin,,Bottle,,,Italy,Biggar & Leith,Pernod Ricard Sweden AB,,41.00%,BS,Order goods,0,0,0,
+Torello 225,Corpinnat Brut Nature,269.00,,750.00,358.67,2/26/18,0,Mousserande vin,Dry white,,Bottle,Natural Cork,,Spain,Bodega Torelló Llopart SA,Lancel AB,2015,11.50%,BS,Order goods,0,0,0,
+Huno,Blend,189.00,,750.00,252.00,2/26/18,0,Red wine,,,Bottle,Natural Cork,Extremadura,Spain,Pago Los Balancines S.L.,Lancel AB,2014,15.00%,BS,Order goods,0,0,0,
+Gruss,Casse-Noisett Pinot Gris,219.00,,750.00,292.00,3/12/18,0,White wine,,,Bottle,,Alsace,France,Joseph Gruss et Fils,UP Wine,2016,13.50%,BS,Order goods,0,0,0,
+Gruss,Cremant d'Alsace Rosé Brut,189.00,,750.00,252.00,3/12/18,0,Mousserande vin,Rosé,,Bottle,,Alsace,France,Joseph Gruss et Fils,UP Wine,,12.50%,BS,Order goods,0,0,0,
+Finca Rio Negro,Gewürztraminer,169.00,,750.00,225.33,2/26/18,0,White wine,,,Bottle,Natural Cork,Castilla-La Mancha,Spain,Meraven S.L.,Lancel AB,2016,13.50%,BS,Order goods,0,0,0,
+Enzo Bartoli,Piemonte Cortese,119.00,,750.00,158.67,2/26/18,0,White wine,Fresh & Fruity,,Bottle,,Piedmont,Italy,MGM S.r.l.,Independent Wine Company AB,2017,12.00%,BS,Order goods,0,0,0,
+Sankt Anna,Pinot Noir Rosé,99.00,,750.00,132.00,6/1/18,0,Rose wine,,,Bottle,Screw Cap,Pfalz,Germany,Weinhaus Sankt Anna,Galatea AB,2017,12.50%,BS,Order goods,0,0,0,
+Rosé Privé,,130.00,,750.00,173.33,3/21/16,0,Rose wine,,,Bottle,,Epirus,Greece,Domaine Glinavos,O.Wines and Spirits AB,2017,13.00%,BS,Order goods,0,0,0,
+Manousakis Tsikoudia,,370.00,,500.00,740.00,3/24/16,0,Armagnac and Brandy,Brandy,,Bottle,,,Greece,Manousakis Winery,O.Wines and Spirits AB,,40.00%,BS,Order goods,0,0,0,
+CHILL OUT Organic,Riesling Germany,79.00,1.00,750.00,105.33,6/1/16,0,White wine,Fresh & Fruity,,PET-Bottle,Screw Cap,Rheinhessen,Germany,Altia,Altia Sweden AB,2018,12.00%,FS,Fixed assortment,1,0,0,Riesling.
+Tsipouro,Grande Reserve,429.00,,500.00,858.00,3/31/16,0,Armagnac and Brandy,Brandy,,Bottle,,,Greece,Domaine Glinavos,O.Wines and Spirits AB,,42.00%,BS,Order goods,0,0,0,
+Ruppertsberger Hofstück,Riesling,75.00,,750.00,100.00,12/9/96,0,White wine,Fresh & Fruity,,Bottle,Screw Cap,Pfalz,Germany,Ruppertsberger Weinkeller Hoheburg eG,Giertz Vinimport AB,2018,11.50%,FS,Fixed assortment,0,0,0,Riesling.
+Trepat,,188.00,,750.00,250.67,3/21/16,0,Red wine,,,Bottle,Natural Cork,Catalonia,Spain,Carles Andreu,Samplex AB,2013,13.00%,BS,Order goods,0,0,0,
+Diane de Belgrave,,229.00,,750.00,305.33,3/18/16,0,Red wine,,,Bottle,,Bordeaux,France,Vins et Vignobles Dourthe,Carovin AB,2013,12.50%,BS,Order goods,0,0,0,
+Corte Cariano,Corvina Monovitigno,168.00,,750.00,224.00,3/21/16,0,Red wine,,,Bottle,Natural Cork,Venetia,Italy,Brunelli,Wine Group Sweden AB,2017,13.50%,BS,Order goods,0,0,0,
+32 Via dei Birrai Öllåda,,673.20,,4500.00,149.60,3/17/16,0,Beer,Other beer,Beer of several types / styles,6 bottle à 750 ml,Cap,,Italy,32 Via dei Birrai,Smaksinnet AB,,6.90%,BS,Order goods,0,0,0,
+Clos de Vougeot Grand Cru,Jean-Marie Fourrier,2199.00,,750.00,2932.00,8/25/16,0,Red wine,,,Bottle,Natural Cork,Burgundy,France,Jean-Marie Fourrier,Divine AB,2014,13.50%,TSE,Temporary assortment,0,0,0,
+Charmes Chambertin,Domaine Lignier-Michelot,2200.00,,750.00,2933.33,8/25/16,0,Red wine,,,Bottle,Natural Cork,Burgundy,France,Domaine Lignier-Michelot,The Wine and Spirits Collective Sweden AB,2014,13.00%,TSE,Temporary assortment,0,0,0,
+Regis Fliniaux,Cuvée Prestige Grand Cru Brut,398.00,,750.00,530.67,3/23/16,0,Mousserande vin,Dry white,,Bottle,,Champagne,France,Regis Fliniaux,VinTillMat i Väst AB,,12.00%,BS,Order goods,0,0,0,
+Garage Hard Lemon,,19.90,,275.00,72.36,5/2/16,0,Mixed beverages,,,Bottle,,,International Brand,Carlsberg Sverige AB,Carlsberg Sverige AB,,4.00%,FS,Fixed assortment,0,0,0,
+Rose de Purcari,,150.00,,750.00,200.00,4/1/16,0,Rose wine,,,Bottle,,Stefan Voda,Moldova,Purcari,High Coast Wine AB,2017,13.50%,BS,Order goods,0,0,0,
+Inici,Priorat,199.00,,750.00,265.33,3/23/16,0,Red wine,,,Bottle,,Catalonia,Spain,Merum Priorati,Mission Wine & Spirit AB,2015,15.00%,BS,Order goods,0,0,0,
+Viña Maipo,Sauvignon Blanc,189.00,,3000.00,63.00,6/1/16,0,White wine,Fresh & Fruity,,Box,Tap Wing,Valle Central,Chile,Quinta de Maipo SpA,VCT Sweden AB,2018,11.50%,FS,Fixed assortment,0,0,0,Sauvignon blanc.
+Piero Busso,Barbera d'Alba St Stefanetto,295.00,,750.00,393.33,3/26/16,0,Red wine,,,Bottle,,Piedmont,Italy,Piero Busso,Tryffelsvinet AB,2017,15.50%,BS,Order goods,0,0,0,
+Nivei Blanco,,89.00,,750.00,118.67,6/1/16,0,White wine,,,Bottle,Natural Cork,Rioja,Spain,Bodegas Proelio,Brandpartners AB,2016,13.00%,BS,Order goods,0,0,0,"Viura 55%, 35% Verdejo, 5% Sauvignon blanc and 5% Chardonnay."
+Castell del Remei,Brut Nature,128.00,,750.00,170.67,3/29/16,0,Mousserande vin,Dry white,,Bottle,,Cava,Spain,Castell del Remei,Smaksinnet AB,2014,11.50%,BS,Order goods,0,0,0,
+Governo,Sangiovese,149.00,,750.00,198.67,3/26/16,0,Red wine,,,Bottle,,Tuscany,Italy,Bertani,Oenoforos AB,2014,13.50%,BS,Order goods,0,0,0,
+1270,A Vuit Red,379.00,,750.00,505.33,4/4/16,0,Red wine,,,Bottle,,Catalonia,Spain,Hidalgo Albert S.L,Winebee AB,2009,15.00%,BS,Order goods,1,0,0,
+Teerenpeli,Single Malt 10 Years,953.00,,500.00,1906.00,4/1/16,0,Whisky,Malt whiskey,,Bottle,,,Finland,Teerenpeli Maltwhisky Distillery,Clydesdale AB,,43.00%,BS,Order goods,0,0,0,
+1270,A Vuit Fina,159.00,,750.00,212.00,4/4/16,0,Red wine,,,Bottle,,Catalonia,Spain,Hidalgo Albert S.L,Winebee AB,2013,14.50%,BS,Order goods,1,0,0,
+Sixto,Uncovered Chardonnay,379.00,,750.00,505.33,3/30/16,0,White wine,,,Bottle,Natural Cork,Washington State,USA,Charles Smith Wines,Handpicked Wines Sweden AB,2015,13.50%,BS,Order goods,0,0,0,
+Ironstone,Old Vines Zinfandel,139.00,,750.00,185.33,3/30/16,0,Red wine,,,Bottle,Synthetic Cork,California,USA,Ironstone Vineyards,Stellan Kramer AB,2017,14.50%,BS,Order goods,0,0,0,
+Fortaleza,Blanco,849.00,,700.00,1212.86,4/1/16,0,Tequila and Mezcal,Tequila,,Bottle,,Jalisco,Mexico,Tequila Los Abuelos,AliasSmith AB,,40.00%,BS,Order goods,0,0,0,
+Fortaleza,Añejo,1245.00,,700.00,1778.57,4/1/16,0,Tequila and Mezcal,Tequila,,Bottle,,Jalisco,Mexico,Tequila Los Abuelos,AliasSmith AB,,40.00%,BS,Order goods,0,0,0,
+Wermlands,Kaffestout,25.00,,330.00,75.76,5/2/16,0,Beer,Other beer,,Bottle,,Värmland County,Sweden,Wermlands Brygghus,Wermlands Brygghus AB,,5.50%,TSLS,Local & Small-scale,0,0,0,"Barley, oat and wheat malt, as well as coffee beans and hops."
+Brewski Pango IPA,,34.30,,330.00,103.94,5/2/16,0,Beer,Ale British-American style,India Pale Ale (IPA),Bottle,,Skåne County,Sweden,Brewski,Beer Me Sweden AB,,5.90%,FS,Fixed assortment,0,0,0,Barley malt and hops.
+Valkyria Vanadis Organic Liqueur,,285.00,,500.00,570.00,5/2/16,0,Liqueur,Other liqueur,,Bottle,,Dalarna County,Sweden,Valkyria Distillery,Valkyria Distillery AB,,30.00%,BS,Order goods,1,0,0,
+Sixten,,43.50,,500.00,87.00,5/2/16,0,Beer,Ale British-American style,Brown Ale,Bottle,,Västra Götalands County,Sweden,Qvänum Mat & Malt AB,Qvänum Mat & Malt AB,,5.40%,TSLS,Local & Small-scale,1,0,0,Barley malt and hops.
+Q Lager,,43.60,,500.00,87.20,5/2/16,0,Beer,Pale lager,Pilsner - Czech style,Bottle,,Västra Götalands County,Sweden,Qvänum Mat & Malt AB,Qvänum Mat & Malt AB,,5.10%,TSLS,Local & Small-scale,1,0,0,Barley malt and hops.
+Remmarlöv,The Fenton Session IPA,20.90,,330.00,63.33,12/1/18,0,Beer,Ale British-American style,Session IPA,Bottle,,Skåne County,Sweden,Remmarlöv Gårdsbryggeri AB,Remmarlöv Gårdsbryggeri AB,,4.50%,FS,Fixed assortment,0,0,0,"Pilsner-, wheat and crystal malt and hop varieties Simcoe, Centennial, mosaic and amarillo."
+Saison Kongero,,24.90,,330.00,75.46,5/2/16,0,Beer,Ale Belgian style,Saison,Bottle,,Uppsala County,Sweden,Jackdaw Brewery AB,Jackdaw Brewery AB,2015,7.00%,TSLS,Local & Small-scale,0,0,0,Barley and wheat malt and hops.
+Jädraöl,Gävle lager,24.90,,330.00,75.46,5/2/16,0,Beer,Pale lager,Modern Style,Bottle,,Gävleborg County,Sweden,Jädraås Bryggeri,Jädraås Bryggeri AB,,5.00%,TSLS,Local & Small-scale,0,0,0,Barley malt and hops.
+Poppels,Session IPA,19.90,,330.00,60.30,5/2/16,0,Beer,Ale British-American style,Session IPA,Bottle,,Västra Götalands County,Sweden,Poppels Bryggeri,Poppels Bryggeri AB,,4.20%,FS,Fixed assortment,1,0,0,Barley malt and hops.
+Nordmarkens Aqvavit,,249.00,,500.00,498.00,5/2/16,0,Aquavit and Spiced brännvin,Akvavit,,Bottle,,Värmland County,Sweden,Nordmarkens Destilleri AB,Nordmarkens Destilleri AB,,37.50%,TSLS,Local & Small-scale,0,0,0,
+Dalabryggeri,Ljus Lager,16.80,,330.00,50.91,4/1/16,0,Beer,Pale lager,,Bottle,,Dalarna County,Sweden,DalaBryggeri,Snickerivägens bryggeri AB,,5.20%,FS,Fixed assortment,1,0,0,
+Jose Galo,Varietal Verdejo,87.00,,750.00,116.00,6/1/18,0,White wine,Fresh & Fruity,,Bottle,Screw Cap,Castile-Leon,Spain,Bodegas y Viñedos Rueda Pérez,Stellan Kramer AB,2017,13.00%,BS,Order goods,0,0,0,Verdejo.
+MiM Natura,Xarel-lo de Terrer,119.00,,750.00,158.67,6/1/18,0,White wine,Fresh & Fruity,,Bottle,Natural Cork,Catalonia,Spain,Vins el Cep,Amka Vinimport AB,2017,12.50%,BS,Order goods,1,0,0,85% Xarel-lo and 15% Chardonnay.
+Marrenon,Amountanage Luberon Rouge,129.00,,750.00,172.00,2/26/18,0,Red wine,,,Bottle,,Rhone Valley,France,"Marrenon, Vignobles en Ventoux & Luberon",Fine Brands Sweden AB,2016,13.50%,BS,Order goods,1,0,0,
