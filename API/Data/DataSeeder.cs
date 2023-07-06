@@ -25,15 +25,14 @@ public class DataSeeder
         var line = dataLines.FirstOrDefault();
         
             string[] values = line.Split(',');
-
             string name = values[0];
             string description = values[1];
-            decimal price = ParseDecimalValue(values[2]);
-            decimal deposit = ParseDecimalValue(values[3]);
+            string price = values[2];
+            string deposit = values[3];
             int volymInMl = ParseIntValue(values[4]);
-            decimal pricePerLiter = ParseDecimalValue(values[5]);
-            DateTime salesStart = ParseDateTimeValue(values[6]);
-            bool discontinued = ParseBoolValue(values[7]);
+            string pricePerLiter = values[5];
+            string salesStart = values[6];
+            long discontinued = ParseLongValue(values[7]);
             string productGroupName = values[8];
             string type = values[9];
             string style = values[10];
@@ -43,27 +42,27 @@ public class DataSeeder
             string originCountryName = values[14];
             string producerName = values[15];
             string supplierName = values[16];
-            int? vintage = string.IsNullOrEmpty(values[17]) ? null : ParseIntValue(values[17]);
-            decimal alcoholContent = ParseDecimalValue(values[18]);
+            long? vintage = string.IsNullOrEmpty(values[17]) ? null : ParseLongValue(values[17]);
+            string alcoholContent = values[18];
             string assortmentCode = values[19];
             string assortmentText = values[20];
-            bool organic = ParseBoolValue(values[21]);
-            bool ethical = ParseBoolValue(values[22]);
-            bool kosher = ParseBoolValue(values[23]);
+            long organic = ParseLongValue(values[21]);
+            long ethical = ParseLongValue(values[22]);
+            long kosher = ParseLongValue(values[23]);
             string rawMaterialsDescription = values[24];
 
             // Get the IDs of the associated entities
-            int productGroupId = _dbContext.ProductGroups
+            long productGroupId = _dbContext.ProductGroups
                 .Where(pg => pg.Name == productGroupName)
                 .Select(pg => pg.Id)
                 .FirstOrDefault();
 
-            int supplierId = _dbContext.Suppliers
+            long supplierId = _dbContext.Suppliers
                 .Where(s => s.Name == supplierName)
                 .Select(s => s.Id)
                 .FirstOrDefault();
 
-            int producerId = _dbContext.Producers
+            long producerId = _dbContext.Producers
                 .Where(p => p.Name == producerName)
                 .Select(p => p.Id)
                 .FirstOrDefault();
@@ -150,7 +149,7 @@ public class DataSeeder
             string[] values = line.Split(',');
 
             // Map the values to the Supplier entity properties
-            Supplier supplier = new Supplier
+            Supplier supplier = new()
             {
                 Name = values[0]
             };
@@ -182,7 +181,7 @@ public class DataSeeder
             string[] values = line.Split(',');
 
             // Map the values to the Producer entity properties
-            Producer producer = new Producer
+            Producer producer = new()
             {
                 Name = values[0]
             };
@@ -209,16 +208,7 @@ public class DataSeeder
         }
     }
 
-    private decimal ParseDecimalValue(string value)
-    {
-        if (decimal.TryParse(value, out decimal result))
-        {
-            return result;
-        }
-        return 0m; // Default value
-    }
-
-    private int ParseIntValue(string value)
+    private static int ParseIntValue(string value)
     {
         if (int.TryParse(value, out int result))
         {
@@ -227,25 +217,7 @@ public class DataSeeder
         return 0; // Default value
     }
 
-    private DateTime ParseDateTimeValue(string value)
-    {
-        if (DateTime.TryParse(value, out DateTime result))
-        {
-            return result;
-        }
-        return DateTime.MinValue; // Default value
-    }
-
-    private DateTime? ParseNullableDateTimeValue(string value)
-    {
-        if (!string.IsNullOrEmpty(value) && DateTime.TryParse(value, out DateTime result))
-        {
-            return result;
-        }
-        return null; // Default value
-    }
-
-    private int? ParseNullableIntValue(string value)
+    private static int? ParseNullableIntValue(string value)
     {
         if (!string.IsNullOrEmpty(value) && int.TryParse(value, out int result))
         {
@@ -254,12 +226,12 @@ public class DataSeeder
         return null; // Default value
     }
 
-    private bool ParseBoolValue(string value)
+    private static long ParseLongValue(string value)
     {
-        if (bool.TryParse(value, out bool result))
+        if (long.TryParse(value, out int result))
         {
             return result;
         }
-        return false; // Default value
+        return -1; // Default value
     }
 }
