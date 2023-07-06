@@ -2,3 +2,4 @@ products-dotnet-ang-poc.sln
 bin
 obj
 .vscode
+API/.DS_Store
