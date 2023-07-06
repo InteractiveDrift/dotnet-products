@@ -20,7 +20,7 @@ public class ProductDto
 
     public bool Discontinued { get; set; }
 
-    public long ProductGroupId { get; set; }
+    public string ProductGroupName { get; set; } = null!;
 
     public string? Type { get; set; }
 
@@ -34,9 +34,9 @@ public class ProductDto
 
     public string? OriginCountryName { get; set; }
 
-    public long ProducerId { get; set; }
+    public string ProducerName { get; set; } = null!;
 
-    public long SupplierId { get; set; }
+    public string SupplierName { get; set; } = null!;
 
     public long Vintage { get; set; }
 
