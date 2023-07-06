@@ -7,17 +7,12 @@ namespace API.Data;
 
 public partial class ProductsContext : DbContext
 {
+    public ProductsContext(DbContextOptions<ProductsContext> options) : base(options) { }
     public DbSet<Product> Products { get; set; }
     public DbSet<ProductGroup> ProductGroups { get; set; }
     public DbSet<Producer> Producers { get; set; }
     public DbSet<Supplier> Suppliers { get; set; }
-    public static readonly string DbFile = "Data/products.sqlite";
-
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-    {
-        optionsBuilder.UseSqlite($"Data Source={DbFile}");
-    }
-
+    
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Product>(entity =>
