@@ -15,7 +15,7 @@ public partial class Product
 
     public string Deposit { get; set; } = null!;
 
-    public long VolymInml { get; set; }
+    public long? VolymInml { get; set; }
 
     public string PricePerLiter { get; set; } = null!;
 
@@ -41,7 +41,7 @@ public partial class Product
 
     public long SupplierId { get; set; }
 
-    public long Vintage { get; set; }
+    public long? Vintage { get; set; }
 
     public string AlcoholContent { get; set; } = null!;
 
@@ -51,9 +51,9 @@ public partial class Product
 
     public long? Organic { get; set; }
 
-    public long Ethical { get; set; }
+    public long? Ethical { get; set; }
 
-    public long Kosher { get; set; }
+    public long? Kosher { get; set; }
 
     public string? RawMaterialsDescription { get; set; }
 
