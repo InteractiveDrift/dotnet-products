@@ -23,8 +23,8 @@ public class DataSeeder
 
         IEnumerable<string> dataLines = GetCsvDataLines(lines);
 
-        // foreach (string line in dataLines.FirstOrDefault())
-        var line = dataLines.FirstOrDefault();
+        foreach (string line in dataLines) {
+            // string line = dataLines.FirstOrDefault();
         
             string[] values = line.Split(',');
             string name = values[0];
@@ -100,7 +100,7 @@ public class DataSeeder
             };
 
             _dbContext.Products.Add(product);
-        
+        }
 
         _dbContext.SaveChanges();
     }
