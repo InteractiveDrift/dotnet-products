@@ -9,7 +9,6 @@ seeder.SeedProducersFromCsv("Data/products/Products-producers.csv");
 seeder.SeedSuppliersFromCsv("Data/products/Products-suppliers.csv");
 seeder.SeedProductsFromCsv("Data/products/Products-products.csv");
 
-
 // var builder = WebApplication.CreateBuilder(args);
 
 // // Add services to the container.

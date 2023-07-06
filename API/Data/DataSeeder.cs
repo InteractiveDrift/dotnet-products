@@ -6,6 +6,8 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
+namespace API.Data;
+
 public class DataSeeder
 {
     private readonly ProductsContext _dbContext;
@@ -42,7 +44,7 @@ public class DataSeeder
             string originCountryName = values[14];
             string producerName = values[15];
             string supplierName = values[16];
-            long? vintage = string.IsNullOrEmpty(values[17]) ? null : ParseLongValue(values[17]);
+            long vintage = ParseLongValue(values[17]);
             string alcoholContent = values[18];
             string assortmentCode = values[19];
             string assortmentText = values[20];
@@ -68,7 +70,7 @@ public class DataSeeder
                 .FirstOrDefault();
 
             // Create the product entity and set the properties
-            Product product = new Product
+            Product product = new()
             {
                 Name = name,
                 Description = description,
@@ -228,7 +230,7 @@ public class DataSeeder
 
     private static long ParseLongValue(string value)
     {
-        if (long.TryParse(value, out int result))
+        if (long.TryParse(value, out long result))
         {
             return result;
         }
