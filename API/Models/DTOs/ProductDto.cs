@@ -12,7 +12,7 @@ public class ProductDto
 
     public string Deposit { get; set; } = null!;
 
-    public long VolymInml { get; set; }
+    public long? VolymInml { get; set; }
 
     public string PricePerLiter { get; set; } = null!;
 
@@ -38,7 +38,7 @@ public class ProductDto
 
     public string SupplierName { get; set; } = null!;
 
-    public long Vintage { get; set; }
+    public long? Vintage { get; set; }
 
     public string AlcoholContent { get; set; } = null!;
 

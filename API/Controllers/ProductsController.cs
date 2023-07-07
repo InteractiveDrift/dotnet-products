@@ -34,20 +34,56 @@ namespace API.Controllers
 
         // GET: api/Products/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<Product>> GetProduct(long id)
+        [ProducesResponseType(typeof(ProductDto), StatusCodes.Status200OK)]
+        public Task<ActionResult<Product>> GetProduct(long id)
         {
-            if (_context.Products == null)
-            {
-                return NotFound();
-            }
-            var product = await _context.Products.FindAsync(id);
+            Product? product = _context.Products
+                .Include(p => p.Producer)
+                .Include(p => p.Supplier)
+                .Include(p => p.ProductGroup)
+                .FirstOrDefault(p => p.Id == id);
 
             if (product == null)
             {
-                return NotFound();
+                return Task.FromResult<ActionResult<Product>>(Problem("Product or related field is null"));
             }
 
-            return product;
+            // Map the Product entity to a ProductDto
+            ProductDto productDto = new()
+            {
+                Id = product.Id,
+                Name = product.Name,
+                Description = product.Description,
+                Price = product.Price,
+                Deposit = product.Deposit,
+                VolymInml = product.VolymInml,
+                PricePerLiter = product.PricePerLiter,
+                SalesStart = product.SalesStart,
+                Discontinued = product.Discontinued != null && product.Discontinued != 0,
+                ProductGroupName = product.ProductGroup.Name,
+                Type = product.Type,
+                Style = product.Style,
+                Packaging = product.Packaging,
+                SealType = product.SealType,
+                Origin = product.Origin,
+                OriginCountryName = product.OriginCountryName,
+                ProducerName = product.Producer.Name,
+                SupplierName = product.Supplier.Name,
+                Vintage = product.Vintage,
+                AlcoholContent = product.AlcoholContent,
+                AssortmentCode = product.AssortmentCode,
+                AssortmentText = product.AssortmentText,
+                Organic = product.Organic != null && product.Organic != 0,
+                Ethical = product.Ethical != null && product.Ethical != 0,
+                Kosher = product.Kosher != null && product.Kosher != 0,
+                RawMaterialsDescription = product.RawMaterialsDescription
+            };
+            if (_context.Products == null)
+            {
+                return Task.FromResult<ActionResult<Product>>(NotFound());
+            }
+
+            return Task.FromResult<ActionResult<Product>>(product);
         }
 
         // PUT: api/Products/5
@@ -94,7 +130,7 @@ namespace API.Controllers
 
             Producer? existingProducer = productDto.ProducerName != null ? _context.Producers.FirstOrDefault(p => p.Name == productDto.ProducerName) : null;
             Supplier? existingSupplier = productDto.SupplierName != null ? _context.Suppliers.FirstOrDefault(s => s.Name == productDto.SupplierName) : null;
-            ProductGroup? existingProductGroup = productDto.ProductGroupName != null ? _context.ProductGroups.FirstOrDefault(s => s.Name == productDto.ProductGroupName) : null;
+            ProductGroup? existingProductGroup = productDto.ProductGroupName != null ? _context.ProductGroups.FirstOrDefault(pg => pg.Name == productDto.ProductGroupName) : null;
 
             // Check if any of the entities don't exist
             if (existingProducer == null || existingSupplier == null || existingProductGroup == null)
@@ -103,7 +139,7 @@ namespace API.Controllers
                 return NotFound("One or more required entities do not exist.");
             }
 
-            Product product = new Product
+            Product product = new()
             {
                 Name = productDto.Name,
                 Description = productDto.Description,
