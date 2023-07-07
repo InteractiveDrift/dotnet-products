@@ -17,93 +17,93 @@ public class DataSeeder
         _dbContext = dbContext;
     }
 
-   public void SeedProductsFromCsv(string csvFilePath)
-    {
-        string[] lines = File.ReadAllLines(csvFilePath);
+//    public void SeedProductsFromCsv(string csvFilePath)
+//     {
+//         string[] lines = File.ReadAllLines(csvFilePath);
 
-        IEnumerable<string> dataLines = GetCsvDataLines(lines);
+//         IEnumerable<string> dataLines = GetCsvDataLines(lines);
 
-        foreach (string line in dataLines) {
-            // string line = dataLines.FirstOrDefault();
+//         foreach (string line in dataLines) {
+//             // string line = dataLines.FirstOrDefault();
         
-            string[] values = line.Split(',');
-            string name = values[0];
-            string description = values[1];
-            string price = values[2];
-            string deposit = values[3];
-            int volymInMl = ParseIntValue(values[4]);
-            string pricePerLiter = values[5];
-            string salesStart = values[6];
-            long discontinued = ParseLongValue(values[7]);
-            string productGroupName = values[8];
-            string type = values[9];
-            string style = values[10];
-            string packaging = values[11];
-            string sealType = values[12];
-            string origin = values[13];
-            string originCountryName = values[14];
-            string producerName = values[15];
-            string supplierName = values[16];
-            long vintage = ParseLongValue(values[17]);
-            string alcoholContent = values[18];
-            string assortmentCode = values[19];
-            string assortmentText = values[20];
-            long organic = ParseLongValue(values[21]);
-            long ethical = ParseLongValue(values[22]);
-            long kosher = ParseLongValue(values[23]);
-            string rawMaterialsDescription = values[24];
+//             string[] values = line.Split(',');
+//             string name = values[0];
+//             string description = values[1];
+//             string price = values[2];
+//             string deposit = values[3];
+//             int volymInMl = ParseIntValue(values[4]);
+//             string pricePerLiter = values[5];
+//             string salesStart = values[6];
+//             long discontinued = ParseLongValue(values[7]);
+//             string productGroupName = values[8];
+//             string type = values[9];
+//             string style = values[10];
+//             string packaging = values[11];
+//             string sealType = values[12];
+//             string origin = values[13];
+//             string originCountryName = values[14];
+//             string producerName = values[15];
+//             string supplierName = values[16];
+//             long vintage = ParseLongValue(values[17]);
+//             string alcoholContent = values[18];
+//             string assortmentCode = values[19];
+//             string assortmentText = values[20];
+//             long organic = ParseLongValue(values[21]);
+//             long ethical = ParseLongValue(values[22]);
+//             long kosher = ParseLongValue(values[23]);
+//             string rawMaterialsDescription = values[24];
 
-            // Get the IDs of the associated entities
-            long productGroupId = _dbContext.ProductGroups
-                .Where(pg => pg.Name == productGroupName)
-                .Select(pg => pg.Id)
-                .FirstOrDefault();
+//             // Get the IDs of the associated entities
+//             long productGroupId = _dbContext.ProductGroups
+//                 .Where(pg => pg.Name == productGroupName)
+//                 .Select(pg => pg.Id)
+//                 .FirstOrDefault();
 
-            long supplierId = _dbContext.Suppliers
-                .Where(s => s.Name == supplierName)
-                .Select(s => s.Id)
-                .FirstOrDefault();
+//             long supplierId = _dbContext.Suppliers
+//                 .Where(s => s.Name == supplierName)
+//                 .Select(s => s.Id)
+//                 .FirstOrDefault();
 
-            long producerId = _dbContext.Producers
-                .Where(p => p.Name == producerName)
-                .Select(p => p.Id)
-                .FirstOrDefault();
+//             long producerId = _dbContext.Producers
+//                 .Where(p => p.Name == producerName)
+//                 .Select(p => p.Id)
+//                 .FirstOrDefault();
 
-            // Create the product entity and set the properties
-            Product product = new()
-            {
-                Name = name,
-                Description = description,
-                Price = price,
-                Deposit = deposit,
-                VolymInml = volymInMl,
-                PricePerLiter = pricePerLiter,
-                SalesStart = salesStart,
-                Discontinued = discontinued,
-                ProductGroupId = productGroupId,
-                Type = type,
-                Style = style,
-                Packaging = packaging,
-                SealType = sealType,
-                Origin = origin,
-                OriginCountryName = originCountryName,
-                ProducerId = producerId,
-                SupplierId = supplierId,
-                Vintage = vintage,
-                AlcoholContent = alcoholContent,
-                AssortmentCode = assortmentCode,
-                AssortmentText = assortmentText,
-                Organic = organic,
-                Ethical = ethical,
-                Kosher = kosher,
-                RawMaterialsDescription = rawMaterialsDescription
-            };
+//             // Create the product entity and set the properties
+//             Product product = new()
+//             {
+//                 Name = name,
+//                 Description = description,
+//                 Price = price,
+//                 Deposit = deposit,
+//                 VolymInml = volymInMl,
+//                 PricePerLiter = pricePerLiter,
+//                 SalesStart = salesStart,
+//                 Discontinued = discontinued,
+//                 ProductGroupId = productGroupId,
+//                 Type = type,
+//                 Style = style,
+//                 Packaging = packaging,
+//                 SealType = sealType,
+//                 Origin = origin,
+//                 OriginCountryName = originCountryName,
+//                 ProducerId = producerId,
+//                 SupplierId = supplierId,
+//                 Vintage = vintage,
+//                 AlcoholContent = alcoholContent,
+//                 AssortmentCode = assortmentCode,
+//                 AssortmentText = assortmentText,
+//                 Organic = organic,
+//                 Ethical = ethical,
+//                 Kosher = kosher,
+//                 RawMaterialsDescription = rawMaterialsDescription
+//             };
 
-            _dbContext.Products.Add(product);
-        }
+//             _dbContext.Products.Add(product);
+//         }
 
-        _dbContext.SaveChanges();
-    }
+//         _dbContext.SaveChanges();
+//     }
 
     public void SeedProductGroupsFromCsv(string csvFilePath)
     {

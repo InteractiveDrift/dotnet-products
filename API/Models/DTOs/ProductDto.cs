@@ -1,26 +1,29 @@
-﻿namespace API.Models;
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace API.Models;
 
 public class ProductDto
 {
     public long Id { get; set; }
 
-    public string Name { get; set; } = null!;
+    [Required]
+    public string? Name { get; set; } = null!;
 
     public string? Description { get; set; }
 
-    public string Price { get; set; } = null!;
+    public decimal Price { get; set; }
 
-    public string Deposit { get; set; } = null!;
+    public decimal Deposit { get; set; }
 
-    public long? VolymInml { get; set; }
+    public int? VolymInml { get; set; }
 
-    public string PricePerLiter { get; set; } = null!;
+    public decimal PricePerLiter { get; set; }
 
-    public string SalesStart { get; set; } = null!;
+    public DateTime SalesStart { get; set; }
 
-    public bool Discontinued { get; set; }
+    public bool? Discontinued { get; set; }
 
-    public string ProductGroupName { get; set; } = null!;
+    public string? ProductGroupName { get; set; }
 
     public string? Type { get; set; }
 
@@ -34,23 +37,23 @@ public class ProductDto
 
     public string? OriginCountryName { get; set; }
 
-    public string ProducerName { get; set; } = null!;
+    public string? ProducerName { get; set; } = null!;
 
-    public string SupplierName { get; set; } = null!;
+    public string? SupplierName { get; set; } = null!;
 
-    public long? Vintage { get; set; }
+    public int? Vintage { get; set; }
 
-    public string AlcoholContent { get; set; } = null!;
+    public decimal AlcoholContent { get; set; }
 
     public string? AssortmentCode { get; set; }
 
     public string? AssortmentText { get; set; }
 
-    public bool Organic { get; set; }
+    public bool? Organic { get; set; }
 
-    public bool Ethical { get; set; }
+    public bool? Ethical { get; set; }
 
-    public bool Kosher { get; set; }
+    public bool? Kosher { get; set; }
 
     public string? RawMaterialsDescription { get; set; }
 }
