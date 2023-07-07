@@ -91,21 +91,7 @@ namespace API.Controllers
             {
                 return Problem("Entity set 'ProductsContext.Products'  is null.");
             }
-            // Retrieve the existing entities
-            // long existingProductGroupId = _context.Producers
-            //     .Where(pg => pg.Name == productDto.ProducerName)
-            //     .Select(pg => pg.Id)
-            //     .FirstOrDefault();
 
-            // long existingSupplierId = _context.Suppliers
-            //     .Where(s => s.Name == productDto.SupplierName)
-            //     .Select(s => s.Id)
-            //     .FirstOrDefault();
-
-            // long existingProducerId = _context.ProductGroups
-            //     .Where(p => p.Name == productDto.ProductGroupName)
-            //     .Select(p => p.Id)
-            //     .FirstOrDefault();
             Producer? existingProducer = productDto.ProducerName != null ? _context.Producers.FirstOrDefault(p => p.Name == productDto.ProducerName) : null;
             Supplier? existingSupplier = productDto.SupplierName != null ? _context.Suppliers.FirstOrDefault(s => s.Name == productDto.SupplierName) : null;
             ProductGroup? existingProductGroup = productDto.ProductGroupName != null ? _context.ProductGroups.FirstOrDefault(s => s.Name == productDto.ProductGroupName) : null;
@@ -147,20 +133,6 @@ namespace API.Controllers
                 Supplier = existingSupplier,
                 ProductGroup = existingProductGroup
             };
-
-            // product.SupplierId = existingSupplierId;
-            // product.ProductGroupId = existingProductGroupId;
-            // product.ProducerId = existingProducerId;
-
-            // Producer existingProducer = product.Producer != null ? _context.Producers.FirstOrDefault(p => p.Name == product.Producer.Name) : null;
-            // Supplier existingSupplier = _context.Suppliers.FirstOrDefault(s => s.Name == product.Supplier.Name);
-            // ProductGroup existingProductGroup = _context.ProductGroups.FirstOrDefault(pg => pg.Name == product.ProductGroup.Name);
-
-            // Check if any of the entities don't exist
-            // if (existingProductGroupId == null || existingSupplierId == null || existingProducerId == null)
-            // {
-            //     return NotFound("One or more required entities do not exist.");
-            // }
 
             _context.Products.Add(product);
             await _context.SaveChangesAsync();
