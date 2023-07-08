@@ -3,3 +3,5 @@ bin
 obj
 .vscode
 API/.DS_Store
+Client/App/.angular
+Dummy
