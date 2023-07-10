@@ -289,7 +289,6 @@
     <None Include="App/.angular/cache/15.2.9/babel-webpack/fd75bffd3cdbdcbdd9e18517c04d8de6baab157cf74f4c94994fac993a85fa88.json" />
     <None Include="App/.angular/cache/15.2.9/babel-webpack/ff9f5a546b8f1b688bde595620c5e6d6adf9fe1f4e0299c0541116a86212fa52.json" />
     <None Include="App/angular.json" />
-    <None Include="App/package-lock.json" />
     <None Include="App/package.json" />
     <None Include="App/tsconfig.app.json" />
     <None Include="App/tsconfig.json" />
